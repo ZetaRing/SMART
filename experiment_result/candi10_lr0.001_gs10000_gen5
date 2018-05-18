@@ -1,0 +1,8 @@
+Filling queue with 20000 CIFAR images before starting to train. This will take a few minutes.
+step 100, moving_avg_acc 0.343395
+step 200, moving_avg_acc 0.395853
+step 300, moving_avg_acc 0.422784
+step 400, moving_avg_acc 0.447380
+step 500, moving_avg_acc 0.460474
+step 600, moving_avg_acc 0.472200
+step 700, moving_avg_acc 0.473437

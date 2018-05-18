@@ -1,0 +1,4060 @@
+...cifar_input...
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.346622
+step 200, current_acc 0.358843
+step 300, current_acc 0.374491
+step 400, current_acc 0.384803
+step 500, current_acc 0.402603
+step 600, current_acc 0.404359
+step 700, current_acc 0.401484
+step 800, current_acc 0.411226
+step 900, current_acc 0.411441
+step 1000, current_acc 0.410404
+step 1100, current_acc 0.421375
+step 1200, current_acc 0.421149
+step 1300, current_acc 0.423273
+step 1400, current_acc 0.427011
+step 1500, current_acc 0.431850
+step 1600, current_acc 0.434770
+step 1700, current_acc 0.437085
+step 1800, current_acc 0.438268
+step 1900, current_acc 0.437384
+step 2000, current_acc 0.436198
+step 2100, current_acc 0.439797
+step 2200, current_acc 0.443231
+step 2300, current_acc 0.442933
+step 2400, current_acc 0.444786
+step 2500, current_acc 0.445567
+step 2600, current_acc 0.446356
+step 2700, current_acc 0.447419
+step 2800, current_acc 0.447792
+step 2900, current_acc 0.448764
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.355033
+step 200, current_acc 0.383025
+step 300, current_acc 0.387787
+step 400, current_acc 0.405556
+step 500, current_acc 0.409352
+step 600, current_acc 0.416664
+step 700, current_acc 0.418270
+step 800, current_acc 0.423445
+step 900, current_acc 0.426769
+step 1000, current_acc 0.429522
+step 1100, current_acc 0.433514
+step 1200, current_acc 0.435013
+step 1300, current_acc 0.437751
+step 1400, current_acc 0.435340
+step 1500, current_acc 0.441476
+step 1600, current_acc 0.444742
+step 1700, current_acc 0.444476
+step 1800, current_acc 0.448246
+step 1900, current_acc 0.445031
+step 2000, current_acc 0.445944
+step 2100, current_acc 0.451077
+step 2200, current_acc 0.453657
+step 2300, current_acc 0.456169
+step 2400, current_acc 0.457319
+step 2500, current_acc 0.457541
+step 2600, current_acc 0.457710
+step 2700, current_acc 0.458643
+step 2800, current_acc 0.460371
+step 2900, current_acc 0.460564
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.346883
+step 200, current_acc 0.362763
+step 300, current_acc 0.392245
+step 400, current_acc 0.398329
+step 500, current_acc 0.410891
+step 600, current_acc 0.410656
+step 700, current_acc 0.416428
+step 800, current_acc 0.423797
+step 900, current_acc 0.428088
+step 1000, current_acc 0.431408
+step 1100, current_acc 0.435140
+step 1200, current_acc 0.441568
+step 1300, current_acc 0.440644
+step 1400, current_acc 0.442210
+step 1500, current_acc 0.444652
+step 1600, current_acc 0.447113
+step 1700, current_acc 0.446683
+step 1800, current_acc 0.445854
+step 1900, current_acc 0.445045
+step 2000, current_acc 0.447466
+step 2100, current_acc 0.446975
+step 2200, current_acc 0.451476
+step 2300, current_acc 0.456023
+step 2400, current_acc 0.456037
+step 2500, current_acc 0.457302
+step 2600, current_acc 0.456341
+step 2700, current_acc 0.456729
+step 2800, current_acc 0.459154
+step 2900, current_acc 0.459246
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.333881
+step 200, current_acc 0.364944
+step 300, current_acc 0.396780
+step 400, current_acc 0.397091
+step 500, current_acc 0.407651
+step 600, current_acc 0.413705
+step 700, current_acc 0.415424
+step 800, current_acc 0.420476
+step 900, current_acc 0.421989
+step 1000, current_acc 0.423544
+step 1100, current_acc 0.428792
+step 1200, current_acc 0.432488
+step 1300, current_acc 0.435598
+step 1400, current_acc 0.436003
+step 1500, current_acc 0.440989
+step 1600, current_acc 0.440818
+step 1700, current_acc 0.440586
+step 1800, current_acc 0.445841
+step 1900, current_acc 0.446305
+step 2000, current_acc 0.449080
+step 2100, current_acc 0.448527
+step 2200, current_acc 0.450538
+step 2300, current_acc 0.451434
+step 2400, current_acc 0.451088
+step 2500, current_acc 0.453541
+step 2600, current_acc 0.454762
+step 2700, current_acc 0.454903
+step 2800, current_acc 0.453431
+step 2900, current_acc 0.456493
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.360217
+step 200, current_acc 0.386314
+step 300, current_acc 0.411373
+step 400, current_acc 0.412634
+step 500, current_acc 0.428395
+step 600, current_acc 0.424774
+step 700, current_acc 0.431379
+step 800, current_acc 0.439487
+step 900, current_acc 0.443668
+step 1000, current_acc 0.443044
+step 1100, current_acc 0.446047
+step 1200, current_acc 0.450377
+step 1300, current_acc 0.453478
+step 1400, current_acc 0.456167
+step 1500, current_acc 0.457729
+step 1600, current_acc 0.457108
+step 1700, current_acc 0.460511
+step 1800, current_acc 0.464947
+step 1900, current_acc 0.464379
+step 2000, current_acc 0.465704
+step 2100, current_acc 0.466929
+step 2200, current_acc 0.467848
+step 2300, current_acc 0.469765
+step 2400, current_acc 0.472475
+step 2500, current_acc 0.474844
+step 2600, current_acc 0.477171
+step 2700, current_acc 0.476210
+step 2800, current_acc 0.476702
+step 2900, current_acc 0.477964
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.340406
+step 200, current_acc 0.381451
+step 300, current_acc 0.393609
+step 400, current_acc 0.409333
+step 500, current_acc 0.415162
+step 600, current_acc 0.420368
+step 700, current_acc 0.430379
+step 800, current_acc 0.429800
+step 900, current_acc 0.433310
+step 1000, current_acc 0.437764
+step 1100, current_acc 0.441877
+step 1200, current_acc 0.443184
+step 1300, current_acc 0.446048
+step 1400, current_acc 0.451078
+step 1500, current_acc 0.451040
+step 1600, current_acc 0.451266
+step 1700, current_acc 0.450868
+step 1800, current_acc 0.451316
+step 1900, current_acc 0.451954
+step 2000, current_acc 0.455461
+step 2100, current_acc 0.455747
+step 2200, current_acc 0.459480
+step 2300, current_acc 0.461793
+step 2400, current_acc 0.463898
+step 2500, current_acc 0.465236
+step 2600, current_acc 0.466352
+step 2700, current_acc 0.467120
+step 2800, current_acc 0.468071
+step 2900, current_acc 0.469822
+-----------------evolution results---------------- 
+[0.45018977, 0.45901513, 0.46095854, 0.45670098, 0.47837946, 0.46905816]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+1
+module number in each layer: 
+[0, 0, 20]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+generation: 0, training_avg_acc: 0.478379, time_cost: 1723.185563 s
+
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.318323
+step 200, current_acc 0.366176
+step 300, current_acc 0.397039
+step 400, current_acc 0.412478
+step 500, current_acc 0.433935
+step 600, current_acc 0.448604
+step 700, current_acc 0.459294
+step 800, current_acc 0.469321
+step 900, current_acc 0.479146
+step 1000, current_acc 0.485916
+step 1100, current_acc 0.497917
+step 1200, current_acc 0.507109
+step 1300, current_acc 0.513762
+step 1400, current_acc 0.518449
+step 1500, current_acc 0.526928
+step 1600, current_acc 0.531816
+step 1700, current_acc 0.535660
+step 1800, current_acc 0.543887
+step 1900, current_acc 0.547551
+step 2000, current_acc 0.551643
+step 2100, current_acc 0.555483
+step 2200, current_acc 0.560694
+step 2300, current_acc 0.561471
+step 2400, current_acc 0.563714
+step 2500, current_acc 0.566468
+step 2600, current_acc 0.568667
+step 2700, current_acc 0.571803
+step 2800, current_acc 0.574116
+step 2900, current_acc 0.578469
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.293337
+step 200, current_acc 0.368740
+step 300, current_acc 0.388922
+step 400, current_acc 0.415038
+step 500, current_acc 0.431490
+step 600, current_acc 0.436946
+step 700, current_acc 0.455099
+step 800, current_acc 0.464340
+step 900, current_acc 0.478842
+step 1000, current_acc 0.486344
+step 1100, current_acc 0.495901
+step 1200, current_acc 0.509092
+step 1300, current_acc 0.511424
+step 1400, current_acc 0.513843
+step 1500, current_acc 0.519243
+step 1600, current_acc 0.525805
+step 1700, current_acc 0.532200
+step 1800, current_acc 0.536137
+step 1900, current_acc 0.539642
+step 2000, current_acc 0.545413
+step 2100, current_acc 0.551907
+step 2200, current_acc 0.556090
+step 2300, current_acc 0.558061
+step 2400, current_acc 0.561450
+step 2500, current_acc 0.565692
+step 2600, current_acc 0.570684
+step 2700, current_acc 0.572893
+step 2800, current_acc 0.575727
+step 2900, current_acc 0.579905
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.256845
+step 200, current_acc 0.330803
+step 300, current_acc 0.378575
+step 400, current_acc 0.412987
+step 500, current_acc 0.433690
+step 600, current_acc 0.451304
+step 700, current_acc 0.463769
+step 800, current_acc 0.470415
+step 900, current_acc 0.476052
+step 1000, current_acc 0.487683
+step 1100, current_acc 0.493308
+step 1200, current_acc 0.502692
+step 1300, current_acc 0.509576
+step 1400, current_acc 0.516257
+step 1500, current_acc 0.518729
+step 1600, current_acc 0.523479
+step 1700, current_acc 0.528357
+step 1800, current_acc 0.530308
+step 1900, current_acc 0.534271
+step 2000, current_acc 0.538441
+step 2100, current_acc 0.542721
+step 2200, current_acc 0.545370
+step 2300, current_acc 0.547906
+step 2400, current_acc 0.551099
+step 2500, current_acc 0.553986
+step 2600, current_acc 0.556804
+step 2700, current_acc 0.559507
+step 2800, current_acc 0.563763
+step 2900, current_acc 0.565765
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.345706
+step 200, current_acc 0.392931
+step 300, current_acc 0.398524
+step 400, current_acc 0.408632
+step 500, current_acc 0.411707
+step 600, current_acc 0.411852
+step 700, current_acc 0.418653
+step 800, current_acc 0.420258
+step 900, current_acc 0.430428
+step 1000, current_acc 0.428227
+step 1100, current_acc 0.432449
+step 1200, current_acc 0.436938
+step 1300, current_acc 0.440390
+step 1400, current_acc 0.444450
+step 1500, current_acc 0.443174
+step 1600, current_acc 0.440675
+step 1700, current_acc 0.445916
+step 1800, current_acc 0.447595
+step 1900, current_acc 0.450237
+step 2000, current_acc 0.450269
+step 2100, current_acc 0.455965
+step 2200, current_acc 0.456352
+step 2300, current_acc 0.457543
+step 2400, current_acc 0.461254
+step 2500, current_acc 0.460424
+step 2600, current_acc 0.459660
+step 2700, current_acc 0.460979
+step 2800, current_acc 0.461619
+step 2900, current_acc 0.463438
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.267520
+step 200, current_acc 0.336205
+step 300, current_acc 0.381737
+step 400, current_acc 0.406721
+step 500, current_acc 0.435273
+step 600, current_acc 0.456188
+step 700, current_acc 0.465386
+step 800, current_acc 0.474914
+step 900, current_acc 0.487404
+step 1000, current_acc 0.489449
+step 1100, current_acc 0.499842
+step 1200, current_acc 0.507995
+step 1300, current_acc 0.512232
+step 1400, current_acc 0.513922
+step 1500, current_acc 0.518527
+step 1600, current_acc 0.520723
+step 1700, current_acc 0.526311
+step 1800, current_acc 0.528049
+step 1900, current_acc 0.534511
+step 2000, current_acc 0.537404
+step 2100, current_acc 0.540680
+step 2200, current_acc 0.544234
+step 2300, current_acc 0.548709
+step 2400, current_acc 0.552290
+step 2500, current_acc 0.555874
+step 2600, current_acc 0.558437
+step 2700, current_acc 0.559861
+step 2800, current_acc 0.561840
+step 2900, current_acc 0.564841
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.337167
+step 200, current_acc 0.372317
+step 300, current_acc 0.380528
+step 400, current_acc 0.391902
+step 500, current_acc 0.409911
+step 600, current_acc 0.409671
+step 700, current_acc 0.412485
+step 800, current_acc 0.412043
+step 900, current_acc 0.422146
+step 1000, current_acc 0.423356
+step 1100, current_acc 0.429133
+step 1200, current_acc 0.432618
+step 1300, current_acc 0.432784
+step 1400, current_acc 0.432480
+step 1500, current_acc 0.433922
+step 1600, current_acc 0.435438
+step 1700, current_acc 0.438217
+step 1800, current_acc 0.441176
+step 1900, current_acc 0.442125
+step 2000, current_acc 0.442368
+step 2100, current_acc 0.441931
+step 2200, current_acc 0.446543
+step 2300, current_acc 0.447063
+step 2400, current_acc 0.446909
+step 2500, current_acc 0.447646
+step 2600, current_acc 0.448566
+step 2700, current_acc 0.450016
+step 2800, current_acc 0.449697
+step 2900, current_acc 0.450197
+-----------------evolution results---------------- 
+[0.5806824, 0.58261454, 0.5672625, 0.46304026, 0.5673174, 0.45140463]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+2
+module number in each layer: 
+[3, 2, 17, 8]
+filter number in each module: only first evolution result is vaild !!!!!!
+18
+
+generation: 1, training_avg_acc: 0.582615, time_cost: 1843.373492 s
+
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.362866
+step 200, current_acc 0.418040
+step 300, current_acc 0.459477
+step 400, current_acc 0.479241
+step 500, current_acc 0.500940
+step 600, current_acc 0.512352
+step 700, current_acc 0.518033
+step 800, current_acc 0.530216
+step 900, current_acc 0.541145
+step 1000, current_acc 0.541484
+step 1100, current_acc 0.553059
+step 1200, current_acc 0.556649
+step 1300, current_acc 0.561004
+step 1400, current_acc 0.565109
+step 1500, current_acc 0.571218
+step 1600, current_acc 0.573409
+step 1700, current_acc 0.577391
+step 1800, current_acc 0.583820
+step 1900, current_acc 0.585997
+step 2000, current_acc 0.588760
+step 2100, current_acc 0.592395
+step 2200, current_acc 0.597999
+step 2300, current_acc 0.600499
+step 2400, current_acc 0.605174
+step 2500, current_acc 0.606348
+step 2600, current_acc 0.608517
+step 2700, current_acc 0.609470
+step 2800, current_acc 0.610919
+step 2900, current_acc 0.613673
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.259027
+step 200, current_acc 0.359970
+step 300, current_acc 0.425520
+step 400, current_acc 0.461080
+step 500, current_acc 0.488585
+step 600, current_acc 0.497396
+step 700, current_acc 0.511132
+step 800, current_acc 0.521766
+step 900, current_acc 0.529744
+step 1000, current_acc 0.533492
+step 1100, current_acc 0.536266
+step 1200, current_acc 0.543787
+step 1300, current_acc 0.553373
+step 1400, current_acc 0.558169
+step 1500, current_acc 0.565802
+step 1600, current_acc 0.570816
+step 1700, current_acc 0.575712
+step 1800, current_acc 0.579508
+step 1900, current_acc 0.585521
+step 2000, current_acc 0.588118
+step 2100, current_acc 0.593628
+step 2200, current_acc 0.601109
+step 2300, current_acc 0.604013
+step 2400, current_acc 0.609261
+step 2500, current_acc 0.611862
+step 2600, current_acc 0.614691
+step 2700, current_acc 0.617732
+step 2800, current_acc 0.620598
+step 2900, current_acc 0.622560
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.268124
+step 200, current_acc 0.351204
+step 300, current_acc 0.369975
+step 400, current_acc 0.398106
+step 500, current_acc 0.428774
+step 600, current_acc 0.442466
+step 700, current_acc 0.459893
+step 800, current_acc 0.472132
+step 900, current_acc 0.473067
+step 1000, current_acc 0.487452
+step 1100, current_acc 0.495482
+step 1200, current_acc 0.504822
+step 1300, current_acc 0.511827
+step 1400, current_acc 0.516868
+step 1500, current_acc 0.524137
+step 1600, current_acc 0.525637
+step 1700, current_acc 0.530746
+step 1800, current_acc 0.536673
+step 1900, current_acc 0.540076
+step 2000, current_acc 0.543572
+step 2100, current_acc 0.548343
+step 2200, current_acc 0.553313
+step 2300, current_acc 0.557630
+step 2400, current_acc 0.559415
+step 2500, current_acc 0.562212
+step 2600, current_acc 0.565825
+step 2700, current_acc 0.567534
+step 2800, current_acc 0.571088
+step 2900, current_acc 0.574101
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.305928
+step 200, current_acc 0.372517
+step 300, current_acc 0.430918
+step 400, current_acc 0.472713
+step 500, current_acc 0.490493
+step 600, current_acc 0.507709
+step 700, current_acc 0.517233
+step 800, current_acc 0.525873
+step 900, current_acc 0.530945
+step 1000, current_acc 0.541836
+step 1100, current_acc 0.545844
+step 1200, current_acc 0.552964
+step 1300, current_acc 0.556010
+step 1400, current_acc 0.561403
+step 1500, current_acc 0.564773
+step 1600, current_acc 0.572267
+step 1700, current_acc 0.573733
+step 1800, current_acc 0.575018
+step 1900, current_acc 0.580521
+step 2000, current_acc 0.579719
+step 2100, current_acc 0.583575
+step 2200, current_acc 0.588658
+step 2300, current_acc 0.591271
+step 2400, current_acc 0.594299
+step 2500, current_acc 0.595237
+step 2600, current_acc 0.596972
+step 2700, current_acc 0.600524
+step 2800, current_acc 0.602512
+step 2900, current_acc 0.602924
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.295058
+step 200, current_acc 0.350072
+step 300, current_acc 0.389517
+step 400, current_acc 0.411069
+step 500, current_acc 0.427853
+step 600, current_acc 0.443485
+step 700, current_acc 0.459005
+step 800, current_acc 0.463275
+step 900, current_acc 0.474949
+step 1000, current_acc 0.482085
+step 1100, current_acc 0.483696
+step 1200, current_acc 0.494707
+step 1300, current_acc 0.502396
+step 1400, current_acc 0.510640
+step 1500, current_acc 0.513801
+step 1600, current_acc 0.521073
+step 1700, current_acc 0.525095
+step 1800, current_acc 0.526931
+step 1900, current_acc 0.528886
+step 2000, current_acc 0.533298
+step 2100, current_acc 0.536543
+step 2200, current_acc 0.543784
+step 2300, current_acc 0.547581
+step 2400, current_acc 0.552042
+step 2500, current_acc 0.556161
+step 2600, current_acc 0.557988
+step 2700, current_acc 0.560530
+step 2800, current_acc 0.561863
+step 2900, current_acc 0.562507
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.260572
+step 200, current_acc 0.330418
+step 300, current_acc 0.385952
+step 400, current_acc 0.406725
+step 500, current_acc 0.430461
+step 600, current_acc 0.446979
+step 700, current_acc 0.459886
+step 800, current_acc 0.470087
+step 900, current_acc 0.481285
+step 1000, current_acc 0.485762
+step 1100, current_acc 0.495577
+step 1200, current_acc 0.499135
+step 1300, current_acc 0.504032
+step 1400, current_acc 0.512274
+step 1500, current_acc 0.517517
+step 1600, current_acc 0.522655
+step 1700, current_acc 0.526128
+step 1800, current_acc 0.531633
+step 1900, current_acc 0.535033
+step 2000, current_acc 0.539420
+step 2100, current_acc 0.544353
+step 2200, current_acc 0.545807
+step 2300, current_acc 0.552319
+step 2400, current_acc 0.555546
+step 2500, current_acc 0.558109
+step 2600, current_acc 0.562503
+step 2700, current_acc 0.564417
+step 2800, current_acc 0.567368
+step 2900, current_acc 0.570553
+-----------------evolution results---------------- 
+[0.6164653, 0.62537235, 0.5769816, 0.6046441, 0.56381184, 0.5717768]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0]
+Used feature layer number: 
+2
+full connection layer number: 
+2
+module number in each layer: 
+[5, 4, 9, 14, 6]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 2, training_avg_acc: 0.625372, time_cost: 3432.464088 s
+
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.373942
+step 200, current_acc 0.447125
+step 300, current_acc 0.478037
+step 400, current_acc 0.501862
+step 500, current_acc 0.515514
+step 600, current_acc 0.527776
+step 700, current_acc 0.542370
+step 800, current_acc 0.548905
+step 900, current_acc 0.552373
+step 1000, current_acc 0.562574
+step 1100, current_acc 0.571306
+step 1200, current_acc 0.575860
+step 1300, current_acc 0.582143
+step 1400, current_acc 0.585143
+step 1500, current_acc 0.591470
+step 1600, current_acc 0.596005
+step 1700, current_acc 0.599478
+step 1800, current_acc 0.604294
+step 1900, current_acc 0.605546
+step 2000, current_acc 0.610515
+step 2100, current_acc 0.615270
+step 2200, current_acc 0.617691
+step 2300, current_acc 0.621575
+step 2400, current_acc 0.621691
+step 2500, current_acc 0.625498
+step 2600, current_acc 0.627705
+step 2700, current_acc 0.630405
+step 2800, current_acc 0.632940
+step 2900, current_acc 0.632232
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.271959
+step 200, current_acc 0.376814
+step 300, current_acc 0.425836
+step 400, current_acc 0.461512
+step 500, current_acc 0.483921
+step 600, current_acc 0.499864
+step 700, current_acc 0.505783
+step 800, current_acc 0.519592
+step 900, current_acc 0.525942
+step 1000, current_acc 0.531628
+step 1100, current_acc 0.540429
+step 1200, current_acc 0.547685
+step 1300, current_acc 0.554348
+step 1400, current_acc 0.562093
+step 1500, current_acc 0.568470
+step 1600, current_acc 0.576128
+step 1700, current_acc 0.583268
+step 1800, current_acc 0.590661
+step 1900, current_acc 0.593796
+step 2000, current_acc 0.599802
+step 2100, current_acc 0.607401
+step 2200, current_acc 0.610832
+step 2300, current_acc 0.614494
+step 2400, current_acc 0.621239
+step 2500, current_acc 0.623724
+step 2600, current_acc 0.627471
+step 2700, current_acc 0.628594
+step 2800, current_acc 0.632556
+step 2900, current_acc 0.633798
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.370509
+step 200, current_acc 0.405471
+step 300, current_acc 0.438382
+step 400, current_acc 0.452390
+step 500, current_acc 0.475594
+step 600, current_acc 0.482273
+step 700, current_acc 0.484575
+step 800, current_acc 0.494468
+step 900, current_acc 0.504370
+step 1000, current_acc 0.512680
+step 1100, current_acc 0.519734
+step 1200, current_acc 0.526063
+step 1300, current_acc 0.531420
+step 1400, current_acc 0.537969
+step 1500, current_acc 0.542053
+step 1600, current_acc 0.543565
+step 1700, current_acc 0.548211
+step 1800, current_acc 0.550206
+step 1900, current_acc 0.553725
+step 2000, current_acc 0.556073
+step 2100, current_acc 0.561729
+step 2200, current_acc 0.565813
+step 2300, current_acc 0.566340
+step 2400, current_acc 0.568044
+step 2500, current_acc 0.568055
+step 2600, current_acc 0.571175
+step 2700, current_acc 0.574480
+step 2800, current_acc 0.576219
+step 2900, current_acc 0.578685
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.352507
+step 200, current_acc 0.395053
+step 300, current_acc 0.418017
+step 400, current_acc 0.451174
+step 500, current_acc 0.471380
+step 600, current_acc 0.487206
+step 700, current_acc 0.500155
+step 800, current_acc 0.509060
+step 900, current_acc 0.514485
+step 1000, current_acc 0.526186
+step 1100, current_acc 0.532642
+step 1200, current_acc 0.539656
+step 1300, current_acc 0.543336
+step 1400, current_acc 0.543913
+step 1500, current_acc 0.547829
+step 1600, current_acc 0.553799
+step 1700, current_acc 0.559007
+step 1800, current_acc 0.557864
+step 1900, current_acc 0.560742
+step 2000, current_acc 0.564780
+step 2100, current_acc 0.568700
+step 2200, current_acc 0.570298
+step 2300, current_acc 0.572189
+step 2400, current_acc 0.573600
+step 2500, current_acc 0.574807
+step 2600, current_acc 0.578095
+step 2700, current_acc 0.579259
+step 2800, current_acc 0.580662
+step 2900, current_acc 0.583542
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.257761
+step 200, current_acc 0.341222
+step 300, current_acc 0.409380
+step 400, current_acc 0.451041
+step 500, current_acc 0.473956
+step 600, current_acc 0.491401
+step 700, current_acc 0.505465
+step 800, current_acc 0.520823
+step 900, current_acc 0.534068
+step 1000, current_acc 0.541935
+step 1100, current_acc 0.550783
+step 1200, current_acc 0.557014
+step 1300, current_acc 0.560805
+step 1400, current_acc 0.571790
+step 1500, current_acc 0.576366
+step 1600, current_acc 0.580895
+step 1700, current_acc 0.581018
+step 1800, current_acc 0.587363
+step 1900, current_acc 0.589492
+step 2000, current_acc 0.591837
+step 2100, current_acc 0.598137
+step 2200, current_acc 0.604385
+step 2300, current_acc 0.607521
+step 2400, current_acc 0.610362
+step 2500, current_acc 0.615101
+step 2600, current_acc 0.620434
+step 2700, current_acc 0.624861
+step 2800, current_acc 0.627791
+step 2900, current_acc 0.630029
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.299005
+step 200, current_acc 0.362034
+step 300, current_acc 0.391317
+step 400, current_acc 0.420826
+step 500, current_acc 0.431911
+step 600, current_acc 0.445915
+step 700, current_acc 0.460886
+step 800, current_acc 0.465483
+step 900, current_acc 0.477478
+step 1000, current_acc 0.487850
+step 1100, current_acc 0.492384
+step 1200, current_acc 0.500449
+step 1300, current_acc 0.506204
+step 1400, current_acc 0.513201
+step 1500, current_acc 0.517275
+step 1600, current_acc 0.519855
+step 1700, current_acc 0.524052
+step 1800, current_acc 0.528386
+step 1900, current_acc 0.532631
+step 2000, current_acc 0.532241
+step 2100, current_acc 0.537406
+step 2200, current_acc 0.543269
+step 2300, current_acc 0.546266
+step 2400, current_acc 0.551337
+step 2500, current_acc 0.556600
+step 2600, current_acc 0.556955
+step 2700, current_acc 0.559655
+step 2800, current_acc 0.563430
+step 2900, current_acc 0.564906
+-----------------evolution results---------------- 
+[0.63443536, 0.6346404, 0.58079356, 0.5844616, 0.63435, 0.5669667]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[5, 6, 8, 18, 11, 5]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 3, training_avg_acc: 0.634640, time_cost: 5007.537303 s
+
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.268751
+step 200, current_acc 0.367317
+step 300, current_acc 0.424373
+step 400, current_acc 0.457075
+step 500, current_acc 0.493252
+step 600, current_acc 0.512484
+step 700, current_acc 0.516812
+step 800, current_acc 0.532381
+step 900, current_acc 0.538387
+step 1000, current_acc 0.543427
+step 1100, current_acc 0.552231
+step 1200, current_acc 0.558076
+step 1300, current_acc 0.562952
+step 1400, current_acc 0.564538
+step 1500, current_acc 0.571053
+step 1600, current_acc 0.577461
+step 1700, current_acc 0.580434
+step 1800, current_acc 0.582722
+step 1900, current_acc 0.582416
+step 2000, current_acc 0.584801
+step 2100, current_acc 0.586820
+step 2200, current_acc 0.591728
+step 2300, current_acc 0.594632
+step 2400, current_acc 0.596827
+step 2500, current_acc 0.600404
+step 2600, current_acc 0.601828
+step 2700, current_acc 0.605881
+step 2800, current_acc 0.606003
+step 2900, current_acc 0.608641
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.321500
+step 200, current_acc 0.376197
+step 300, current_acc 0.421052
+step 400, current_acc 0.464640
+step 500, current_acc 0.487069
+step 600, current_acc 0.491596
+step 700, current_acc 0.508309
+step 800, current_acc 0.517888
+step 900, current_acc 0.529155
+step 1000, current_acc 0.531303
+step 1100, current_acc 0.542888
+step 1200, current_acc 0.547145
+step 1300, current_acc 0.557782
+step 1400, current_acc 0.561824
+step 1500, current_acc 0.563775
+step 1600, current_acc 0.565271
+step 1700, current_acc 0.570404
+step 1800, current_acc 0.575075
+step 1900, current_acc 0.575425
+step 2000, current_acc 0.577303
+step 2100, current_acc 0.581345
+step 2200, current_acc 0.585536
+step 2300, current_acc 0.587493
+step 2400, current_acc 0.589031
+step 2500, current_acc 0.590829
+step 2600, current_acc 0.593384
+step 2700, current_acc 0.596615
+step 2800, current_acc 0.598776
+step 2900, current_acc 0.599275
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.262492
+step 200, current_acc 0.325585
+step 300, current_acc 0.377928
+step 400, current_acc 0.428790
+step 500, current_acc 0.474713
+step 600, current_acc 0.492946
+step 700, current_acc 0.516226
+step 800, current_acc 0.529976
+step 900, current_acc 0.540887
+step 1000, current_acc 0.548226
+step 1100, current_acc 0.561062
+step 1200, current_acc 0.568958
+step 1300, current_acc 0.576256
+step 1400, current_acc 0.585141
+step 1500, current_acc 0.589204
+step 1600, current_acc 0.592088
+step 1700, current_acc 0.597894
+step 1800, current_acc 0.601255
+step 1900, current_acc 0.603198
+step 2000, current_acc 0.609510
+step 2100, current_acc 0.614892
+step 2200, current_acc 0.617634
+step 2300, current_acc 0.619976
+step 2400, current_acc 0.623335
+step 2500, current_acc 0.625687
+step 2600, current_acc 0.628375
+step 2700, current_acc 0.629556
+step 2800, current_acc 0.632961
+step 2900, current_acc 0.634686
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.374774
+step 200, current_acc 0.441171
+step 300, current_acc 0.486371
+step 400, current_acc 0.503609
+step 500, current_acc 0.522948
+step 600, current_acc 0.536525
+step 700, current_acc 0.535799
+step 800, current_acc 0.553993
+step 900, current_acc 0.561680
+step 1000, current_acc 0.563980
+step 1100, current_acc 0.573101
+step 1200, current_acc 0.575520
+step 1300, current_acc 0.579559
+step 1400, current_acc 0.589890
+step 1500, current_acc 0.592991
+step 1600, current_acc 0.596573
+step 1700, current_acc 0.598761
+step 1800, current_acc 0.601745
+step 1900, current_acc 0.606249
+step 2000, current_acc 0.608780
+step 2100, current_acc 0.616136
+step 2200, current_acc 0.618808
+step 2300, current_acc 0.619578
+step 2400, current_acc 0.622582
+step 2500, current_acc 0.622877
+step 2600, current_acc 0.625621
+step 2700, current_acc 0.627836
+step 2800, current_acc 0.629722
+step 2900, current_acc 0.631597
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.311259
+step 200, current_acc 0.368420
+step 300, current_acc 0.435485
+step 400, current_acc 0.470103
+step 500, current_acc 0.504811
+step 600, current_acc 0.513766
+step 700, current_acc 0.529221
+step 800, current_acc 0.539591
+step 900, current_acc 0.546435
+step 1000, current_acc 0.554504
+step 1100, current_acc 0.565134
+step 1200, current_acc 0.571025
+step 1300, current_acc 0.579881
+step 1400, current_acc 0.586291
+step 1500, current_acc 0.589015
+step 1600, current_acc 0.596689
+step 1700, current_acc 0.600076
+step 1800, current_acc 0.606688
+step 1900, current_acc 0.608251
+step 2000, current_acc 0.614529
+step 2100, current_acc 0.620719
+step 2200, current_acc 0.625037
+step 2300, current_acc 0.629924
+step 2400, current_acc 0.635895
+step 2500, current_acc 0.638768
+step 2600, current_acc 0.642748
+step 2700, current_acc 0.644678
+step 2800, current_acc 0.647442
+step 2900, current_acc 0.648956
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.328675
+step 200, current_acc 0.410406
+step 300, current_acc 0.463928
+step 400, current_acc 0.485118
+step 500, current_acc 0.502236
+step 600, current_acc 0.520097
+step 700, current_acc 0.525417
+step 800, current_acc 0.535714
+step 900, current_acc 0.542054
+step 1000, current_acc 0.554805
+step 1100, current_acc 0.563061
+step 1200, current_acc 0.569819
+step 1300, current_acc 0.577177
+step 1400, current_acc 0.577607
+step 1500, current_acc 0.584068
+step 1600, current_acc 0.584119
+step 1700, current_acc 0.590192
+step 1800, current_acc 0.594121
+step 1900, current_acc 0.596683
+step 2000, current_acc 0.599217
+step 2100, current_acc 0.601807
+step 2200, current_acc 0.603398
+step 2300, current_acc 0.607361
+step 2400, current_acc 0.609424
+step 2500, current_acc 0.610101
+step 2600, current_acc 0.612155
+step 2700, current_acc 0.616748
+step 2800, current_acc 0.617309
+step 2900, current_acc 0.618751
+-----------------evolution results---------------- 
+[0.61039054, 0.6003018, 0.6350383, 0.6331294, 0.6525098, 0.6216005]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[5, 8, 8, 15, 12, 5]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 4, training_avg_acc: 0.652510, time_cost: 5082.258288 s
+
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.250829
+step 200, current_acc 0.349594
+step 300, current_acc 0.403756
+step 400, current_acc 0.438489
+step 500, current_acc 0.469850
+step 600, current_acc 0.496380
+step 700, current_acc 0.508373
+step 800, current_acc 0.526230
+step 900, current_acc 0.533607
+step 1000, current_acc 0.542858
+step 1100, current_acc 0.556624
+step 1200, current_acc 0.563555
+step 1300, current_acc 0.565719
+step 1400, current_acc 0.570746
+step 1500, current_acc 0.574503
+step 1600, current_acc 0.578938
+step 1700, current_acc 0.583726
+step 1800, current_acc 0.589311
+step 1900, current_acc 0.591547
+step 2000, current_acc 0.596140
+step 2100, current_acc 0.601332
+step 2200, current_acc 0.604728
+step 2300, current_acc 0.607631
+step 2400, current_acc 0.609123
+step 2500, current_acc 0.609857
+step 2600, current_acc 0.612521
+step 2700, current_acc 0.615649
+step 2800, current_acc 0.617476
+step 2900, current_acc 0.618955
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.354709
+step 200, current_acc 0.436315
+step 300, current_acc 0.467880
+step 400, current_acc 0.499313
+step 500, current_acc 0.517511
+step 600, current_acc 0.531135
+step 700, current_acc 0.550184
+step 800, current_acc 0.559085
+step 900, current_acc 0.567321
+step 1000, current_acc 0.576697
+step 1100, current_acc 0.588468
+step 1200, current_acc 0.596267
+step 1300, current_acc 0.604014
+step 1400, current_acc 0.604453
+step 1500, current_acc 0.608125
+step 1600, current_acc 0.615203
+step 1700, current_acc 0.619600
+step 1800, current_acc 0.623429
+step 1900, current_acc 0.624857
+step 2000, current_acc 0.627752
+step 2100, current_acc 0.634195
+step 2200, current_acc 0.635995
+step 2300, current_acc 0.639280
+step 2400, current_acc 0.642171
+step 2500, current_acc 0.647317
+step 2600, current_acc 0.649692
+step 2700, current_acc 0.650322
+step 2800, current_acc 0.653099
+step 2900, current_acc 0.656244
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.248735
+step 200, current_acc 0.354905
+step 300, current_acc 0.425787
+step 400, current_acc 0.471893
+step 500, current_acc 0.490550
+step 600, current_acc 0.505201
+step 700, current_acc 0.523870
+step 800, current_acc 0.535097
+step 900, current_acc 0.541839
+step 1000, current_acc 0.547856
+step 1100, current_acc 0.555757
+step 1200, current_acc 0.567149
+step 1300, current_acc 0.571951
+step 1400, current_acc 0.579637
+step 1500, current_acc 0.584567
+step 1600, current_acc 0.587760
+step 1700, current_acc 0.591714
+step 1800, current_acc 0.597678
+step 1900, current_acc 0.598601
+step 2000, current_acc 0.603681
+step 2100, current_acc 0.607156
+step 2200, current_acc 0.611147
+step 2300, current_acc 0.613851
+step 2400, current_acc 0.616890
+step 2500, current_acc 0.619499
+step 2600, current_acc 0.623355
+step 2700, current_acc 0.625123
+step 2800, current_acc 0.628533
+step 2900, current_acc 0.628737
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.246002
+step 200, current_acc 0.289419
+step 300, current_acc 0.361809
+step 400, current_acc 0.426177
+step 500, current_acc 0.454333
+step 600, current_acc 0.481100
+step 700, current_acc 0.498722
+step 800, current_acc 0.514805
+step 900, current_acc 0.526065
+step 1000, current_acc 0.538616
+step 1100, current_acc 0.550332
+step 1200, current_acc 0.554838
+step 1300, current_acc 0.560730
+step 1400, current_acc 0.568871
+step 1500, current_acc 0.575365
+step 1600, current_acc 0.581399
+step 1700, current_acc 0.582893
+step 1800, current_acc 0.590658
+step 1900, current_acc 0.592566
+step 2000, current_acc 0.597966
+step 2100, current_acc 0.603852
+step 2200, current_acc 0.608982
+step 2300, current_acc 0.612886
+step 2400, current_acc 0.616428
+step 2500, current_acc 0.618755
+step 2600, current_acc 0.624118
+step 2700, current_acc 0.625728
+step 2800, current_acc 0.627225
+step 2900, current_acc 0.632054
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.321559
+step 200, current_acc 0.430198
+step 300, current_acc 0.472930
+step 400, current_acc 0.503955
+step 500, current_acc 0.526188
+step 600, current_acc 0.543739
+step 700, current_acc 0.545797
+step 800, current_acc 0.553670
+step 900, current_acc 0.565799
+step 1000, current_acc 0.577531
+step 1100, current_acc 0.582203
+step 1200, current_acc 0.591114
+step 1300, current_acc 0.593899
+step 1400, current_acc 0.602498
+step 1500, current_acc 0.605851
+step 1600, current_acc 0.609917
+step 1700, current_acc 0.613667
+step 1800, current_acc 0.618027
+step 1900, current_acc 0.623883
+step 2000, current_acc 0.625819
+step 2100, current_acc 0.631805
+step 2200, current_acc 0.631985
+step 2300, current_acc 0.635571
+step 2400, current_acc 0.638128
+step 2500, current_acc 0.639097
+step 2600, current_acc 0.642168
+step 2700, current_acc 0.638100
+step 2800, current_acc 0.639535
+step 2900, current_acc 0.641119
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.266964
+step 200, current_acc 0.355142
+step 300, current_acc 0.422949
+step 400, current_acc 0.472720
+step 500, current_acc 0.499996
+step 600, current_acc 0.525176
+step 700, current_acc 0.529663
+step 800, current_acc 0.549360
+step 900, current_acc 0.556997
+step 1000, current_acc 0.564634
+step 1100, current_acc 0.574180
+step 1200, current_acc 0.581662
+step 1300, current_acc 0.587891
+step 1400, current_acc 0.592207
+step 1500, current_acc 0.593560
+step 1600, current_acc 0.597766
+step 1700, current_acc 0.601491
+step 1800, current_acc 0.604249
+step 1900, current_acc 0.607001
+step 2000, current_acc 0.611343
+step 2100, current_acc 0.616366
+step 2200, current_acc 0.620978
+step 2300, current_acc 0.623285
+step 2400, current_acc 0.627488
+step 2500, current_acc 0.628781
+step 2600, current_acc 0.629948
+step 2700, current_acc 0.633372
+step 2800, current_acc 0.634079
+step 2900, current_acc 0.637221
+-----------------evolution results---------------- 
+[0.6196587, 0.6568452, 0.63138795, 0.63574886, 0.6439119, 0.63805574]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+4
+full connection layer number: 
+2
+module number in each layer: 
+[6, 8, 9, 13, 3, 13, 6]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 5, training_avg_acc: 0.656845, time_cost: 4686.683776 s
+
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+4
+full connection layer number: 
+2
+module number in each layer: 
+[7, 9, 9, 13, 3, 13, 6]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+Filling queue with 20000 CIFAR10 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.213932
+step 200, current_acc 0.306825
+step 300, current_acc 0.360191
+step 400, current_acc 0.432222
+step 500, current_acc 0.473559
+step 600, current_acc 0.500304
+step 700, current_acc 0.520975
+step 800, current_acc 0.537228
+step 900, current_acc 0.543754
+step 1000, current_acc 0.552653
+step 1100, current_acc 0.562274
+step 1200, current_acc 0.568682
+step 1300, current_acc 0.571543
+step 1400, current_acc 0.577606
+step 1500, current_acc 0.586589
+step 1600, current_acc 0.590401
+step 1700, current_acc 0.594857
+step 1800, current_acc 0.600721
+step 1900, current_acc 0.604246
+step 2000, current_acc 0.606706
+step 2100, current_acc 0.614206
+step 2200, current_acc 0.618299
+step 2300, current_acc 0.621703
+step 2400, current_acc 0.626118
+step 2500, current_acc 0.630377
+step 2600, current_acc 0.633786
+step 2700, current_acc 0.638707
+step 2800, current_acc 0.640178
+step 2900, current_acc 0.641214
+step 3000, current_acc 0.644181
+step 3100, current_acc 0.649293
+step 3200, current_acc 0.652283
+step 3300, current_acc 0.654333
+step 3400, current_acc 0.658397
+step 3500, current_acc 0.659946
+step 3600, current_acc 0.662189
+step 3700, current_acc 0.663901
+step 3800, current_acc 0.665876
+step 3900, current_acc 0.665708
+step 4000, current_acc 0.666370
+step 4100, current_acc 0.669031
+step 4200, current_acc 0.672600
+step 4300, current_acc 0.675422
+step 4400, current_acc 0.676070
+step 4500, current_acc 0.676352
+step 4600, current_acc 0.676951
+step 4700, current_acc 0.677991
+step 4800, current_acc 0.680015
+step 4900, current_acc 0.683479
+step 5000, current_acc 0.684988
+step 5100, current_acc 0.688203
+step 5200, current_acc 0.690322
+step 5300, current_acc 0.691627
+step 5400, current_acc 0.691309
+step 5500, current_acc 0.692765
+step 5600, current_acc 0.694341
+step 5700, current_acc 0.696100
+step 5800, current_acc 0.697346
+step 5900, current_acc 0.699113
+step 6000, current_acc 0.700351
+step 6100, current_acc 0.702934
+step 6200, current_acc 0.705011
+step 6300, current_acc 0.706432
+step 6400, current_acc 0.707283
+step 6500, current_acc 0.707957
+step 6600, current_acc 0.709823
+step 6700, current_acc 0.710582
+step 6800, current_acc 0.710930
+step 6900, current_acc 0.710768
+step 7000, current_acc 0.711657
+step 7100, current_acc 0.714185
+step 7200, current_acc 0.714684
+step 7300, current_acc 0.715622
+step 7400, current_acc 0.718171
+step 7500, current_acc 0.718243
+step 7600, current_acc 0.720027
+step 7700, current_acc 0.721206
+step 7800, current_acc 0.721001
+step 7900, current_acc 0.721709
+step 8000, current_acc 0.722852
+step 8100, current_acc 0.724325
+step 8200, current_acc 0.724822
+step 8300, current_acc 0.725660
+step 8400, current_acc 0.724834
+step 8500, current_acc 0.726958
+step 8600, current_acc 0.727879
+step 8700, current_acc 0.728264
+step 8800, current_acc 0.729877
+step 8900, current_acc 0.729977
+step 9000, current_acc 0.732040
+step 9100, current_acc 0.733920
+step 9200, current_acc 0.735719
+step 9300, current_acc 0.736045
+step 9400, current_acc 0.736645
+step 9500, current_acc 0.735374
+step 9600, current_acc 0.737281
+step 9700, current_acc 0.739146
+step 9800, current_acc 0.740231
+step 9900, current_acc 0.738522
+step 10000, current_acc 0.738420
+step 10100, current_acc 0.740230
+step 10200, current_acc 0.742499
+step 10300, current_acc 0.743353
+step 10400, current_acc 0.744350
+step 10500, current_acc 0.745181
+step 10600, current_acc 0.746653
+step 10700, current_acc 0.744971
+step 10800, current_acc 0.746146
+step 10900, current_acc 0.746701
+step 11000, current_acc 0.748117
+step 11100, current_acc 0.749504
+step 11200, current_acc 0.750044
+step 11300, current_acc 0.750351
+step 11400, current_acc 0.751191
+step 11500, current_acc 0.752262
+step 11600, current_acc 0.753524
+step 11700, current_acc 0.754527
+step 11800, current_acc 0.753370
+step 11900, current_acc 0.753698
+step 12000, current_acc 0.753971
+step 12100, current_acc 0.754370
+step 12200, current_acc 0.755536
+step 12300, current_acc 0.756109
+step 12400, current_acc 0.756160
+step 12500, current_acc 0.757767
+step 12600, current_acc 0.757675
+step 12700, current_acc 0.759145
+step 12800, current_acc 0.759256
+step 12900, current_acc 0.760000
+step 13000, current_acc 0.760470
+step 13100, current_acc 0.760607
+step 13200, current_acc 0.761057
+step 13300, current_acc 0.762223
+step 13400, current_acc 0.763045
+step 13500, current_acc 0.763931
+step 13600, current_acc 0.763622
+step 13700, current_acc 0.764548
+step 13800, current_acc 0.763764
+step 13900, current_acc 0.765607
+step 14000, current_acc 0.765483
+step 14100, current_acc 0.766128
+step 14200, current_acc 0.766994
+step 14300, current_acc 0.766587
+step 14400, current_acc 0.767854
+step 14500, current_acc 0.768075
+step 14600, current_acc 0.768188
+step 14700, current_acc 0.768794
+step 14800, current_acc 0.770195
+step 14900, current_acc 0.769866
+saving...  done.
+------------------transfer results------------------
+best structure training_avg_acc 0.7701996
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+4
+full connection layer number: 
+2
+module number in each layer: 
+[7, 9, 9, 13, 3, 13, 6]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+compurtation_of_network :  25242840.0
+
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.477322
+step 200, current_acc 0.513035
+step 300, current_acc 0.538232
+step 400, current_acc 0.553795
+step 500, current_acc 0.567200
+step 600, current_acc 0.578865
+step 700, current_acc 0.580079
+step 800, current_acc 0.591832
+step 900, current_acc 0.593967
+step 1000, current_acc 0.601401
+step 1100, current_acc 0.608946
+step 1200, current_acc 0.612194
+step 1300, current_acc 0.610973
+step 1400, current_acc 0.616117
+step 1500, current_acc 0.620500
+step 1600, current_acc 0.620309
+step 1700, current_acc 0.619702
+step 1800, current_acc 0.623172
+step 1900, current_acc 0.623012
+step 2000, current_acc 0.625257
+step 2100, current_acc 0.629032
+step 2200, current_acc 0.631250
+step 2300, current_acc 0.631629
+step 2400, current_acc 0.634609
+step 2500, current_acc 0.636518
+step 2600, current_acc 0.639353
+step 2700, current_acc 0.640502
+step 2800, current_acc 0.640972
+step 2900, current_acc 0.640167
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.477123
+step 200, current_acc 0.512827
+step 300, current_acc 0.525812
+step 400, current_acc 0.536858
+step 500, current_acc 0.552096
+step 600, current_acc 0.567359
+step 700, current_acc 0.578589
+step 800, current_acc 0.582409
+step 900, current_acc 0.590477
+step 1000, current_acc 0.594680
+step 1100, current_acc 0.601441
+step 1200, current_acc 0.610630
+step 1300, current_acc 0.614066
+step 1400, current_acc 0.613237
+step 1500, current_acc 0.618578
+step 1600, current_acc 0.618295
+step 1700, current_acc 0.621196
+step 1800, current_acc 0.623533
+step 1900, current_acc 0.625403
+step 2000, current_acc 0.629080
+step 2100, current_acc 0.632486
+step 2200, current_acc 0.634179
+step 2300, current_acc 0.636258
+step 2400, current_acc 0.639050
+step 2500, current_acc 0.641025
+step 2600, current_acc 0.641391
+step 2700, current_acc 0.642461
+step 2800, current_acc 0.643928
+step 2900, current_acc 0.644681
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.464364
+step 200, current_acc 0.507733
+step 300, current_acc 0.520035
+step 400, current_acc 0.538217
+step 500, current_acc 0.556437
+step 600, current_acc 0.566893
+step 700, current_acc 0.573857
+step 800, current_acc 0.577719
+step 900, current_acc 0.591408
+step 1000, current_acc 0.593809
+step 1100, current_acc 0.596733
+step 1200, current_acc 0.605985
+step 1300, current_acc 0.606787
+step 1400, current_acc 0.613028
+step 1500, current_acc 0.614339
+step 1600, current_acc 0.614929
+step 1700, current_acc 0.617394
+step 1800, current_acc 0.619367
+step 1900, current_acc 0.621044
+step 2000, current_acc 0.622660
+step 2100, current_acc 0.625665
+step 2200, current_acc 0.629131
+step 2300, current_acc 0.632115
+step 2400, current_acc 0.632863
+step 2500, current_acc 0.634399
+step 2600, current_acc 0.636373
+step 2700, current_acc 0.637938
+step 2800, current_acc 0.638498
+step 2900, current_acc 0.639725
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.477338
+step 200, current_acc 0.515229
+step 300, current_acc 0.535223
+step 400, current_acc 0.544276
+step 500, current_acc 0.561919
+step 600, current_acc 0.574413
+step 700, current_acc 0.576960
+step 800, current_acc 0.581632
+step 900, current_acc 0.597359
+step 1000, current_acc 0.593927
+step 1100, current_acc 0.597641
+step 1200, current_acc 0.606903
+step 1300, current_acc 0.607212
+step 1400, current_acc 0.613880
+step 1500, current_acc 0.618860
+step 1600, current_acc 0.618267
+step 1700, current_acc 0.621827
+step 1800, current_acc 0.621982
+step 1900, current_acc 0.625120
+step 2000, current_acc 0.626307
+step 2100, current_acc 0.629146
+step 2200, current_acc 0.631150
+step 2300, current_acc 0.631728
+step 2400, current_acc 0.633794
+step 2500, current_acc 0.636345
+step 2600, current_acc 0.636391
+step 2700, current_acc 0.637415
+step 2800, current_acc 0.638555
+step 2900, current_acc 0.639373
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.475324
+step 200, current_acc 0.515474
+step 300, current_acc 0.527940
+step 400, current_acc 0.532189
+step 500, current_acc 0.545318
+step 600, current_acc 0.550058
+step 700, current_acc 0.561691
+step 800, current_acc 0.572535
+step 900, current_acc 0.581195
+step 1000, current_acc 0.588186
+step 1100, current_acc 0.593104
+step 1200, current_acc 0.601526
+step 1300, current_acc 0.603753
+step 1400, current_acc 0.607665
+step 1500, current_acc 0.611003
+step 1600, current_acc 0.610202
+step 1700, current_acc 0.611309
+step 1800, current_acc 0.616265
+step 1900, current_acc 0.620697
+step 2000, current_acc 0.620925
+step 2100, current_acc 0.625552
+step 2200, current_acc 0.626258
+step 2300, current_acc 0.627428
+step 2400, current_acc 0.628654
+step 2500, current_acc 0.631764
+step 2600, current_acc 0.633645
+step 2700, current_acc 0.634975
+step 2800, current_acc 0.635975
+step 2900, current_acc 0.636514
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.473512
+step 200, current_acc 0.513972
+step 300, current_acc 0.540096
+step 400, current_acc 0.554297
+step 500, current_acc 0.570419
+step 600, current_acc 0.581506
+step 700, current_acc 0.590415
+step 800, current_acc 0.595881
+step 900, current_acc 0.606943
+step 1000, current_acc 0.605971
+step 1100, current_acc 0.611614
+step 1200, current_acc 0.618389
+step 1300, current_acc 0.617338
+step 1400, current_acc 0.623067
+step 1500, current_acc 0.625959
+step 1600, current_acc 0.626573
+step 1700, current_acc 0.626223
+step 1800, current_acc 0.629168
+step 1900, current_acc 0.631641
+step 2000, current_acc 0.632267
+step 2100, current_acc 0.635385
+step 2200, current_acc 0.637787
+step 2300, current_acc 0.639435
+step 2400, current_acc 0.640873
+step 2500, current_acc 0.642066
+step 2600, current_acc 0.641859
+step 2700, current_acc 0.643548
+step 2800, current_acc 0.643717
+step 2900, current_acc 0.645455
+-----------------evolution results---------------- 
+[0.6400718, 0.6438701, 0.63930035, 0.63903487, 0.63739765, 0.6457502]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+4
+full connection layer number: 
+1
+module number in each layer: 
+[0, 0, 0, 0, 0, 20]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+generation: 0, training_avg_acc: 0.645750, time_cost: 6076.196347 s
+
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.400812
+step 200, current_acc 0.581099
+step 300, current_acc 0.665302
+step 400, current_acc 0.708711
+step 500, current_acc 0.731322
+step 600, current_acc 0.744135
+step 700, current_acc 0.749520
+step 800, current_acc 0.756646
+step 900, current_acc 0.761850
+step 1000, current_acc 0.763046
+step 1100, current_acc 0.770753
+step 1200, current_acc 0.775254
+step 1300, current_acc 0.777136
+step 1400, current_acc 0.782250
+step 1500, current_acc 0.784009
+step 1600, current_acc 0.783471
+step 1700, current_acc 0.786158
+step 1800, current_acc 0.785535
+step 1900, current_acc 0.787887
+step 2000, current_acc 0.789336
+step 2100, current_acc 0.790698
+step 2200, current_acc 0.793740
+step 2300, current_acc 0.795886
+step 2400, current_acc 0.796278
+step 2500, current_acc 0.797806
+step 2600, current_acc 0.799041
+step 2700, current_acc 0.799307
+step 2800, current_acc 0.800331
+step 2900, current_acc 0.802141
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.359368
+step 200, current_acc 0.453181
+step 300, current_acc 0.564192
+step 400, current_acc 0.621383
+step 500, current_acc 0.657944
+step 600, current_acc 0.694150
+step 700, current_acc 0.706782
+step 800, current_acc 0.720454
+step 900, current_acc 0.732382
+step 1000, current_acc 0.736502
+step 1100, current_acc 0.748566
+step 1200, current_acc 0.756211
+step 1300, current_acc 0.757873
+step 1400, current_acc 0.764641
+step 1500, current_acc 0.766532
+step 1600, current_acc 0.768742
+step 1700, current_acc 0.769835
+step 1800, current_acc 0.773561
+step 1900, current_acc 0.775438
+step 2000, current_acc 0.778460
+step 2100, current_acc 0.779868
+step 2200, current_acc 0.783981
+step 2300, current_acc 0.785612
+step 2400, current_acc 0.787165
+step 2500, current_acc 0.789963
+step 2600, current_acc 0.791334
+step 2700, current_acc 0.791974
+step 2800, current_acc 0.793183
+step 2900, current_acc 0.794340
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.483206
+step 200, current_acc 0.522732
+step 300, current_acc 0.534901
+step 400, current_acc 0.554189
+step 500, current_acc 0.565640
+step 600, current_acc 0.577655
+step 700, current_acc 0.589707
+step 800, current_acc 0.591752
+step 900, current_acc 0.600795
+step 1000, current_acc 0.607412
+step 1100, current_acc 0.611296
+step 1200, current_acc 0.615610
+step 1300, current_acc 0.615288
+step 1400, current_acc 0.618061
+step 1500, current_acc 0.624308
+step 1600, current_acc 0.626232
+step 1700, current_acc 0.625054
+step 1800, current_acc 0.625724
+step 1900, current_acc 0.631459
+step 2000, current_acc 0.634371
+step 2100, current_acc 0.639851
+step 2200, current_acc 0.644881
+step 2300, current_acc 0.647416
+step 2400, current_acc 0.649981
+step 2500, current_acc 0.653207
+step 2600, current_acc 0.654810
+step 2700, current_acc 0.656412
+step 2800, current_acc 0.656313
+step 2900, current_acc 0.658266
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.510846
+step 200, current_acc 0.607152
+step 300, current_acc 0.658701
+step 400, current_acc 0.684835
+step 500, current_acc 0.703195
+step 600, current_acc 0.719513
+step 700, current_acc 0.727627
+step 800, current_acc 0.736573
+step 900, current_acc 0.749743
+step 1000, current_acc 0.750493
+step 1100, current_acc 0.755283
+step 1200, current_acc 0.762935
+step 1300, current_acc 0.761662
+step 1400, current_acc 0.764223
+step 1500, current_acc 0.768373
+step 1600, current_acc 0.770401
+step 1700, current_acc 0.772823
+step 1800, current_acc 0.775605
+step 1900, current_acc 0.777643
+step 2000, current_acc 0.778844
+step 2100, current_acc 0.780792
+step 2200, current_acc 0.784156
+step 2300, current_acc 0.785620
+step 2400, current_acc 0.787122
+step 2500, current_acc 0.787975
+step 2600, current_acc 0.789614
+step 2700, current_acc 0.788819
+step 2800, current_acc 0.789848
+step 2900, current_acc 0.791010
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.416764
+step 200, current_acc 0.556210
+step 300, current_acc 0.637311
+step 400, current_acc 0.671822
+step 500, current_acc 0.701261
+step 600, current_acc 0.719616
+step 700, current_acc 0.725677
+step 800, current_acc 0.736439
+step 900, current_acc 0.747340
+step 1000, current_acc 0.754032
+step 1100, current_acc 0.762675
+step 1200, current_acc 0.767274
+step 1300, current_acc 0.772542
+step 1400, current_acc 0.775392
+step 1500, current_acc 0.779839
+step 1600, current_acc 0.781777
+step 1700, current_acc 0.784656
+step 1800, current_acc 0.786499
+step 1900, current_acc 0.789062
+step 2000, current_acc 0.791287
+step 2100, current_acc 0.793979
+step 2200, current_acc 0.796007
+step 2300, current_acc 0.797950
+step 2400, current_acc 0.799010
+step 2500, current_acc 0.801356
+step 2600, current_acc 0.802535
+step 2700, current_acc 0.802479
+step 2800, current_acc 0.804007
+step 2900, current_acc 0.804546
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.434447
+step 200, current_acc 0.491705
+step 300, current_acc 0.508788
+step 400, current_acc 0.524384
+step 500, current_acc 0.531231
+step 600, current_acc 0.544499
+step 700, current_acc 0.553722
+step 800, current_acc 0.561706
+step 900, current_acc 0.566963
+step 1000, current_acc 0.569770
+step 1100, current_acc 0.580838
+step 1200, current_acc 0.591958
+step 1300, current_acc 0.592352
+step 1400, current_acc 0.596720
+step 1500, current_acc 0.599138
+step 1600, current_acc 0.600911
+step 1700, current_acc 0.604063
+step 1800, current_acc 0.607262
+step 1900, current_acc 0.609467
+step 2000, current_acc 0.609060
+step 2100, current_acc 0.610641
+step 2200, current_acc 0.615862
+step 2300, current_acc 0.617031
+step 2400, current_acc 0.618945
+step 2500, current_acc 0.621167
+step 2600, current_acc 0.621126
+step 2700, current_acc 0.619961
+step 2800, current_acc 0.621113
+step 2900, current_acc 0.622044
+-----------------evolution results---------------- 
+[0.80253154, 0.79432833, 0.6590138, 0.7917091, 0.80381477, 0.6229144]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0, True]
+Used feature layer number: 
+5
+full connection layer number: 
+2
+module number in each layer: 
+[1, 1, 3, 1, 1, 8, 19, 14]
+filter number in each module: only first evolution result is vaild !!!!!!
+18
+
+generation: 1, training_avg_acc: 0.803815, time_cost: 6631.072014 s
+
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.401038
+step 200, current_acc 0.561344
+step 300, current_acc 0.658544
+step 400, current_acc 0.699206
+step 500, current_acc 0.727679
+step 600, current_acc 0.744389
+step 700, current_acc 0.749425
+step 800, current_acc 0.758966
+step 900, current_acc 0.769197
+step 1000, current_acc 0.766875
+step 1100, current_acc 0.776679
+step 1200, current_acc 0.781148
+step 1300, current_acc 0.781159
+step 1400, current_acc 0.786665
+step 1500, current_acc 0.789081
+step 1600, current_acc 0.789296
+step 1700, current_acc 0.790820
+step 1800, current_acc 0.793210
+step 1900, current_acc 0.795076
+step 2000, current_acc 0.796503
+step 2100, current_acc 0.797576
+step 2200, current_acc 0.799130
+step 2300, current_acc 0.800406
+step 2400, current_acc 0.801478
+step 2500, current_acc 0.803174
+step 2600, current_acc 0.804528
+step 2700, current_acc 0.805681
+step 2800, current_acc 0.806890
+step 2900, current_acc 0.807303
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.369815
+step 200, current_acc 0.521348
+step 300, current_acc 0.608894
+step 400, current_acc 0.653007
+step 500, current_acc 0.691937
+step 600, current_acc 0.716567
+step 700, current_acc 0.723243
+step 800, current_acc 0.737727
+step 900, current_acc 0.746840
+step 1000, current_acc 0.752294
+step 1100, current_acc 0.760146
+step 1200, current_acc 0.760414
+step 1300, current_acc 0.766737
+step 1400, current_acc 0.770824
+step 1500, current_acc 0.773232
+step 1600, current_acc 0.776417
+step 1700, current_acc 0.779747
+step 1800, current_acc 0.781912
+step 1900, current_acc 0.783024
+step 2000, current_acc 0.785051
+step 2100, current_acc 0.787013
+step 2200, current_acc 0.790766
+step 2300, current_acc 0.791237
+step 2400, current_acc 0.793311
+step 2500, current_acc 0.794868
+step 2600, current_acc 0.795997
+step 2700, current_acc 0.796566
+step 2800, current_acc 0.797544
+step 2900, current_acc 0.798989
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.464777
+step 200, current_acc 0.590616
+step 300, current_acc 0.660937
+step 400, current_acc 0.685679
+step 500, current_acc 0.708951
+step 600, current_acc 0.728018
+step 700, current_acc 0.733420
+step 800, current_acc 0.745342
+step 900, current_acc 0.753975
+step 1000, current_acc 0.757687
+step 1100, current_acc 0.759816
+step 1200, current_acc 0.769206
+step 1300, current_acc 0.772162
+step 1400, current_acc 0.774714
+step 1500, current_acc 0.779030
+step 1600, current_acc 0.782350
+step 1700, current_acc 0.782944
+step 1800, current_acc 0.785204
+step 1900, current_acc 0.787441
+step 2000, current_acc 0.789392
+step 2100, current_acc 0.791147
+step 2200, current_acc 0.793686
+step 2300, current_acc 0.795000
+step 2400, current_acc 0.796978
+step 2500, current_acc 0.798375
+step 2600, current_acc 0.799119
+step 2700, current_acc 0.799066
+step 2800, current_acc 0.800388
+step 2900, current_acc 0.801858
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.347402
+step 200, current_acc 0.412755
+step 300, current_acc 0.544988
+step 400, current_acc 0.659978
+step 500, current_acc 0.702426
+step 600, current_acc 0.732075
+step 700, current_acc 0.747421
+step 800, current_acc 0.757106
+step 900, current_acc 0.764722
+step 1000, current_acc 0.768380
+step 1100, current_acc 0.776193
+step 1200, current_acc 0.781875
+step 1300, current_acc 0.786023
+step 1400, current_acc 0.788005
+step 1500, current_acc 0.793032
+step 1600, current_acc 0.789631
+step 1700, current_acc 0.790349
+step 1800, current_acc 0.794275
+step 1900, current_acc 0.794919
+step 2000, current_acc 0.797462
+step 2100, current_acc 0.799813
+step 2200, current_acc 0.802938
+step 2300, current_acc 0.805086
+step 2400, current_acc 0.806097
+step 2500, current_acc 0.808184
+step 2600, current_acc 0.809769
+step 2700, current_acc 0.810542
+step 2800, current_acc 0.812015
+step 2900, current_acc 0.813058
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.397534
+step 200, current_acc 0.549911
+step 300, current_acc 0.657522
+step 400, current_acc 0.697303
+step 500, current_acc 0.732082
+step 600, current_acc 0.743296
+step 700, current_acc 0.751624
+step 800, current_acc 0.760145
+step 900, current_acc 0.766845
+step 1000, current_acc 0.771608
+step 1100, current_acc 0.778948
+step 1200, current_acc 0.784351
+step 1300, current_acc 0.787938
+step 1400, current_acc 0.790611
+step 1500, current_acc 0.793207
+step 1600, current_acc 0.792187
+step 1700, current_acc 0.794191
+step 1800, current_acc 0.795757
+step 1900, current_acc 0.797383
+step 2000, current_acc 0.800947
+step 2100, current_acc 0.802800
+step 2200, current_acc 0.805483
+step 2300, current_acc 0.806528
+step 2400, current_acc 0.806467
+step 2500, current_acc 0.808931
+step 2600, current_acc 0.809417
+step 2700, current_acc 0.809729
+step 2800, current_acc 0.810903
+step 2900, current_acc 0.811808
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.544133
+step 200, current_acc 0.636743
+step 300, current_acc 0.682532
+step 400, current_acc 0.696592
+step 500, current_acc 0.718794
+step 600, current_acc 0.733501
+step 700, current_acc 0.739789
+step 800, current_acc 0.748715
+step 900, current_acc 0.756695
+step 1000, current_acc 0.760895
+step 1100, current_acc 0.767308
+step 1200, current_acc 0.775057
+step 1300, current_acc 0.775340
+step 1400, current_acc 0.776839
+step 1500, current_acc 0.780582
+step 1600, current_acc 0.783329
+step 1700, current_acc 0.785307
+step 1800, current_acc 0.781621
+step 1900, current_acc 0.784494
+step 2000, current_acc 0.787471
+step 2100, current_acc 0.789155
+step 2200, current_acc 0.792891
+step 2300, current_acc 0.794543
+step 2400, current_acc 0.795219
+step 2500, current_acc 0.795744
+step 2600, current_acc 0.797283
+step 2700, current_acc 0.797698
+step 2800, current_acc 0.799378
+step 2900, current_acc 0.800533
+-----------------evolution results---------------- 
+[0.80769396, 0.79925925, 0.8027819, 0.81212336, 0.8121455, 0.80100435]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[0, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[2, 3, 3, 5, 15, 7]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 2, training_avg_acc: 0.812145, time_cost: 7036.431079 s
+
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.470961
+step 200, current_acc 0.633033
+step 300, current_acc 0.690825
+step 400, current_acc 0.715318
+step 500, current_acc 0.734942
+step 600, current_acc 0.751784
+step 700, current_acc 0.753174
+step 800, current_acc 0.761390
+step 900, current_acc 0.770877
+step 1000, current_acc 0.772204
+step 1100, current_acc 0.780638
+step 1200, current_acc 0.786933
+step 1300, current_acc 0.786137
+step 1400, current_acc 0.790489
+step 1500, current_acc 0.793726
+step 1600, current_acc 0.795517
+step 1700, current_acc 0.799575
+step 1800, current_acc 0.803533
+step 1900, current_acc 0.804488
+step 2000, current_acc 0.799536
+step 2100, current_acc 0.801129
+step 2200, current_acc 0.804689
+step 2300, current_acc 0.805386
+step 2400, current_acc 0.807340
+step 2500, current_acc 0.809723
+step 2600, current_acc 0.811876
+step 2700, current_acc 0.812414
+step 2800, current_acc 0.813847
+step 2900, current_acc 0.815600
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.358151
+step 200, current_acc 0.482648
+step 300, current_acc 0.577621
+step 400, current_acc 0.628590
+step 500, current_acc 0.668800
+step 600, current_acc 0.691914
+step 700, current_acc 0.706351
+step 800, current_acc 0.724668
+step 900, current_acc 0.737926
+step 1000, current_acc 0.744979
+step 1100, current_acc 0.745314
+step 1200, current_acc 0.757289
+step 1300, current_acc 0.762814
+step 1400, current_acc 0.769590
+step 1500, current_acc 0.771025
+step 1600, current_acc 0.775349
+step 1700, current_acc 0.778007
+step 1800, current_acc 0.778821
+step 1900, current_acc 0.781465
+step 2000, current_acc 0.783908
+step 2100, current_acc 0.785068
+step 2200, current_acc 0.787779
+step 2300, current_acc 0.790224
+step 2400, current_acc 0.790874
+step 2500, current_acc 0.792141
+step 2600, current_acc 0.794555
+step 2700, current_acc 0.795681
+step 2800, current_acc 0.796696
+step 2900, current_acc 0.798772
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.476659
+step 200, current_acc 0.626354
+step 300, current_acc 0.693559
+step 400, current_acc 0.721736
+step 500, current_acc 0.744259
+step 600, current_acc 0.756307
+step 700, current_acc 0.762809
+step 800, current_acc 0.768728
+step 900, current_acc 0.774786
+step 1000, current_acc 0.778460
+step 1100, current_acc 0.788556
+step 1200, current_acc 0.793074
+step 1300, current_acc 0.795580
+step 1400, current_acc 0.798107
+step 1500, current_acc 0.800379
+step 1600, current_acc 0.802698
+step 1700, current_acc 0.804544
+step 1800, current_acc 0.805148
+step 1900, current_acc 0.808246
+step 2000, current_acc 0.811268
+step 2100, current_acc 0.813501
+step 2200, current_acc 0.815945
+step 2300, current_acc 0.816828
+step 2400, current_acc 0.817907
+step 2500, current_acc 0.818456
+step 2600, current_acc 0.820418
+step 2700, current_acc 0.820498
+step 2800, current_acc 0.821883
+step 2900, current_acc 0.822104
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.343892
+step 200, current_acc 0.404741
+step 300, current_acc 0.519040
+step 400, current_acc 0.630239
+step 500, current_acc 0.689397
+step 600, current_acc 0.710169
+step 700, current_acc 0.732216
+step 800, current_acc 0.746823
+step 900, current_acc 0.757559
+step 1000, current_acc 0.763034
+step 1100, current_acc 0.770456
+step 1200, current_acc 0.777167
+step 1300, current_acc 0.781742
+step 1400, current_acc 0.785038
+step 1500, current_acc 0.790530
+step 1600, current_acc 0.791768
+step 1700, current_acc 0.794928
+step 1800, current_acc 0.796472
+step 1900, current_acc 0.797892
+step 2000, current_acc 0.800549
+step 2100, current_acc 0.803226
+step 2200, current_acc 0.804456
+step 2300, current_acc 0.806774
+step 2400, current_acc 0.807472
+step 2500, current_acc 0.809754
+step 2600, current_acc 0.810933
+step 2700, current_acc 0.812064
+step 2800, current_acc 0.812948
+step 2900, current_acc 0.813965
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.367959
+step 200, current_acc 0.469669
+step 300, current_acc 0.590834
+step 400, current_acc 0.652520
+step 500, current_acc 0.683875
+step 600, current_acc 0.712706
+step 700, current_acc 0.722352
+step 800, current_acc 0.731713
+step 900, current_acc 0.742442
+step 1000, current_acc 0.751937
+step 1100, current_acc 0.759762
+step 1200, current_acc 0.765913
+step 1300, current_acc 0.770248
+step 1400, current_acc 0.774240
+step 1500, current_acc 0.779131
+step 1600, current_acc 0.779436
+step 1700, current_acc 0.784171
+step 1800, current_acc 0.786928
+step 1900, current_acc 0.789061
+step 2000, current_acc 0.790529
+step 2100, current_acc 0.791932
+step 2200, current_acc 0.794755
+step 2300, current_acc 0.796318
+step 2400, current_acc 0.797216
+step 2500, current_acc 0.799694
+step 2600, current_acc 0.801193
+step 2700, current_acc 0.802136
+step 2800, current_acc 0.804046
+step 2900, current_acc 0.804544
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.385098
+step 200, current_acc 0.535388
+step 300, current_acc 0.644872
+step 400, current_acc 0.685427
+step 500, current_acc 0.717732
+step 600, current_acc 0.741455
+step 700, current_acc 0.754600
+step 800, current_acc 0.764025
+step 900, current_acc 0.772757
+step 1000, current_acc 0.779609
+step 1100, current_acc 0.784991
+step 1200, current_acc 0.791825
+step 1300, current_acc 0.793998
+step 1400, current_acc 0.796823
+step 1500, current_acc 0.800712
+step 1600, current_acc 0.801145
+step 1700, current_acc 0.799795
+step 1800, current_acc 0.803043
+step 1900, current_acc 0.804221
+step 2000, current_acc 0.805701
+step 2100, current_acc 0.808964
+step 2200, current_acc 0.812284
+step 2300, current_acc 0.812859
+step 2400, current_acc 0.813938
+step 2500, current_acc 0.815440
+step 2600, current_acc 0.816460
+step 2700, current_acc 0.816387
+step 2800, current_acc 0.818282
+step 2900, current_acc 0.820195
+-----------------evolution results---------------- 
+[0.815091, 0.79856855, 0.8224777, 0.8119383, 0.80501825, 0.82015574]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[0, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[2, 3, 3, 5, 15, 7]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 3, training_avg_acc: 0.822478, time_cost: 8093.809470 s
+
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.392931
+step 200, current_acc 0.501458
+step 300, current_acc 0.612388
+step 400, current_acc 0.672663
+step 500, current_acc 0.711486
+step 600, current_acc 0.732070
+step 700, current_acc 0.748841
+step 800, current_acc 0.754170
+step 900, current_acc 0.766924
+step 1000, current_acc 0.771115
+step 1100, current_acc 0.781138
+step 1200, current_acc 0.789470
+step 1300, current_acc 0.792924
+step 1400, current_acc 0.794442
+step 1500, current_acc 0.799155
+step 1600, current_acc 0.800056
+step 1700, current_acc 0.804500
+step 1800, current_acc 0.805385
+step 1900, current_acc 0.806927
+step 2000, current_acc 0.808805
+step 2100, current_acc 0.811168
+step 2200, current_acc 0.813695
+step 2300, current_acc 0.815975
+step 2400, current_acc 0.817541
+step 2500, current_acc 0.817829
+step 2600, current_acc 0.819395
+step 2700, current_acc 0.820168
+step 2800, current_acc 0.821567
+step 2900, current_acc 0.822912
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.364199
+step 200, current_acc 0.449587
+step 300, current_acc 0.580738
+step 400, current_acc 0.637381
+step 500, current_acc 0.673662
+step 600, current_acc 0.705547
+step 700, current_acc 0.711929
+step 800, current_acc 0.728334
+step 900, current_acc 0.742594
+step 1000, current_acc 0.745656
+step 1100, current_acc 0.754147
+step 1200, current_acc 0.758379
+step 1300, current_acc 0.763384
+step 1400, current_acc 0.769093
+step 1500, current_acc 0.771800
+step 1600, current_acc 0.772524
+step 1700, current_acc 0.776540
+step 1800, current_acc 0.779919
+step 1900, current_acc 0.780894
+step 2000, current_acc 0.784191
+step 2100, current_acc 0.786773
+step 2200, current_acc 0.789573
+step 2300, current_acc 0.792000
+step 2400, current_acc 0.794344
+step 2500, current_acc 0.795501
+step 2600, current_acc 0.797056
+step 2700, current_acc 0.798096
+step 2800, current_acc 0.800224
+step 2900, current_acc 0.802345
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.482738
+step 200, current_acc 0.621378
+step 300, current_acc 0.696178
+step 400, current_acc 0.724228
+step 500, current_acc 0.738973
+step 600, current_acc 0.754005
+step 700, current_acc 0.758921
+step 800, current_acc 0.763116
+step 900, current_acc 0.775236
+step 1000, current_acc 0.778228
+step 1100, current_acc 0.788736
+step 1200, current_acc 0.793033
+step 1300, current_acc 0.795865
+step 1400, current_acc 0.797761
+step 1500, current_acc 0.802258
+step 1600, current_acc 0.803123
+step 1700, current_acc 0.804865
+step 1800, current_acc 0.805698
+step 1900, current_acc 0.807871
+step 2000, current_acc 0.810134
+step 2100, current_acc 0.813738
+step 2200, current_acc 0.815605
+step 2300, current_acc 0.817167
+step 2400, current_acc 0.817975
+step 2500, current_acc 0.819062
+step 2600, current_acc 0.820097
+step 2700, current_acc 0.821323
+step 2800, current_acc 0.821008
+step 2900, current_acc 0.823222
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.342357
+step 200, current_acc 0.410424
+step 300, current_acc 0.519125
+step 400, current_acc 0.632785
+step 500, current_acc 0.692846
+step 600, current_acc 0.720179
+step 700, current_acc 0.739993
+step 800, current_acc 0.744502
+step 900, current_acc 0.753416
+step 1000, current_acc 0.759485
+step 1100, current_acc 0.767801
+step 1200, current_acc 0.773357
+step 1300, current_acc 0.776336
+step 1400, current_acc 0.778749
+step 1500, current_acc 0.782688
+step 1600, current_acc 0.784317
+step 1700, current_acc 0.787744
+step 1800, current_acc 0.790514
+step 1900, current_acc 0.792731
+step 2000, current_acc 0.793369
+step 2100, current_acc 0.795806
+step 2200, current_acc 0.799072
+step 2300, current_acc 0.801126
+step 2400, current_acc 0.800604
+step 2500, current_acc 0.803292
+step 2600, current_acc 0.804528
+step 2700, current_acc 0.803947
+step 2800, current_acc 0.805759
+step 2900, current_acc 0.807402
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.480104
+step 200, current_acc 0.638136
+step 300, current_acc 0.695209
+step 400, current_acc 0.713226
+step 500, current_acc 0.738256
+step 600, current_acc 0.752485
+step 700, current_acc 0.760441
+step 800, current_acc 0.768935
+step 900, current_acc 0.776132
+step 1000, current_acc 0.775343
+step 1100, current_acc 0.785785
+step 1200, current_acc 0.791020
+step 1300, current_acc 0.793173
+step 1400, current_acc 0.795851
+step 1500, current_acc 0.798658
+step 1600, current_acc 0.800326
+step 1700, current_acc 0.803486
+step 1800, current_acc 0.806106
+step 1900, current_acc 0.805873
+step 2000, current_acc 0.807469
+step 2100, current_acc 0.808124
+step 2200, current_acc 0.811569
+step 2300, current_acc 0.812205
+step 2400, current_acc 0.813655
+step 2500, current_acc 0.813772
+step 2600, current_acc 0.815549
+step 2700, current_acc 0.816320
+step 2800, current_acc 0.816255
+step 2900, current_acc 0.817670
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.485382
+step 200, current_acc 0.648511
+step 300, current_acc 0.694275
+step 400, current_acc 0.720404
+step 500, current_acc 0.737512
+step 600, current_acc 0.750425
+step 700, current_acc 0.761393
+step 800, current_acc 0.764241
+step 900, current_acc 0.774746
+step 1000, current_acc 0.776051
+step 1100, current_acc 0.784450
+step 1200, current_acc 0.789259
+step 1300, current_acc 0.790914
+step 1400, current_acc 0.795661
+step 1500, current_acc 0.798694
+step 1600, current_acc 0.800442
+step 1700, current_acc 0.802595
+step 1800, current_acc 0.804642
+step 1900, current_acc 0.804135
+step 2000, current_acc 0.805300
+step 2100, current_acc 0.807523
+step 2200, current_acc 0.810124
+step 2300, current_acc 0.811414
+step 2400, current_acc 0.811727
+step 2500, current_acc 0.814439
+step 2600, current_acc 0.815814
+step 2700, current_acc 0.815615
+step 2800, current_acc 0.816669
+step 2900, current_acc 0.817709
+-----------------evolution results---------------- 
+[0.8237293, 0.80325073, 0.8230588, 0.8073138, 0.8186808, 0.81753093]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[0, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[2, 3, 3, 5, 15, 7]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 4, training_avg_acc: 0.823729, time_cost: 7943.772705 s
+
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.506136
+step 200, current_acc 0.645551
+step 300, current_acc 0.690477
+step 400, current_acc 0.710521
+step 500, current_acc 0.730037
+step 600, current_acc 0.743142
+step 700, current_acc 0.743852
+step 800, current_acc 0.752310
+step 900, current_acc 0.760057
+step 1000, current_acc 0.763194
+step 1100, current_acc 0.769192
+step 1200, current_acc 0.774894
+step 1300, current_acc 0.774365
+step 1400, current_acc 0.778842
+step 1500, current_acc 0.781712
+step 1600, current_acc 0.783464
+step 1700, current_acc 0.785481
+step 1800, current_acc 0.787224
+step 1900, current_acc 0.788972
+step 2000, current_acc 0.791404
+step 2100, current_acc 0.793188
+step 2200, current_acc 0.794647
+step 2300, current_acc 0.795912
+step 2400, current_acc 0.796811
+step 2500, current_acc 0.798496
+step 2600, current_acc 0.800858
+step 2700, current_acc 0.801838
+step 2800, current_acc 0.803312
+step 2900, current_acc 0.803765
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.372138
+step 200, current_acc 0.468826
+step 300, current_acc 0.600268
+step 400, current_acc 0.656124
+step 500, current_acc 0.688171
+step 600, current_acc 0.712426
+step 700, current_acc 0.724930
+step 800, current_acc 0.731638
+step 900, current_acc 0.745436
+step 1000, current_acc 0.752222
+step 1100, current_acc 0.759507
+step 1200, current_acc 0.766003
+step 1300, current_acc 0.770800
+step 1400, current_acc 0.775465
+step 1500, current_acc 0.777214
+step 1600, current_acc 0.777564
+step 1700, current_acc 0.780346
+step 1800, current_acc 0.782318
+step 1900, current_acc 0.785095
+step 2000, current_acc 0.787503
+step 2100, current_acc 0.788013
+step 2200, current_acc 0.789555
+step 2300, current_acc 0.790185
+step 2400, current_acc 0.793419
+step 2500, current_acc 0.795779
+step 2600, current_acc 0.797772
+step 2700, current_acc 0.797972
+step 2800, current_acc 0.799168
+step 2900, current_acc 0.800326
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.532504
+step 200, current_acc 0.643339
+step 300, current_acc 0.683093
+step 400, current_acc 0.707105
+step 500, current_acc 0.723929
+step 600, current_acc 0.736236
+step 700, current_acc 0.741368
+step 800, current_acc 0.749268
+step 900, current_acc 0.758678
+step 1000, current_acc 0.761427
+step 1100, current_acc 0.767968
+step 1200, current_acc 0.772897
+step 1300, current_acc 0.772450
+step 1400, current_acc 0.775294
+step 1500, current_acc 0.779993
+step 1600, current_acc 0.780944
+step 1700, current_acc 0.782858
+step 1800, current_acc 0.784739
+step 1900, current_acc 0.787858
+step 2000, current_acc 0.789759
+step 2100, current_acc 0.790223
+step 2200, current_acc 0.792154
+step 2300, current_acc 0.794281
+step 2400, current_acc 0.795707
+step 2500, current_acc 0.796239
+step 2600, current_acc 0.798577
+step 2700, current_acc 0.798754
+step 2800, current_acc 0.800239
+step 2900, current_acc 0.801280
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.364898
+step 200, current_acc 0.410396
+step 300, current_acc 0.568107
+step 400, current_acc 0.657455
+step 500, current_acc 0.699406
+step 600, current_acc 0.724540
+step 700, current_acc 0.745728
+step 800, current_acc 0.754404
+step 900, current_acc 0.764464
+step 1000, current_acc 0.767431
+step 1100, current_acc 0.775749
+step 1200, current_acc 0.783070
+step 1300, current_acc 0.786690
+step 1400, current_acc 0.788746
+step 1500, current_acc 0.791798
+step 1600, current_acc 0.793127
+step 1700, current_acc 0.795428
+step 1800, current_acc 0.798350
+step 1900, current_acc 0.799736
+step 2000, current_acc 0.801441
+step 2100, current_acc 0.804075
+step 2200, current_acc 0.805700
+step 2300, current_acc 0.806631
+step 2400, current_acc 0.808231
+step 2500, current_acc 0.809093
+step 2600, current_acc 0.810376
+step 2700, current_acc 0.810734
+step 2800, current_acc 0.811905
+step 2900, current_acc 0.812969
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.350699
+step 200, current_acc 0.417515
+step 300, current_acc 0.559429
+step 400, current_acc 0.655540
+step 500, current_acc 0.707385
+step 600, current_acc 0.734796
+step 700, current_acc 0.747255
+step 800, current_acc 0.756118
+step 900, current_acc 0.763823
+step 1000, current_acc 0.766734
+step 1100, current_acc 0.776175
+step 1200, current_acc 0.782623
+step 1300, current_acc 0.786983
+step 1400, current_acc 0.788079
+step 1500, current_acc 0.792192
+step 1600, current_acc 0.792812
+step 1700, current_acc 0.795227
+step 1800, current_acc 0.797655
+step 1900, current_acc 0.799469
+step 2000, current_acc 0.801222
+step 2100, current_acc 0.803475
+step 2200, current_acc 0.805746
+step 2300, current_acc 0.806984
+step 2400, current_acc 0.807301
+step 2500, current_acc 0.809572
+step 2600, current_acc 0.811290
+step 2700, current_acc 0.811510
+step 2800, current_acc 0.812911
+step 2900, current_acc 0.814679
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.351614
+step 200, current_acc 0.425759
+step 300, current_acc 0.572957
+step 400, current_acc 0.665510
+step 500, current_acc 0.710708
+step 600, current_acc 0.729665
+step 700, current_acc 0.744205
+step 800, current_acc 0.757181
+step 900, current_acc 0.765939
+step 1000, current_acc 0.771313
+step 1100, current_acc 0.776977
+step 1200, current_acc 0.784986
+step 1300, current_acc 0.787339
+step 1400, current_acc 0.792089
+step 1500, current_acc 0.794736
+step 1600, current_acc 0.796420
+step 1700, current_acc 0.798165
+step 1800, current_acc 0.799293
+step 1900, current_acc 0.801547
+step 2000, current_acc 0.803999
+step 2100, current_acc 0.806069
+step 2200, current_acc 0.809020
+step 2300, current_acc 0.810712
+step 2400, current_acc 0.811730
+step 2500, current_acc 0.812987
+step 2600, current_acc 0.814428
+step 2700, current_acc 0.813781
+step 2800, current_acc 0.816053
+step 2900, current_acc 0.816422
+-----------------evolution results---------------- 
+[0.8045133, 0.8003827, 0.8005491, 0.8134017, 0.8148036, 0.81693816]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[0, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[4, 3, 5, 7, 15, 5]
+filter number in each module: only first evolution result is vaild !!!!!!
+14
+
+generation: 5, training_avg_acc: 0.816938, time_cost: 7326.592112 s
+
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[11, 12, 14, 20, 3, 15, 5]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+Filling queue with svhn images before starting to train. This will take a few minutes.
+step 100, current_acc 0.367301
+step 200, current_acc 0.421102
+step 300, current_acc 0.555077
+step 400, current_acc 0.658117
+step 500, current_acc 0.700724
+step 600, current_acc 0.726894
+step 700, current_acc 0.738487
+step 800, current_acc 0.753563
+step 900, current_acc 0.765174
+step 1000, current_acc 0.770562
+step 1100, current_acc 0.777591
+step 1200, current_acc 0.786652
+step 1300, current_acc 0.787810
+step 1400, current_acc 0.792294
+step 1500, current_acc 0.797108
+step 1600, current_acc 0.796253
+step 1700, current_acc 0.799227
+step 1800, current_acc 0.801683
+step 1900, current_acc 0.802084
+step 2000, current_acc 0.802907
+step 2100, current_acc 0.804465
+step 2200, current_acc 0.808292
+step 2300, current_acc 0.810440
+step 2400, current_acc 0.811127
+step 2500, current_acc 0.813136
+step 2600, current_acc 0.814175
+step 2700, current_acc 0.815055
+step 2800, current_acc 0.816984
+step 2900, current_acc 0.817908
+step 3000, current_acc 0.818692
+step 3100, current_acc 0.820565
+step 3200, current_acc 0.821602
+step 3300, current_acc 0.823022
+step 3400, current_acc 0.824802
+step 3500, current_acc 0.825497
+step 3600, current_acc 0.826474
+step 3700, current_acc 0.827373
+step 3800, current_acc 0.828176
+step 3900, current_acc 0.828939
+step 4000, current_acc 0.829151
+step 4100, current_acc 0.830040
+step 4200, current_acc 0.830867
+step 4300, current_acc 0.831638
+step 4400, current_acc 0.832529
+step 4500, current_acc 0.833324
+step 4600, current_acc 0.834242
+step 4700, current_acc 0.834721
+step 4800, current_acc 0.835516
+step 4900, current_acc 0.835755
+step 5000, current_acc 0.835991
+step 5100, current_acc 0.836920
+step 5200, current_acc 0.838857
+step 5300, current_acc 0.839589
+step 5400, current_acc 0.839817
+step 5500, current_acc 0.841346
+step 5600, current_acc 0.841166
+step 5700, current_acc 0.841132
+step 5800, current_acc 0.842342
+step 5900, current_acc 0.842054
+step 6000, current_acc 0.842499
+step 6100, current_acc 0.843593
+step 6200, current_acc 0.844641
+step 6300, current_acc 0.845244
+step 6400, current_acc 0.845956
+step 6500, current_acc 0.846883
+step 6600, current_acc 0.847503
+step 6700, current_acc 0.846932
+step 6800, current_acc 0.846827
+step 6900, current_acc 0.847841
+step 7000, current_acc 0.847257
+step 7100, current_acc 0.848887
+step 7200, current_acc 0.850429
+step 7300, current_acc 0.850559
+step 7400, current_acc 0.850887
+step 7500, current_acc 0.851046
+step 7600, current_acc 0.850718
+step 7700, current_acc 0.850819
+step 7800, current_acc 0.851604
+step 7900, current_acc 0.851683
+step 8000, current_acc 0.851548
+step 8100, current_acc 0.852354
+step 8200, current_acc 0.853670
+step 8300, current_acc 0.854012
+step 8400, current_acc 0.855334
+step 8500, current_acc 0.855584
+step 8600, current_acc 0.855779
+step 8700, current_acc 0.855348
+step 8800, current_acc 0.856304
+step 8900, current_acc 0.857799
+step 9000, current_acc 0.858196
+step 9100, current_acc 0.858723
+step 9200, current_acc 0.859418
+step 9300, current_acc 0.858697
+step 9400, current_acc 0.858708
+step 9500, current_acc 0.860045
+step 9600, current_acc 0.859450
+step 9700, current_acc 0.860526
+step 9800, current_acc 0.860099
+step 9900, current_acc 0.860170
+step 10000, current_acc 0.860363
+step 10100, current_acc 0.861287
+step 10200, current_acc 0.862554
+step 10300, current_acc 0.863414
+step 10400, current_acc 0.863829
+step 10500, current_acc 0.865120
+step 10600, current_acc 0.865503
+step 10700, current_acc 0.865479
+step 10800, current_acc 0.865613
+step 10900, current_acc 0.866359
+step 11000, current_acc 0.864966
+step 11100, current_acc 0.865487
+step 11200, current_acc 0.866514
+step 11300, current_acc 0.866179
+step 11400, current_acc 0.866676
+step 11500, current_acc 0.867503
+step 11600, current_acc 0.866838
+step 11700, current_acc 0.867403
+step 11800, current_acc 0.868000
+step 11900, current_acc 0.868029
+step 12000, current_acc 0.867948
+step 12100, current_acc 0.867919
+step 12200, current_acc 0.869140
+step 12300, current_acc 0.869607
+step 12400, current_acc 0.870341
+step 12500, current_acc 0.870885
+step 12600, current_acc 0.871465
+step 12700, current_acc 0.871748
+step 12800, current_acc 0.871440
+step 12900, current_acc 0.871984
+step 13000, current_acc 0.871936
+step 13100, current_acc 0.872190
+step 13200, current_acc 0.873588
+step 13300, current_acc 0.873651
+step 13400, current_acc 0.874073
+step 13500, current_acc 0.874071
+step 13600, current_acc 0.874000
+step 13700, current_acc 0.874618
+step 13800, current_acc 0.875804
+step 13900, current_acc 0.875862
+step 14000, current_acc 0.876539
+step 14100, current_acc 0.877337
+step 14200, current_acc 0.877240
+step 14300, current_acc 0.877877
+step 14400, current_acc 0.877371
+step 14500, current_acc 0.878298
+step 14600, current_acc 0.878386
+step 14700, current_acc 0.878899
+step 14800, current_acc 0.879191
+step 14900, current_acc 0.880027
+saving...  done.
+------------------transfer results------------------
+best structure training_avg_acc 0.87859344
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[11, 12, 14, 20, 3, 15, 5]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+compurtation_of_network :  34333320.0
+
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.194489
+step 200, current_acc 0.245133
+step 300, current_acc 0.261127
+step 400, current_acc 0.279721
+step 500, current_acc 0.286812
+step 600, current_acc 0.291556
+step 700, current_acc 0.302366
+step 800, current_acc 0.304850
+step 900, current_acc 0.307431
+step 1000, current_acc 0.313010
+step 1100, current_acc 0.317338
+step 1200, current_acc 0.322281
+step 1300, current_acc 0.323369
+step 1400, current_acc 0.321102
+step 1500, current_acc 0.322590
+step 1600, current_acc 0.325320
+step 1700, current_acc 0.329106
+step 1800, current_acc 0.329776
+step 1900, current_acc 0.332648
+step 2000, current_acc 0.332683
+step 2100, current_acc 0.336370
+step 2200, current_acc 0.339595
+step 2300, current_acc 0.340164
+step 2400, current_acc 0.341557
+step 2500, current_acc 0.342578
+step 2600, current_acc 0.342674
+step 2700, current_acc 0.343415
+step 2800, current_acc 0.343293
+step 2900, current_acc 0.345313
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.213968
+step 200, current_acc 0.245160
+step 300, current_acc 0.265690
+step 400, current_acc 0.284136
+step 500, current_acc 0.291631
+step 600, current_acc 0.300958
+step 700, current_acc 0.307816
+step 800, current_acc 0.305850
+step 900, current_acc 0.309176
+step 1000, current_acc 0.313531
+step 1100, current_acc 0.319475
+step 1200, current_acc 0.316775
+step 1300, current_acc 0.320340
+step 1400, current_acc 0.321451
+step 1500, current_acc 0.324766
+step 1600, current_acc 0.324651
+step 1700, current_acc 0.326422
+step 1800, current_acc 0.325753
+step 1900, current_acc 0.329798
+step 2000, current_acc 0.330159
+step 2100, current_acc 0.332478
+step 2200, current_acc 0.333559
+step 2300, current_acc 0.334920
+step 2400, current_acc 0.335610
+step 2500, current_acc 0.336342
+step 2600, current_acc 0.337368
+step 2700, current_acc 0.338887
+step 2800, current_acc 0.339416
+step 2900, current_acc 0.340504
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.199928
+step 200, current_acc 0.236734
+step 300, current_acc 0.266264
+step 400, current_acc 0.273611
+step 500, current_acc 0.286067
+step 600, current_acc 0.290747
+step 700, current_acc 0.293549
+step 800, current_acc 0.296677
+step 900, current_acc 0.298273
+step 1000, current_acc 0.299487
+step 1100, current_acc 0.306933
+step 1200, current_acc 0.307811
+step 1300, current_acc 0.308325
+step 1400, current_acc 0.313165
+step 1500, current_acc 0.312657
+step 1600, current_acc 0.314698
+step 1700, current_acc 0.314523
+step 1800, current_acc 0.316408
+step 1900, current_acc 0.319358
+step 2000, current_acc 0.321286
+step 2100, current_acc 0.323952
+step 2200, current_acc 0.324816
+step 2300, current_acc 0.325945
+step 2400, current_acc 0.324477
+step 2500, current_acc 0.325486
+step 2600, current_acc 0.326949
+step 2700, current_acc 0.327698
+step 2800, current_acc 0.326740
+step 2900, current_acc 0.327993
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.198310
+step 200, current_acc 0.250568
+step 300, current_acc 0.268177
+step 400, current_acc 0.282837
+step 500, current_acc 0.290631
+step 600, current_acc 0.295753
+step 700, current_acc 0.303010
+step 800, current_acc 0.303669
+step 900, current_acc 0.306351
+step 1000, current_acc 0.308915
+step 1100, current_acc 0.312408
+step 1200, current_acc 0.314204
+step 1300, current_acc 0.320769
+step 1400, current_acc 0.323886
+step 1500, current_acc 0.326506
+step 1600, current_acc 0.325081
+step 1700, current_acc 0.326509
+step 1800, current_acc 0.328289
+step 1900, current_acc 0.327912
+step 2000, current_acc 0.327070
+step 2100, current_acc 0.329231
+step 2200, current_acc 0.332732
+step 2300, current_acc 0.334653
+step 2400, current_acc 0.333210
+step 2500, current_acc 0.331562
+step 2600, current_acc 0.334215
+step 2700, current_acc 0.334615
+step 2800, current_acc 0.335686
+step 2900, current_acc 0.335781
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.206908
+step 200, current_acc 0.249195
+step 300, current_acc 0.266761
+step 400, current_acc 0.274877
+step 500, current_acc 0.291923
+step 600, current_acc 0.294560
+step 700, current_acc 0.297692
+step 800, current_acc 0.300786
+step 900, current_acc 0.301723
+step 1000, current_acc 0.303086
+step 1100, current_acc 0.306887
+step 1200, current_acc 0.308165
+step 1300, current_acc 0.310603
+step 1400, current_acc 0.313740
+step 1500, current_acc 0.316533
+step 1600, current_acc 0.314273
+step 1700, current_acc 0.314555
+step 1800, current_acc 0.315108
+step 1900, current_acc 0.316598
+step 2000, current_acc 0.317412
+step 2100, current_acc 0.319625
+step 2200, current_acc 0.321446
+step 2300, current_acc 0.323175
+step 2400, current_acc 0.325786
+step 2500, current_acc 0.327781
+step 2600, current_acc 0.328452
+step 2700, current_acc 0.329318
+step 2800, current_acc 0.329897
+step 2900, current_acc 0.330421
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.195839
+step 200, current_acc 0.256824
+step 300, current_acc 0.265301
+step 400, current_acc 0.281237
+step 500, current_acc 0.287475
+step 600, current_acc 0.287954
+step 700, current_acc 0.299221
+step 800, current_acc 0.302473
+step 900, current_acc 0.304206
+step 1000, current_acc 0.307953
+step 1100, current_acc 0.310046
+step 1200, current_acc 0.315178
+step 1300, current_acc 0.318059
+step 1400, current_acc 0.320678
+step 1500, current_acc 0.323128
+step 1600, current_acc 0.324747
+step 1700, current_acc 0.324816
+step 1800, current_acc 0.328070
+step 1900, current_acc 0.329476
+step 2000, current_acc 0.329894
+step 2100, current_acc 0.331071
+step 2200, current_acc 0.334593
+step 2300, current_acc 0.336358
+step 2400, current_acc 0.337586
+step 2500, current_acc 0.337896
+step 2600, current_acc 0.341278
+step 2700, current_acc 0.341630
+step 2800, current_acc 0.342996
+step 2900, current_acc 0.343875
+-----------------evolution results---------------- 
+[0.34559864, 0.34279713, 0.3284949, 0.3351781, 0.32930863, 0.34481603]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+4
+full connection layer number: 
+1
+module number in each layer: 
+[0, 0, 0, 0, 0, 20]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+generation: 0, training_avg_acc: 0.345599, time_cost: 7509.620411 s
+
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.198636
+step 200, current_acc 0.251210
+step 300, current_acc 0.268149
+step 400, current_acc 0.279781
+step 500, current_acc 0.288891
+step 600, current_acc 0.302540
+step 700, current_acc 0.305288
+step 800, current_acc 0.309465
+step 900, current_acc 0.314447
+step 1000, current_acc 0.312036
+step 1100, current_acc 0.320322
+step 1200, current_acc 0.323890
+step 1300, current_acc 0.324222
+step 1400, current_acc 0.326636
+step 1500, current_acc 0.328779
+step 1600, current_acc 0.332409
+step 1700, current_acc 0.334626
+step 1800, current_acc 0.337097
+step 1900, current_acc 0.335530
+step 2000, current_acc 0.334800
+step 2100, current_acc 0.337582
+step 2200, current_acc 0.338883
+step 2300, current_acc 0.340640
+step 2400, current_acc 0.343126
+step 2500, current_acc 0.343490
+step 2600, current_acc 0.345232
+step 2700, current_acc 0.346128
+step 2800, current_acc 0.347116
+step 2900, current_acc 0.348437
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.150727
+step 200, current_acc 0.244995
+step 300, current_acc 0.311012
+step 400, current_acc 0.332829
+step 500, current_acc 0.355414
+step 600, current_acc 0.370039
+step 700, current_acc 0.374220
+step 800, current_acc 0.385378
+step 900, current_acc 0.390769
+step 1000, current_acc 0.392389
+step 1100, current_acc 0.402012
+step 1200, current_acc 0.407044
+step 1300, current_acc 0.414324
+step 1400, current_acc 0.418064
+step 1500, current_acc 0.420929
+step 1600, current_acc 0.421443
+step 1700, current_acc 0.422943
+step 1800, current_acc 0.424335
+step 1900, current_acc 0.425841
+step 2000, current_acc 0.429145
+step 2100, current_acc 0.433081
+step 2200, current_acc 0.436176
+step 2300, current_acc 0.438720
+step 2400, current_acc 0.441321
+step 2500, current_acc 0.441387
+step 2600, current_acc 0.443688
+step 2700, current_acc 0.445003
+step 2800, current_acc 0.447495
+step 2900, current_acc 0.450828
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.114875
+step 200, current_acc 0.142212
+step 300, current_acc 0.202272
+step 400, current_acc 0.224837
+step 500, current_acc 0.247220
+step 600, current_acc 0.260015
+step 700, current_acc 0.269429
+step 800, current_acc 0.282655
+step 900, current_acc 0.293485
+step 1000, current_acc 0.301246
+step 1100, current_acc 0.306485
+step 1200, current_acc 0.314029
+step 1300, current_acc 0.323343
+step 1400, current_acc 0.329539
+step 1500, current_acc 0.338388
+step 1600, current_acc 0.341962
+step 1700, current_acc 0.347191
+step 1800, current_acc 0.350877
+step 1900, current_acc 0.354214
+step 2000, current_acc 0.360048
+step 2100, current_acc 0.365628
+step 2200, current_acc 0.369707
+step 2300, current_acc 0.374627
+step 2400, current_acc 0.377083
+step 2500, current_acc 0.382188
+step 2600, current_acc 0.384894
+step 2700, current_acc 0.387253
+step 2800, current_acc 0.388833
+step 2900, current_acc 0.391047
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.117716
+step 200, current_acc 0.176328
+step 300, current_acc 0.213666
+step 400, current_acc 0.240373
+step 500, current_acc 0.272275
+step 600, current_acc 0.285904
+step 700, current_acc 0.306387
+step 800, current_acc 0.318375
+step 900, current_acc 0.329869
+step 1000, current_acc 0.334744
+step 1100, current_acc 0.343158
+step 1200, current_acc 0.350024
+step 1300, current_acc 0.357471
+step 1400, current_acc 0.365306
+step 1500, current_acc 0.372166
+step 1600, current_acc 0.379449
+step 1700, current_acc 0.383290
+step 1800, current_acc 0.382923
+step 1900, current_acc 0.388972
+step 2000, current_acc 0.394395
+step 2100, current_acc 0.397826
+step 2200, current_acc 0.401856
+step 2300, current_acc 0.406590
+step 2400, current_acc 0.408487
+step 2500, current_acc 0.411395
+step 2600, current_acc 0.411947
+step 2700, current_acc 0.414256
+step 2800, current_acc 0.416745
+step 2900, current_acc 0.418011
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.313605
+step 200, current_acc 0.351603
+step 300, current_acc 0.379935
+step 400, current_acc 0.394871
+step 500, current_acc 0.402982
+step 600, current_acc 0.409536
+step 700, current_acc 0.418790
+step 800, current_acc 0.422004
+step 900, current_acc 0.430559
+step 1000, current_acc 0.432856
+step 1100, current_acc 0.440612
+step 1200, current_acc 0.443566
+step 1300, current_acc 0.444517
+step 1400, current_acc 0.449488
+step 1500, current_acc 0.454321
+step 1600, current_acc 0.455860
+step 1700, current_acc 0.458092
+step 1800, current_acc 0.458140
+step 1900, current_acc 0.460676
+step 2000, current_acc 0.464925
+step 2100, current_acc 0.467083
+step 2200, current_acc 0.468395
+step 2300, current_acc 0.471190
+step 2400, current_acc 0.472715
+step 2500, current_acc 0.476036
+step 2600, current_acc 0.476676
+step 2700, current_acc 0.478163
+step 2800, current_acc 0.478682
+step 2900, current_acc 0.481393
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.180583
+step 200, current_acc 0.236424
+step 300, current_acc 0.263631
+step 400, current_acc 0.277295
+step 500, current_acc 0.292874
+step 600, current_acc 0.301886
+step 700, current_acc 0.307358
+step 800, current_acc 0.308726
+step 900, current_acc 0.315532
+step 1000, current_acc 0.318771
+step 1100, current_acc 0.322885
+step 1200, current_acc 0.326429
+step 1300, current_acc 0.331490
+step 1400, current_acc 0.335014
+step 1500, current_acc 0.336785
+step 1600, current_acc 0.337462
+step 1700, current_acc 0.339908
+step 1800, current_acc 0.341764
+step 1900, current_acc 0.345081
+step 2000, current_acc 0.345704
+step 2100, current_acc 0.346489
+step 2200, current_acc 0.347638
+step 2300, current_acc 0.350333
+step 2400, current_acc 0.350631
+step 2500, current_acc 0.351635
+step 2600, current_acc 0.352899
+step 2700, current_acc 0.353181
+step 2800, current_acc 0.352885
+step 2900, current_acc 0.353574
+-----------------evolution results---------------- 
+[0.3497047, 0.4513711, 0.39266565, 0.4210771, 0.4823707, 0.35445535]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, True, 0, 1]
+Used feature layer number: 
+5
+full connection layer number: 
+2
+module number in each layer: 
+[1, 3, 3, 3, 3, 9, 16, 5]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 1, training_avg_acc: 0.482371, time_cost: 7936.926820 s
+
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.153038
+step 200, current_acc 0.208407
+step 300, current_acc 0.250536
+step 400, current_acc 0.271856
+step 500, current_acc 0.293015
+step 600, current_acc 0.306037
+step 700, current_acc 0.316866
+step 800, current_acc 0.325859
+step 900, current_acc 0.342119
+step 1000, current_acc 0.354746
+step 1100, current_acc 0.366318
+step 1200, current_acc 0.373234
+step 1300, current_acc 0.382001
+step 1400, current_acc 0.387832
+step 1500, current_acc 0.393246
+step 1600, current_acc 0.398135
+step 1700, current_acc 0.403395
+step 1800, current_acc 0.407903
+step 1900, current_acc 0.413332
+step 2000, current_acc 0.415540
+step 2100, current_acc 0.421040
+step 2200, current_acc 0.425161
+step 2300, current_acc 0.428976
+step 2400, current_acc 0.432174
+step 2500, current_acc 0.435744
+step 2600, current_acc 0.438361
+step 2700, current_acc 0.441638
+step 2800, current_acc 0.443293
+step 2900, current_acc 0.444750
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.165852
+step 200, current_acc 0.248822
+step 300, current_acc 0.288510
+step 400, current_acc 0.329600
+step 500, current_acc 0.348267
+step 600, current_acc 0.359911
+step 700, current_acc 0.373586
+step 800, current_acc 0.385609
+step 900, current_acc 0.393183
+step 1000, current_acc 0.397249
+step 1100, current_acc 0.406771
+step 1200, current_acc 0.411900
+step 1300, current_acc 0.416067
+step 1400, current_acc 0.421569
+step 1500, current_acc 0.423040
+step 1600, current_acc 0.427687
+step 1700, current_acc 0.430690
+step 1800, current_acc 0.430949
+step 1900, current_acc 0.433245
+step 2000, current_acc 0.435270
+step 2100, current_acc 0.438183
+step 2200, current_acc 0.443782
+step 2300, current_acc 0.447209
+step 2400, current_acc 0.449433
+step 2500, current_acc 0.449792
+step 2600, current_acc 0.451022
+step 2700, current_acc 0.452278
+step 2800, current_acc 0.453216
+step 2900, current_acc 0.454604
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.220559
+step 200, current_acc 0.278376
+step 300, current_acc 0.325504
+step 400, current_acc 0.351290
+step 500, current_acc 0.365815
+step 600, current_acc 0.386062
+step 700, current_acc 0.390447
+step 800, current_acc 0.403303
+step 900, current_acc 0.412339
+step 1000, current_acc 0.417510
+step 1100, current_acc 0.429274
+step 1200, current_acc 0.434684
+step 1300, current_acc 0.440463
+step 1400, current_acc 0.445115
+step 1500, current_acc 0.450485
+step 1600, current_acc 0.453195
+step 1700, current_acc 0.454509
+step 1800, current_acc 0.460885
+step 1900, current_acc 0.461304
+step 2000, current_acc 0.465271
+step 2100, current_acc 0.469372
+step 2200, current_acc 0.472087
+step 2300, current_acc 0.472782
+step 2400, current_acc 0.475944
+step 2500, current_acc 0.478405
+step 2600, current_acc 0.480147
+step 2700, current_acc 0.483058
+step 2800, current_acc 0.485937
+step 2900, current_acc 0.487178
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.122882
+step 200, current_acc 0.169596
+step 300, current_acc 0.209844
+step 400, current_acc 0.257295
+step 500, current_acc 0.283223
+step 600, current_acc 0.300083
+step 700, current_acc 0.310465
+step 800, current_acc 0.324897
+step 900, current_acc 0.339376
+step 1000, current_acc 0.352465
+step 1100, current_acc 0.357661
+step 1200, current_acc 0.363079
+step 1300, current_acc 0.370982
+step 1400, current_acc 0.371672
+step 1500, current_acc 0.380596
+step 1600, current_acc 0.383669
+step 1700, current_acc 0.390713
+step 1800, current_acc 0.392751
+step 1900, current_acc 0.397936
+step 2000, current_acc 0.401910
+step 2100, current_acc 0.406714
+step 2200, current_acc 0.410665
+step 2300, current_acc 0.412369
+step 2400, current_acc 0.413616
+step 2500, current_acc 0.415631
+step 2600, current_acc 0.419217
+step 2700, current_acc 0.421648
+step 2800, current_acc 0.422133
+step 2900, current_acc 0.423906
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.185107
+step 200, current_acc 0.261458
+step 300, current_acc 0.305745
+step 400, current_acc 0.334782
+step 500, current_acc 0.360189
+step 600, current_acc 0.368636
+step 700, current_acc 0.380917
+step 800, current_acc 0.391499
+step 900, current_acc 0.403176
+step 1000, current_acc 0.406707
+step 1100, current_acc 0.415983
+step 1200, current_acc 0.420798
+step 1300, current_acc 0.427168
+step 1400, current_acc 0.426289
+step 1500, current_acc 0.433368
+step 1600, current_acc 0.438776
+step 1700, current_acc 0.441341
+step 1800, current_acc 0.444223
+step 1900, current_acc 0.447127
+step 2000, current_acc 0.449748
+step 2100, current_acc 0.451115
+step 2200, current_acc 0.453286
+step 2300, current_acc 0.455738
+step 2400, current_acc 0.458273
+step 2500, current_acc 0.460284
+step 2600, current_acc 0.461149
+step 2700, current_acc 0.463118
+step 2800, current_acc 0.463716
+step 2900, current_acc 0.466324
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.127576
+step 200, current_acc 0.240846
+step 300, current_acc 0.289378
+step 400, current_acc 0.321877
+step 500, current_acc 0.344654
+step 600, current_acc 0.363394
+step 700, current_acc 0.371788
+step 800, current_acc 0.383607
+step 900, current_acc 0.396922
+step 1000, current_acc 0.402018
+step 1100, current_acc 0.412746
+step 1200, current_acc 0.419251
+step 1300, current_acc 0.423637
+step 1400, current_acc 0.425225
+step 1500, current_acc 0.430842
+step 1600, current_acc 0.434512
+step 1700, current_acc 0.435840
+step 1800, current_acc 0.440083
+step 1900, current_acc 0.442713
+step 2000, current_acc 0.447911
+step 2100, current_acc 0.451845
+step 2200, current_acc 0.455652
+step 2300, current_acc 0.458624
+step 2400, current_acc 0.461969
+step 2500, current_acc 0.463678
+step 2600, current_acc 0.464827
+step 2700, current_acc 0.467625
+step 2800, current_acc 0.466876
+step 2900, current_acc 0.468793
+-----------------evolution results---------------- 
+[0.44650805, 0.45617065, 0.487637, 0.42594352, 0.4672167, 0.47103995]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0]
+Used feature layer number: 
+3
+full connection layer number: 
+2
+module number in each layer: 
+[1, 5, 1, 4, 16, 14]
+filter number in each module: only first evolution result is vaild !!!!!!
+18
+
+generation: 2, training_avg_acc: 0.487637, time_cost: 9215.609201 s
+
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.195108
+step 200, current_acc 0.271111
+step 300, current_acc 0.318229
+step 400, current_acc 0.341376
+step 500, current_acc 0.359444
+step 600, current_acc 0.377766
+step 700, current_acc 0.392457
+step 800, current_acc 0.401958
+step 900, current_acc 0.409937
+step 1000, current_acc 0.416130
+step 1100, current_acc 0.420377
+step 1200, current_acc 0.427410
+step 1300, current_acc 0.435201
+step 1400, current_acc 0.440620
+step 1500, current_acc 0.444673
+step 1600, current_acc 0.446087
+step 1700, current_acc 0.448028
+step 1800, current_acc 0.449214
+step 1900, current_acc 0.452166
+step 2000, current_acc 0.455207
+step 2100, current_acc 0.459492
+step 2200, current_acc 0.461999
+step 2300, current_acc 0.465783
+step 2400, current_acc 0.468595
+step 2500, current_acc 0.469481
+step 2600, current_acc 0.472258
+step 2700, current_acc 0.471759
+step 2800, current_acc 0.473768
+step 2900, current_acc 0.474769
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.149153
+step 200, current_acc 0.215804
+step 300, current_acc 0.250991
+step 400, current_acc 0.276862
+step 500, current_acc 0.296439
+step 600, current_acc 0.312825
+step 700, current_acc 0.326892
+step 800, current_acc 0.339738
+step 900, current_acc 0.350558
+step 1000, current_acc 0.355713
+step 1100, current_acc 0.363450
+step 1200, current_acc 0.371560
+step 1300, current_acc 0.382469
+step 1400, current_acc 0.389637
+step 1500, current_acc 0.395287
+step 1600, current_acc 0.399766
+step 1700, current_acc 0.404804
+step 1800, current_acc 0.408827
+step 1900, current_acc 0.412568
+step 2000, current_acc 0.416010
+step 2100, current_acc 0.421342
+step 2200, current_acc 0.424074
+step 2300, current_acc 0.427778
+step 2400, current_acc 0.430238
+step 2500, current_acc 0.432699
+step 2600, current_acc 0.434058
+step 2700, current_acc 0.435882
+step 2800, current_acc 0.438352
+step 2900, current_acc 0.441263
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.198035
+step 200, current_acc 0.276900
+step 300, current_acc 0.324287
+step 400, current_acc 0.347198
+step 500, current_acc 0.365245
+step 600, current_acc 0.383551
+step 700, current_acc 0.397633
+step 800, current_acc 0.407348
+step 900, current_acc 0.413007
+step 1000, current_acc 0.421638
+step 1100, current_acc 0.426977
+step 1200, current_acc 0.432126
+step 1300, current_acc 0.438979
+step 1400, current_acc 0.441670
+step 1500, current_acc 0.445443
+step 1600, current_acc 0.450372
+step 1700, current_acc 0.456467
+step 1800, current_acc 0.459271
+step 1900, current_acc 0.462926
+step 2000, current_acc 0.464078
+step 2100, current_acc 0.469746
+step 2200, current_acc 0.470812
+step 2300, current_acc 0.473415
+step 2400, current_acc 0.476151
+step 2500, current_acc 0.477765
+step 2600, current_acc 0.478255
+step 2700, current_acc 0.480483
+step 2800, current_acc 0.481814
+step 2900, current_acc 0.483649
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.120927
+step 200, current_acc 0.173050
+step 300, current_acc 0.229210
+step 400, current_acc 0.265507
+step 500, current_acc 0.283509
+step 600, current_acc 0.293728
+step 700, current_acc 0.305201
+step 800, current_acc 0.324591
+step 900, current_acc 0.335545
+step 1000, current_acc 0.343108
+step 1100, current_acc 0.354744
+step 1200, current_acc 0.365753
+step 1300, current_acc 0.375192
+step 1400, current_acc 0.379558
+step 1500, current_acc 0.382630
+step 1600, current_acc 0.386654
+step 1700, current_acc 0.392984
+step 1800, current_acc 0.396080
+step 1900, current_acc 0.401651
+step 2000, current_acc 0.403644
+step 2100, current_acc 0.407297
+step 2200, current_acc 0.410550
+step 2300, current_acc 0.413352
+step 2400, current_acc 0.417822
+step 2500, current_acc 0.418882
+step 2600, current_acc 0.420418
+step 2700, current_acc 0.422016
+step 2800, current_acc 0.423519
+step 2900, current_acc 0.425521
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.220982
+step 200, current_acc 0.298418
+step 300, current_acc 0.335320
+step 400, current_acc 0.352331
+step 500, current_acc 0.371720
+step 600, current_acc 0.386250
+step 700, current_acc 0.401844
+step 800, current_acc 0.409417
+step 900, current_acc 0.413739
+step 1000, current_acc 0.423416
+step 1100, current_acc 0.435315
+step 1200, current_acc 0.440921
+step 1300, current_acc 0.447446
+step 1400, current_acc 0.447485
+step 1500, current_acc 0.451272
+step 1600, current_acc 0.455611
+step 1700, current_acc 0.460480
+step 1800, current_acc 0.462966
+step 1900, current_acc 0.465001
+step 2000, current_acc 0.465655
+step 2100, current_acc 0.470260
+step 2200, current_acc 0.476232
+step 2300, current_acc 0.478609
+step 2400, current_acc 0.479310
+step 2500, current_acc 0.481509
+step 2600, current_acc 0.483946
+step 2700, current_acc 0.487049
+step 2800, current_acc 0.488406
+step 2900, current_acc 0.490676
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.156710
+step 200, current_acc 0.244538
+step 300, current_acc 0.297496
+step 400, current_acc 0.326599
+step 500, current_acc 0.349143
+step 600, current_acc 0.362382
+step 700, current_acc 0.373714
+step 800, current_acc 0.379730
+step 900, current_acc 0.385904
+step 1000, current_acc 0.395382
+step 1100, current_acc 0.400830
+step 1200, current_acc 0.408583
+step 1300, current_acc 0.414286
+step 1400, current_acc 0.415833
+step 1500, current_acc 0.420632
+step 1600, current_acc 0.426736
+step 1700, current_acc 0.429310
+step 1800, current_acc 0.430790
+step 1900, current_acc 0.431110
+step 2000, current_acc 0.435624
+step 2100, current_acc 0.438750
+step 2200, current_acc 0.441057
+step 2300, current_acc 0.443878
+step 2400, current_acc 0.445698
+step 2500, current_acc 0.447851
+step 2600, current_acc 0.450114
+step 2700, current_acc 0.453257
+step 2800, current_acc 0.454535
+step 2900, current_acc 0.456226
+-----------------evolution results---------------- 
+[0.475075, 0.44240844, 0.48510733, 0.42821214, 0.49144918, 0.4570467]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, True, 0, 1]
+Used feature layer number: 
+5
+full connection layer number: 
+2
+module number in each layer: 
+[1, 3, 3, 3, 3, 9, 16, 5]
+filter number in each module: only first evolution result is vaild !!!!!!
+16
+
+generation: 3, training_avg_acc: 0.491449, time_cost: 9140.725050 s
+
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.226045
+step 200, current_acc 0.280219
+step 300, current_acc 0.315591
+step 400, current_acc 0.348646
+step 500, current_acc 0.365815
+step 600, current_acc 0.376288
+step 700, current_acc 0.388860
+step 800, current_acc 0.398520
+step 900, current_acc 0.407082
+step 1000, current_acc 0.418560
+step 1100, current_acc 0.426256
+step 1200, current_acc 0.434326
+step 1300, current_acc 0.436741
+step 1400, current_acc 0.441941
+step 1500, current_acc 0.446849
+step 1600, current_acc 0.451381
+step 1700, current_acc 0.458912
+step 1800, current_acc 0.459230
+step 1900, current_acc 0.461293
+step 2000, current_acc 0.461905
+step 2100, current_acc 0.465234
+step 2200, current_acc 0.470014
+step 2300, current_acc 0.472781
+step 2400, current_acc 0.473015
+step 2500, current_acc 0.475473
+step 2600, current_acc 0.478837
+step 2700, current_acc 0.479190
+step 2800, current_acc 0.480737
+step 2900, current_acc 0.483293
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.311948
+step 200, current_acc 0.363950
+step 300, current_acc 0.384951
+step 400, current_acc 0.401737
+step 500, current_acc 0.418300
+step 600, current_acc 0.427415
+step 700, current_acc 0.434985
+step 800, current_acc 0.435991
+step 900, current_acc 0.448646
+step 1000, current_acc 0.451567
+step 1100, current_acc 0.453456
+step 1200, current_acc 0.461201
+step 1300, current_acc 0.465677
+step 1400, current_acc 0.470870
+step 1500, current_acc 0.475017
+step 1600, current_acc 0.477591
+step 1700, current_acc 0.479017
+step 1800, current_acc 0.479499
+step 1900, current_acc 0.482881
+step 2000, current_acc 0.485393
+step 2100, current_acc 0.488086
+step 2200, current_acc 0.491018
+step 2300, current_acc 0.493297
+step 2400, current_acc 0.496155
+step 2500, current_acc 0.497621
+step 2600, current_acc 0.499081
+step 2700, current_acc 0.501421
+step 2800, current_acc 0.503129
+step 2900, current_acc 0.505509
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.310969
+step 200, current_acc 0.354576
+step 300, current_acc 0.383432
+step 400, current_acc 0.399221
+step 500, current_acc 0.413167
+step 600, current_acc 0.417476
+step 700, current_acc 0.427416
+step 800, current_acc 0.433778
+step 900, current_acc 0.440988
+step 1000, current_acc 0.445771
+step 1100, current_acc 0.452624
+step 1200, current_acc 0.457041
+step 1300, current_acc 0.460250
+step 1400, current_acc 0.465044
+step 1500, current_acc 0.469277
+step 1600, current_acc 0.473658
+step 1700, current_acc 0.473857
+step 1800, current_acc 0.473505
+step 1900, current_acc 0.475512
+step 2000, current_acc 0.476855
+step 2100, current_acc 0.483096
+step 2200, current_acc 0.484097
+step 2300, current_acc 0.486625
+step 2400, current_acc 0.488974
+step 2500, current_acc 0.490805
+step 2600, current_acc 0.492233
+step 2700, current_acc 0.493654
+step 2800, current_acc 0.496026
+step 2900, current_acc 0.497838
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.148004
+step 200, current_acc 0.194533
+step 300, current_acc 0.235567
+step 400, current_acc 0.274849
+step 500, current_acc 0.296834
+step 600, current_acc 0.303630
+step 700, current_acc 0.313568
+step 800, current_acc 0.325295
+step 900, current_acc 0.338655
+step 1000, current_acc 0.347354
+step 1100, current_acc 0.354697
+step 1200, current_acc 0.363706
+step 1300, current_acc 0.369099
+step 1400, current_acc 0.375024
+step 1500, current_acc 0.380643
+step 1600, current_acc 0.383643
+step 1700, current_acc 0.387974
+step 1800, current_acc 0.392758
+step 1900, current_acc 0.397651
+step 2000, current_acc 0.400948
+step 2100, current_acc 0.404426
+step 2200, current_acc 0.406634
+step 2300, current_acc 0.411742
+step 2400, current_acc 0.413808
+step 2500, current_acc 0.416532
+step 2600, current_acc 0.418794
+step 2700, current_acc 0.421176
+step 2800, current_acc 0.422646
+step 2900, current_acc 0.425324
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.118731
+step 200, current_acc 0.174266
+step 300, current_acc 0.234321
+step 400, current_acc 0.260451
+step 500, current_acc 0.285040
+step 600, current_acc 0.301283
+step 700, current_acc 0.321932
+step 800, current_acc 0.336319
+step 900, current_acc 0.352234
+step 1000, current_acc 0.367732
+step 1100, current_acc 0.378106
+step 1200, current_acc 0.389818
+step 1300, current_acc 0.395823
+step 1400, current_acc 0.402122
+step 1500, current_acc 0.412030
+step 1600, current_acc 0.417160
+step 1700, current_acc 0.424273
+step 1800, current_acc 0.427242
+step 1900, current_acc 0.430889
+step 2000, current_acc 0.433432
+step 2100, current_acc 0.440187
+step 2200, current_acc 0.446156
+step 2300, current_acc 0.449749
+step 2400, current_acc 0.452006
+step 2500, current_acc 0.455476
+step 2600, current_acc 0.458251
+step 2700, current_acc 0.460688
+step 2800, current_acc 0.462903
+step 2900, current_acc 0.463883
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.151151
+step 200, current_acc 0.247489
+step 300, current_acc 0.299148
+step 400, current_acc 0.334709
+step 500, current_acc 0.352545
+step 600, current_acc 0.374477
+step 700, current_acc 0.386318
+step 800, current_acc 0.398596
+step 900, current_acc 0.403841
+step 1000, current_acc 0.412398
+step 1100, current_acc 0.421051
+step 1200, current_acc 0.423218
+step 1300, current_acc 0.426124
+step 1400, current_acc 0.433753
+step 1500, current_acc 0.438132
+step 1600, current_acc 0.438678
+step 1700, current_acc 0.442304
+step 1800, current_acc 0.442794
+step 1900, current_acc 0.447458
+step 2000, current_acc 0.451608
+step 2100, current_acc 0.455816
+step 2200, current_acc 0.459085
+step 2300, current_acc 0.462435
+step 2400, current_acc 0.463635
+step 2500, current_acc 0.465872
+step 2600, current_acc 0.468813
+step 2700, current_acc 0.469017
+step 2800, current_acc 0.471791
+step 2900, current_acc 0.473968
+-----------------evolution results---------------- 
+[0.48545244, 0.507578, 0.49951085, 0.42644995, 0.46632338, 0.47604725]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[0, True, 0, 1]
+Used feature layer number: 
+4
+full connection layer number: 
+2
+module number in each layer: 
+[3, 2, 3, 6, 8, 16, 5]
+filter number in each module: only first evolution result is vaild !!!!!!
+14
+
+generation: 4, training_avg_acc: 0.507578, time_cost: 9009.997513 s
+
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.180754
+step 200, current_acc 0.246642
+step 300, current_acc 0.312580
+step 400, current_acc 0.345619
+step 500, current_acc 0.362412
+step 600, current_acc 0.381037
+step 700, current_acc 0.389935
+step 800, current_acc 0.401973
+step 900, current_acc 0.414521
+step 1000, current_acc 0.416930
+step 1100, current_acc 0.425490
+step 1200, current_acc 0.431675
+step 1300, current_acc 0.434512
+step 1400, current_acc 0.438474
+step 1500, current_acc 0.446652
+step 1600, current_acc 0.450379
+step 1700, current_acc 0.454222
+step 1800, current_acc 0.456303
+step 1900, current_acc 0.458898
+step 2000, current_acc 0.460490
+step 2100, current_acc 0.463886
+step 2200, current_acc 0.468196
+step 2300, current_acc 0.471688
+step 2400, current_acc 0.474583
+step 2500, current_acc 0.477990
+step 2600, current_acc 0.479420
+step 2700, current_acc 0.481450
+step 2800, current_acc 0.483299
+step 2900, current_acc 0.485090
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.127066
+step 200, current_acc 0.161289
+step 300, current_acc 0.203804
+step 400, current_acc 0.232653
+step 500, current_acc 0.264376
+step 600, current_acc 0.278976
+step 700, current_acc 0.300383
+step 800, current_acc 0.312920
+step 900, current_acc 0.330021
+step 1000, current_acc 0.338459
+step 1100, current_acc 0.352561
+step 1200, current_acc 0.366563
+step 1300, current_acc 0.376926
+step 1400, current_acc 0.385461
+step 1500, current_acc 0.393452
+step 1600, current_acc 0.400596
+step 1700, current_acc 0.405470
+step 1800, current_acc 0.413804
+step 1900, current_acc 0.419624
+step 2000, current_acc 0.421114
+step 2100, current_acc 0.428216
+step 2200, current_acc 0.434230
+step 2300, current_acc 0.437392
+step 2400, current_acc 0.439882
+step 2500, current_acc 0.443373
+step 2600, current_acc 0.444127
+step 2700, current_acc 0.448210
+step 2800, current_acc 0.450443
+step 2900, current_acc 0.452197
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.154054
+step 200, current_acc 0.224593
+step 300, current_acc 0.279652
+step 400, current_acc 0.316534
+step 500, current_acc 0.340612
+step 600, current_acc 0.357593
+step 700, current_acc 0.370655
+step 800, current_acc 0.376900
+step 900, current_acc 0.385549
+step 1000, current_acc 0.396017
+step 1100, current_acc 0.401653
+step 1200, current_acc 0.407861
+step 1300, current_acc 0.414652
+step 1400, current_acc 0.418143
+step 1500, current_acc 0.423718
+step 1600, current_acc 0.426904
+step 1700, current_acc 0.432724
+step 1800, current_acc 0.434520
+step 1900, current_acc 0.437285
+step 2000, current_acc 0.441212
+step 2100, current_acc 0.446824
+step 2200, current_acc 0.450119
+step 2300, current_acc 0.454498
+step 2400, current_acc 0.457986
+step 2500, current_acc 0.459808
+step 2600, current_acc 0.463358
+step 2700, current_acc 0.465496
+step 2800, current_acc 0.468598
+step 2900, current_acc 0.471961
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.311797
+step 200, current_acc 0.365608
+step 300, current_acc 0.387451
+step 400, current_acc 0.403254
+step 500, current_acc 0.416809
+step 600, current_acc 0.421569
+step 700, current_acc 0.436821
+step 800, current_acc 0.444021
+step 900, current_acc 0.450150
+step 1000, current_acc 0.453040
+step 1100, current_acc 0.460431
+step 1200, current_acc 0.462280
+step 1300, current_acc 0.464851
+step 1400, current_acc 0.471275
+step 1500, current_acc 0.476681
+step 1600, current_acc 0.480138
+step 1700, current_acc 0.480896
+step 1800, current_acc 0.480357
+step 1900, current_acc 0.483597
+step 2000, current_acc 0.483568
+step 2100, current_acc 0.486169
+step 2200, current_acc 0.491459
+step 2300, current_acc 0.493577
+step 2400, current_acc 0.494627
+step 2500, current_acc 0.497164
+step 2600, current_acc 0.498064
+step 2700, current_acc 0.501204
+step 2800, current_acc 0.502322
+step 2900, current_acc 0.503209
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.148261
+step 200, current_acc 0.205157
+step 300, current_acc 0.234575
+step 400, current_acc 0.257342
+step 500, current_acc 0.289212
+step 600, current_acc 0.301833
+step 700, current_acc 0.320492
+step 800, current_acc 0.329027
+step 900, current_acc 0.344586
+step 1000, current_acc 0.355305
+step 1100, current_acc 0.367147
+step 1200, current_acc 0.378695
+step 1300, current_acc 0.387931
+step 1400, current_acc 0.393455
+step 1500, current_acc 0.398551
+step 1600, current_acc 0.403507
+step 1700, current_acc 0.410881
+step 1800, current_acc 0.414006
+step 1900, current_acc 0.420076
+step 2000, current_acc 0.425657
+step 2100, current_acc 0.431320
+step 2200, current_acc 0.435673
+step 2300, current_acc 0.437863
+step 2400, current_acc 0.441012
+step 2500, current_acc 0.444970
+step 2600, current_acc 0.450321
+step 2700, current_acc 0.451493
+step 2800, current_acc 0.454423
+step 2900, current_acc 0.456833
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.160782
+step 200, current_acc 0.256360
+step 300, current_acc 0.308085
+step 400, current_acc 0.341847
+step 500, current_acc 0.354037
+step 600, current_acc 0.374546
+step 700, current_acc 0.385200
+step 800, current_acc 0.394989
+step 900, current_acc 0.400738
+step 1000, current_acc 0.409499
+step 1100, current_acc 0.416610
+step 1200, current_acc 0.425281
+step 1300, current_acc 0.430261
+step 1400, current_acc 0.433942
+step 1500, current_acc 0.438250
+step 1600, current_acc 0.439826
+step 1700, current_acc 0.444303
+step 1800, current_acc 0.445894
+step 1900, current_acc 0.447287
+step 2000, current_acc 0.451573
+step 2100, current_acc 0.454781
+step 2200, current_acc 0.457041
+step 2300, current_acc 0.460232
+step 2400, current_acc 0.462935
+step 2500, current_acc 0.464751
+step 2600, current_acc 0.466842
+step 2700, current_acc 0.469431
+step 2800, current_acc 0.469914
+step 2900, current_acc 0.471156
+-----------------evolution results---------------- 
+[0.4856089, 0.45487133, 0.47499326, 0.5044969, 0.45824197, 0.4723587]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[0, True, 0, 1]
+Used feature layer number: 
+4
+full connection layer number: 
+2
+module number in each layer: 
+[6, 4, 2, 7, 7, 13, 8]
+filter number in each module: only first evolution result is vaild !!!!!!
+14
+
+generation: 5, training_avg_acc: 0.504497, time_cost: 9569.877082 s
+
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+4
+full connection layer number: 
+2
+module number in each layer: 
+[17, 16, 16, 27, 10, 13, 8]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+Filling queue with 20000 CIFAR20 images before starting to train. This will take a few minutes.
+step 100, current_acc 0.118397
+step 200, current_acc 0.169949
+step 300, current_acc 0.219905
+step 400, current_acc 0.252780
+step 500, current_acc 0.274110
+step 600, current_acc 0.296557
+step 700, current_acc 0.309966
+step 800, current_acc 0.320980
+step 900, current_acc 0.338963
+step 1000, current_acc 0.350228
+step 1100, current_acc 0.362714
+step 1200, current_acc 0.371375
+step 1300, current_acc 0.385069
+step 1400, current_acc 0.391130
+step 1500, current_acc 0.398128
+step 1600, current_acc 0.402678
+step 1700, current_acc 0.408412
+step 1800, current_acc 0.414120
+step 1900, current_acc 0.420385
+step 2000, current_acc 0.422611
+step 2100, current_acc 0.429911
+step 2200, current_acc 0.434843
+step 2300, current_acc 0.439098
+step 2400, current_acc 0.440486
+step 2500, current_acc 0.442308
+step 2600, current_acc 0.445603
+step 2700, current_acc 0.449520
+step 2800, current_acc 0.452013
+step 2900, current_acc 0.455548
+step 3000, current_acc 0.457885
+step 3100, current_acc 0.460793
+step 3200, current_acc 0.463382
+step 3300, current_acc 0.467283
+step 3400, current_acc 0.468649
+step 3500, current_acc 0.471973
+step 3600, current_acc 0.474583
+step 3700, current_acc 0.475752
+step 3800, current_acc 0.477353
+step 3900, current_acc 0.479215
+step 4000, current_acc 0.480678
+step 4100, current_acc 0.483276
+step 4200, current_acc 0.485794
+step 4300, current_acc 0.488518
+step 4400, current_acc 0.489811
+step 4500, current_acc 0.491838
+step 4600, current_acc 0.493606
+step 4700, current_acc 0.495433
+step 4800, current_acc 0.496248
+step 4900, current_acc 0.498424
+step 5000, current_acc 0.498089
+step 5100, current_acc 0.499814
+step 5200, current_acc 0.500847
+step 5300, current_acc 0.503862
+step 5400, current_acc 0.504624
+step 5500, current_acc 0.505701
+step 5600, current_acc 0.506420
+step 5700, current_acc 0.507141
+step 5800, current_acc 0.510227
+step 5900, current_acc 0.511616
+step 6000, current_acc 0.512393
+step 6100, current_acc 0.513764
+step 6200, current_acc 0.516223
+step 6300, current_acc 0.517008
+step 6400, current_acc 0.517896
+step 6500, current_acc 0.519724
+step 6600, current_acc 0.523033
+step 6700, current_acc 0.523677
+step 6800, current_acc 0.525000
+step 6900, current_acc 0.526552
+step 7000, current_acc 0.527764
+step 7100, current_acc 0.529200
+step 7200, current_acc 0.530348
+step 7300, current_acc 0.532208
+step 7400, current_acc 0.532971
+step 7500, current_acc 0.533051
+step 7600, current_acc 0.532469
+step 7700, current_acc 0.534270
+step 7800, current_acc 0.535592
+step 7900, current_acc 0.534985
+step 8000, current_acc 0.536684
+step 8100, current_acc 0.538716
+step 8200, current_acc 0.540360
+step 8300, current_acc 0.542102
+step 8400, current_acc 0.542886
+step 8500, current_acc 0.543191
+step 8600, current_acc 0.545458
+step 8700, current_acc 0.545695
+step 8800, current_acc 0.547474
+step 8900, current_acc 0.547533
+step 9000, current_acc 0.548625
+step 9100, current_acc 0.549145
+step 9200, current_acc 0.550775
+step 9300, current_acc 0.552619
+step 9400, current_acc 0.553157
+step 9500, current_acc 0.555823
+step 9600, current_acc 0.555340
+step 9700, current_acc 0.556958
+step 9800, current_acc 0.558145
+step 9900, current_acc 0.559431
+step 10000, current_acc 0.559625
+step 10100, current_acc 0.560969
+step 10200, current_acc 0.561573
+step 10300, current_acc 0.563179
+step 10400, current_acc 0.564188
+step 10500, current_acc 0.564719
+step 10600, current_acc 0.565018
+step 10700, current_acc 0.564266
+step 10800, current_acc 0.565308
+step 10900, current_acc 0.567065
+step 11000, current_acc 0.566639
+step 11100, current_acc 0.567596
+step 11200, current_acc 0.569065
+step 11300, current_acc 0.571464
+step 11400, current_acc 0.573389
+step 11500, current_acc 0.574761
+step 11600, current_acc 0.574816
+step 11700, current_acc 0.576465
+step 11800, current_acc 0.576214
+step 11900, current_acc 0.576289
+step 12000, current_acc 0.575625
+step 12100, current_acc 0.576980
+step 12200, current_acc 0.580035
+step 12300, current_acc 0.580415
+step 12400, current_acc 0.581330
+step 12500, current_acc 0.583917
+step 12600, current_acc 0.583488
+step 12700, current_acc 0.584132
+step 12800, current_acc 0.585228
+step 12900, current_acc 0.585989
+step 13000, current_acc 0.586747
+step 13100, current_acc 0.589327
+step 13200, current_acc 0.589562
+step 13300, current_acc 0.590420
+step 13400, current_acc 0.590864
+step 13500, current_acc 0.592069
+step 13600, current_acc 0.592581
+step 13700, current_acc 0.593660
+step 13800, current_acc 0.594279
+step 13900, current_acc 0.595287
+step 14000, current_acc 0.595848
+step 14100, current_acc 0.596149
+step 14200, current_acc 0.597706
+step 14300, current_acc 0.597974
+step 14400, current_acc 0.599019
+step 14500, current_acc 0.600299
+step 14600, current_acc 0.601618
+step 14700, current_acc 0.602965
+step 14800, current_acc 0.603545
+step 14900, current_acc 0.603359
+saving...  done.
+------------------transfer results------------------
+best structure training_avg_acc 0.6031847
+feature array, 0 - conv and 1 - pooling: 
+[1, 0, 0, 0]
+Used feature layer number: 
+4
+full connection layer number: 
+2
+module number in each layer: 
+[17, 16, 16, 27, 10, 13, 8]
+filter number in each module: only first evolution result is vaild !!!!!!
+20
+
+compurtation_of_network :  53466840.0
+

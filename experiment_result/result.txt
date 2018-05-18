@@ -1,0 +1,2854 @@
+Extracting /dataset/mnist/train-images-idx3-ubyte.gz
+Extracting /dataset/mnist/train-labels-idx1-ubyte.gz
+Extracting /dataset/mnist/t10k-images-idx3-ubyte.gz
+Extracting /dataset/mnist/t10k-labels-idx1-ubyte.gz
+(11817, 784)
+11817
+Successfully generate binary_mnist tfrecords!
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.455851
+step 200, current_acc 0.132235
+step 300, current_acc 0.347874
+step 400, current_acc 0.324506
+step 500, current_acc 0.299359
+step 600, current_acc 0.272653
+step 700, current_acc 0.281731
+step 800, current_acc 0.295846
+step 900, current_acc 0.347420
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.7126469
+feature_layer_0_ext_scale/Variable:0: 	0.7815067
+feature_layer_0_0_in_scale_1/Variable:0: 	0.90076566
+feature_layer_0_ext_scale_1/Variable:0: 	1.0060315
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.456024
+step 200, current_acc 0.147976
+step 300, current_acc 0.335754
+step 400, current_acc 0.308466
+step 500, current_acc 0.292995
+step 600, current_acc 0.271196
+step 700, current_acc 0.277607
+step 800, current_acc 0.294595
+step 900, current_acc 0.346982
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.7657581
+feature_layer_0_ext_scale/Variable:0: 	1.0763302
+feature_layer_0_0_in_scale_1/Variable:0: 	0.96148723
+feature_layer_0_ext_scale_1/Variable:0: 	0.7344541
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.456021
+step 200, current_acc 0.147964
+step 300, current_acc 0.335751
+step 400, current_acc 0.308241
+step 500, current_acc 0.292966
+step 600, current_acc 0.271107
+step 700, current_acc 0.277570
+step 800, current_acc 0.294584
+step 900, current_acc 0.346980
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.78984606
+feature_layer_0_ext_scale/Variable:0: 	0.994176
+feature_layer_0_0_in_scale_1/Variable:0: 	0.9873944
+feature_layer_0_ext_scale_1/Variable:0: 	0.8607636
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.455964
+step 200, current_acc 0.132230
+step 300, current_acc 0.323417
+step 400, current_acc 0.322573
+step 500, current_acc 0.294901
+step 600, current_acc 0.271460
+step 700, current_acc 0.281503
+step 800, current_acc 0.295775
+step 900, current_acc 0.347394
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.844161
+feature_layer_0_ext_scale/Variable:0: 	1.0334741
+feature_layer_0_0_in_scale_1/Variable:0: 	0.82349294
+feature_layer_0_ext_scale_1/Variable:0: 	1.0027447
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.455994
+step 200, current_acc 0.126720
+step 300, current_acc 0.335153
+step 400, current_acc 0.323482
+step 500, current_acc 0.295090
+step 600, current_acc 0.271522
+step 700, current_acc 0.277675
+step 800, current_acc 0.294616
+step 900, current_acc 0.346991
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.6897551
+feature_layer_0_ext_scale/Variable:0: 	1.029654
+feature_layer_0_0_in_scale_1/Variable:0: 	0.8539239
+feature_layer_0_ext_scale_1/Variable:0: 	1.0632272
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.455978
+step 200, current_acc 0.132229
+step 300, current_acc 0.323783
+step 400, current_acc 0.322663
+step 500, current_acc 0.294910
+step 600, current_acc 0.271432
+step 700, current_acc 0.277666
+step 800, current_acc 0.294613
+step 900, current_acc 0.346988
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.83410805
+feature_layer_0_ext_scale/Variable:0: 	0.90571314
+feature_layer_0_0_in_scale_1/Variable:0: 	1.004847
+feature_layer_0_ext_scale_1/Variable:0: 	0.8778501
+-----------------evolution results---------------- 
+[0.3447668, 0.34459585, 0.3445934, 0.3447571, 0.34459877, 0.3445977]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+1
+module number in each layer: 
+[1, 1, 1]
+filter number in each module: only first evolution result is vaild !!!!!!
+2
+
+generation: 0, training_avg_acc: 0.344767, time_cost: 300.200091 s
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.456027
+step 200, current_acc 0.147976
+step 300, current_acc 0.335746
+step 400, current_acc 0.308243
+step 500, current_acc 0.292927
+step 600, current_acc 0.270924
+step 700, current_acc 0.277567
+step 800, current_acc 0.294582
+step 900, current_acc 0.346979
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.84810627
+feature_layer_0_ext_scale/Variable:0: 	0.943856
+feature_layer_0_0_in_scale_1/Variable:0: 	0.94595766
+feature_layer_0_ext_scale_1/Variable:0: 	1.0311679
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.456038
+step 200, current_acc 0.147968
+step 300, current_acc 0.335750
+step 400, current_acc 0.308338
+step 500, current_acc 0.292945
+step 600, current_acc 0.271043
+step 700, current_acc 0.277567
+step 800, current_acc 0.294584
+step 900, current_acc 0.346979
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.5450523
+feature_layer_0_1_in_scale/Variable:0: 	0.5816195
+feature_layer_0_2_in_scale/Variable:0: 	0.5970796
+feature_layer_0_3_in_scale/Variable:0: 	0.5832065
+feature_layer_0_ext_scale/Variable:0: 	1.0652553
+feature_layer_0_ext_scale_1/Variable:0: 	1.0289229
+feature_layer_0_ext_scale_2/Variable:0: 	0.8612044
+feature_layer_0_ext_scale_3/Variable:0: 	0.98928225
+feature_layer_0_0_in_scale_1/Variable:0: 	0.8670764
+feature_layer_0_1_in_scale_1/Variable:0: 	0.81958854
+feature_layer_0_2_in_scale_1/Variable:0: 	0.9774379
+feature_layer_0_3_in_scale_1/Variable:0: 	1.076205
+feature_layer_0_ext_scale_4/Variable:0: 	0.8590302
+feature_layer_0_ext_scale_5/Variable:0: 	1.0257139
+feature_layer_0_ext_scale_6/Variable:0: 	0.9474238
+feature_layer_0_ext_scale_7/Variable:0: 	0.87227625
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.524678
+step 200, current_acc 0.154668
+step 300, current_acc 0.341819
+step 400, current_acc 0.379973
+step 500, current_acc 0.478240
+step 600, current_acc 0.685105
+step 700, current_acc 0.836978
+step 800, current_acc 0.878891
+step 900, current_acc 0.876017
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.48123723
+feature_layer_0_1_in_scale/Variable:0: 	0.57545465
+feature_layer_0_2_in_scale/Variable:0: 	0.5771253
+feature_layer_0_3_in_scale/Variable:0: 	-0.23928648
+feature_layer_0_4_in_scale/Variable:0: 	0.5480004
+feature_layer_0_ext_scale/Variable:0: 	0.3124201
+feature_layer_0_ext_scale_1/Variable:0: 	0.32963657
+feature_layer_0_ext_scale_2/Variable:0: 	0.322676
+feature_layer_0_ext_scale_3/Variable:0: 	0.13727115
+feature_layer_0_ext_scale_4/Variable:0: 	0.33314782
+feature_layer_0_0_in_scale_1/Variable:0: 	0.20535573
+feature_layer_0_1_in_scale_1/Variable:0: 	0.21642871
+feature_layer_0_2_in_scale_1/Variable:0: 	0.22423114
+feature_layer_0_3_in_scale_1/Variable:0: 	0.21265374
+feature_layer_0_4_in_scale_1/Variable:0: 	0.2138936
+feature_layer_0_ext_scale_5/Variable:0: 	0.5716348
+feature_layer_0_ext_scale_6/Variable:0: 	0.39802343
+feature_layer_0_ext_scale_7/Variable:0: 	0.82679754
+feature_layer_0_ext_scale_8/Variable:0: 	0.5420851
+feature_layer_0_ext_scale_9/Variable:0: 	0.54935604
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.455826
+step 200, current_acc 0.110561
+step 300, current_acc 0.349402
+step 400, current_acc 0.327847
+step 500, current_acc 0.299821
+step 600, current_acc 0.272451
+step 700, current_acc 0.281738
+step 800, current_acc 0.299873
+step 900, current_acc 0.348931
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.68748003
+feature_layer_0_ext_scale/Variable:0: 	0.9328527
+feature_layer_0_0_in_scale_1/Variable:0: 	0.814625
+feature_layer_0_ext_scale_1/Variable:0: 	0.8217179
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.456064
+step 200, current_acc 0.147957
+step 300, current_acc 0.335751
+step 400, current_acc 0.308275
+step 500, current_acc 0.292967
+step 600, current_acc 0.271161
+step 700, current_acc 0.277568
+step 800, current_acc 0.294583
+step 900, current_acc 0.346979
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.7227801
+feature_layer_0_ext_scale/Variable:0: 	0.76871693
+feature_layer_0_0_in_scale_1/Variable:0: 	0.9261294
+feature_layer_0_ext_scale_1/Variable:0: 	0.83483374
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.456049
+step 200, current_acc 0.126721
+step 300, current_acc 0.335149
+step 400, current_acc 0.308226
+step 500, current_acc 0.292931
+step 600, current_acc 0.271160
+step 700, current_acc 0.277583
+step 800, current_acc 0.294587
+step 900, current_acc 0.346977
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.63699144
+feature_layer_0_1_in_scale/Variable:0: 	0.62254137
+feature_layer_0_2_in_scale/Variable:0: 	0.6835409
+feature_layer_0_3_in_scale/Variable:0: 	0.63470715
+feature_layer_0_4_in_scale/Variable:0: 	0.73675966
+feature_layer_0_5_in_scale/Variable:0: 	0.5782283
+feature_layer_0_ext_scale/Variable:0: 	0.9747865
+feature_layer_0_ext_scale_1/Variable:0: 	0.8346153
+feature_layer_0_ext_scale_2/Variable:0: 	0.86658156
+feature_layer_0_ext_scale_3/Variable:0: 	0.80014867
+feature_layer_0_ext_scale_4/Variable:0: 	0.83451456
+feature_layer_0_ext_scale_5/Variable:0: 	0.89598805
+feature_layer_0_0_in_scale_1/Variable:0: 	0.97352636
+feature_layer_0_1_in_scale_1/Variable:0: 	0.80988425
+feature_layer_0_2_in_scale_1/Variable:0: 	0.77203727
+feature_layer_0_3_in_scale_1/Variable:0: 	0.91454864
+feature_layer_0_4_in_scale_1/Variable:0: 	0.78888834
+feature_layer_0_5_in_scale_1/Variable:0: 	0.8587496
+feature_layer_0_ext_scale_6/Variable:0: 	0.71261984
+feature_layer_0_ext_scale_7/Variable:0: 	0.87277275
+feature_layer_0_ext_scale_8/Variable:0: 	0.77016217
+feature_layer_0_ext_scale_9/Variable:0: 	0.7383015
+feature_layer_0_ext_scale_10/Variable:0: 	0.8059227
+feature_layer_0_ext_scale_11/Variable:0: 	0.7074985
+-----------------evolution results---------------- 
+[0.34459332, 0.34459448, 0.9436873, 0.34536064, 0.34459433, 0.34459266]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[5, 8]
+filter number in each module: only first evolution result is vaild !!!!!!
+4
+
+generation: 1, training_avg_acc: 0.943687, time_cost: 326.045648 s
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.524144
+step 200, current_acc 0.634962
+step 300, current_acc 0.676203
+step 400, current_acc 0.426952
+step 500, current_acc 0.423485
+step 600, current_acc 0.331617
+step 700, current_acc 0.296642
+step 800, current_acc 0.363442
+step 900, current_acc 0.455832
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.118435316
+feature_layer_0_1_in_scale/Variable:0: 	-0.24573396
+feature_layer_0_2_in_scale/Variable:0: 	-0.39481518
+feature_layer_0_3_in_scale/Variable:0: 	0.3279081
+feature_layer_0_4_in_scale/Variable:0: 	-0.2986816
+feature_layer_0_5_in_scale/Variable:0: 	-0.43691495
+feature_layer_0_ext_scale/Variable:0: 	0.26098052
+feature_layer_0_ext_scale_1/Variable:0: 	0.35222167
+feature_layer_0_ext_scale_2/Variable:0: 	0.35358003
+feature_layer_0_ext_scale_3/Variable:0: 	0.32384017
+feature_layer_0_ext_scale_4/Variable:0: 	0.32347587
+feature_layer_0_ext_scale_5/Variable:0: 	0.38213217
+feature_layer_0_0_in_scale_1/Variable:0: 	0.1832514
+feature_layer_0_1_in_scale_1/Variable:0: 	0.38250846
+feature_layer_0_2_in_scale_1/Variable:0: 	0.29149315
+feature_layer_0_3_in_scale_1/Variable:0: 	0.31868684
+feature_layer_0_4_in_scale_1/Variable:0: 	0.20211525
+feature_layer_0_5_in_scale_1/Variable:0: 	0.39109904
+feature_layer_0_ext_scale_6/Variable:0: 	0.32552984
+feature_layer_0_ext_scale_7/Variable:0: 	0.26971716
+feature_layer_0_ext_scale_8/Variable:0: 	0.236142
+feature_layer_0_ext_scale_9/Variable:0: 	0.18458568
+feature_layer_0_ext_scale_10/Variable:0: 	0.2155271
+feature_layer_0_ext_scale_11/Variable:0: 	0.33246818
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.517443
+step 200, current_acc 0.634958
+step 300, current_acc 0.676197
+step 400, current_acc 0.532620
+step 500, current_acc 0.456194
+step 600, current_acc 0.433010
+step 700, current_acc 0.498919
+step 800, current_acc 0.435241
+step 900, current_acc 0.424289
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.16667365
+feature_layer_0_1_in_scale/Variable:0: 	0.03887872
+feature_layer_0_2_in_scale/Variable:0: 	0.14668594
+feature_layer_0_3_in_scale/Variable:0: 	0.018853655
+feature_layer_0_4_in_scale/Variable:0: 	0.08247393
+feature_layer_0_5_in_scale/Variable:0: 	0.0076990817
+feature_layer_0_ext_scale/Variable:0: 	0.4529886
+feature_layer_0_ext_scale_1/Variable:0: 	0.52085614
+feature_layer_0_ext_scale_2/Variable:0: 	0.24495506
+feature_layer_0_ext_scale_3/Variable:0: 	0.29760385
+feature_layer_0_ext_scale_4/Variable:0: 	0.44711947
+feature_layer_0_ext_scale_5/Variable:0: 	0.5079164
+feature_layer_0_0_in_scale_1/Variable:0: 	0.35429
+feature_layer_0_1_in_scale_1/Variable:0: 	0.43153012
+feature_layer_0_2_in_scale_1/Variable:0: 	0.5542905
+feature_layer_0_3_in_scale_1/Variable:0: 	0.3730329
+feature_layer_0_4_in_scale_1/Variable:0: 	0.39742947
+feature_layer_0_5_in_scale_1/Variable:0: 	0.39968118
+feature_layer_0_ext_scale_6/Variable:0: 	0.4139351
+feature_layer_0_ext_scale_7/Variable:0: 	0.44740984
+feature_layer_0_ext_scale_8/Variable:0: 	0.59748054
+feature_layer_0_ext_scale_9/Variable:0: 	0.5641804
+feature_layer_0_ext_scale_10/Variable:0: 	0.39752203
+feature_layer_0_ext_scale_11/Variable:0: 	0.3842388
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.526939
+step 200, current_acc 0.209135
+step 300, current_acc 0.298240
+step 400, current_acc 0.471158
+step 500, current_acc 0.263237
+step 600, current_acc 0.244445
+step 700, current_acc 0.239954
+step 800, current_acc 0.312268
+step 900, current_acc 0.327390
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.012491088
+feature_layer_0_1_in_scale/Variable:0: 	-0.07633283
+feature_layer_0_2_in_scale/Variable:0: 	-0.064605415
+feature_layer_0_3_in_scale/Variable:0: 	-0.0041439296
+feature_layer_0_4_in_scale/Variable:0: 	0.012012143
+feature_layer_0_ext_scale/Variable:0: 	0.24319935
+feature_layer_0_ext_scale_1/Variable:0: 	0.2203208
+feature_layer_0_ext_scale_2/Variable:0: 	0.25320366
+feature_layer_0_ext_scale_3/Variable:0: 	0.47593334
+feature_layer_0_ext_scale_4/Variable:0: 	0.27784735
+feature_layer_0_0_in_scale_1/Variable:0: 	0.47255123
+feature_layer_0_1_in_scale_1/Variable:0: 	0.335091
+feature_layer_0_2_in_scale_1/Variable:0: 	0.37603065
+feature_layer_0_3_in_scale_1/Variable:0: 	0.23992626
+feature_layer_0_4_in_scale_1/Variable:0: 	0.13684595
+feature_layer_0_ext_scale_5/Variable:0: 	0.32408938
+feature_layer_0_ext_scale_6/Variable:0: 	0.22903337
+feature_layer_0_ext_scale_7/Variable:0: 	0.22731178
+feature_layer_0_ext_scale_8/Variable:0: 	0.40512353
+feature_layer_0_ext_scale_9/Variable:0: 	0.5496746
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.456059
+step 200, current_acc 0.147967
+step 300, current_acc 0.335748
+step 400, current_acc 0.308241
+step 500, current_acc 0.292934
+step 600, current_acc 0.271156
+step 700, current_acc 0.277566
+step 800, current_acc 0.294583
+step 900, current_acc 0.346978
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.7735487
+feature_layer_0_ext_scale/Variable:0: 	0.93363255
+feature_layer_0_0_in_scale_1/Variable:0: 	0.78095627
+feature_layer_0_ext_scale_1/Variable:0: 	0.8400901
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.296169
+step 200, current_acc 0.128685
+step 300, current_acc 0.251527
+step 400, current_acc 0.303395
+step 500, current_acc 0.402315
+step 600, current_acc 0.243633
+step 700, current_acc 0.286375
+step 800, current_acc 0.308002
+step 900, current_acc 0.330780
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.015578246
+feature_layer_0_1_in_scale/Variable:0: 	-0.065502994
+feature_layer_0_2_in_scale/Variable:0: 	0.016972601
+feature_layer_0_3_in_scale/Variable:0: 	0.059093583
+feature_layer_0_ext_scale/Variable:0: 	0.5564408
+feature_layer_0_ext_scale_1/Variable:0: 	0.25413826
+feature_layer_0_ext_scale_2/Variable:0: 	0.28653097
+feature_layer_0_ext_scale_3/Variable:0: 	0.24601214
+feature_layer_0_0_in_scale_1/Variable:0: 	0.44441378
+feature_layer_0_1_in_scale_1/Variable:0: 	0.17493647
+feature_layer_0_2_in_scale_1/Variable:0: 	0.3864849
+feature_layer_0_3_in_scale_1/Variable:0: 	0.19392133
+feature_layer_0_ext_scale_4/Variable:0: 	0.46955097
+feature_layer_0_ext_scale_5/Variable:0: 	0.2682921
+feature_layer_0_ext_scale_6/Variable:0: 	0.41604075
+feature_layer_0_ext_scale_7/Variable:0: 	0.3444842
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.064174
+step 200, current_acc 0.200192
+step 300, current_acc 0.406290
+step 400, current_acc 0.485595
+step 500, current_acc 0.427580
+step 600, current_acc 0.357613
+step 700, current_acc 0.351730
+step 800, current_acc 0.456311
+step 900, current_acc 0.415629
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.014590742
+feature_layer_0_1_in_scale/Variable:0: 	-0.073642835
+feature_layer_0_2_in_scale/Variable:0: 	0.020879721
+feature_layer_0_3_in_scale/Variable:0: 	0.005273976
+feature_layer_0_4_in_scale/Variable:0: 	-0.007557619
+feature_layer_0_ext_scale/Variable:0: 	0.54402626
+feature_layer_0_ext_scale_1/Variable:0: 	0.38838658
+feature_layer_0_ext_scale_2/Variable:0: 	0.4681657
+feature_layer_0_ext_scale_3/Variable:0: 	0.4826067
+feature_layer_0_ext_scale_4/Variable:0: 	0.5653484
+feature_layer_0_0_in_scale_1/Variable:0: 	0.37478024
+feature_layer_0_1_in_scale_1/Variable:0: 	0.33238685
+feature_layer_0_2_in_scale_1/Variable:0: 	0.37649179
+feature_layer_0_3_in_scale_1/Variable:0: 	0.5673192
+feature_layer_0_4_in_scale_1/Variable:0: 	0.38784897
+feature_layer_0_ext_scale_5/Variable:0: 	0.64357007
+feature_layer_0_ext_scale_6/Variable:0: 	0.60650146
+feature_layer_0_ext_scale_7/Variable:0: 	0.32915476
+feature_layer_0_ext_scale_8/Variable:0: 	0.3660955
+feature_layer_0_ext_scale_9/Variable:0: 	0.43381706
+-----------------evolution results---------------- 
+[0.36239353, 0.37496537, 0.34082624, 0.34459352, 0.30052537, 0.48198873]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[5, 7]
+filter number in each module: only first evolution result is vaild !!!!!!
+6
+
+generation: 2, training_avg_acc: 0.481989, time_cost: 369.191567 s
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.122226
+step 200, current_acc 0.167861
+step 300, current_acc 0.444492
+step 400, current_acc 0.521572
+step 500, current_acc 0.723583
+step 600, current_acc 0.838775
+step 700, current_acc 0.915385
+step 800, current_acc 0.907655
+step 900, current_acc 0.957811
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.6927345
+feature_layer_0_1_in_scale/Variable:0: 	-0.032417208
+feature_layer_0_2_in_scale/Variable:0: 	0.44789487
+feature_layer_0_3_in_scale/Variable:0: 	0.03414966
+feature_layer_0_4_in_scale/Variable:0: 	0.20362023
+feature_layer_0_5_in_scale/Variable:0: 	0.12283827
+feature_layer_0_ext_scale/Variable:0: 	0.47167477
+feature_layer_0_ext_scale_1/Variable:0: 	0.41363847
+feature_layer_0_ext_scale_2/Variable:0: 	0.35733002
+feature_layer_0_ext_scale_3/Variable:0: 	0.2119602
+feature_layer_0_ext_scale_4/Variable:0: 	0.21098228
+feature_layer_0_ext_scale_5/Variable:0: 	0.27386263
+feature_layer_0_0_in_scale_1/Variable:0: 	0.32323617
+feature_layer_0_1_in_scale_1/Variable:0: 	0.2718666
+feature_layer_0_2_in_scale_1/Variable:0: 	0.206952
+feature_layer_0_3_in_scale_1/Variable:0: 	0.22576
+feature_layer_0_4_in_scale_1/Variable:0: 	0.29398704
+feature_layer_0_5_in_scale_1/Variable:0: 	0.30058184
+feature_layer_0_ext_scale_6/Variable:0: 	0.40038022
+feature_layer_0_ext_scale_7/Variable:0: 	0.5492863
+feature_layer_0_ext_scale_8/Variable:0: 	0.50657195
+feature_layer_0_ext_scale_9/Variable:0: 	0.5035196
+feature_layer_0_ext_scale_10/Variable:0: 	0.438571
+feature_layer_0_ext_scale_11/Variable:0: 	0.5885124
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.207235
+step 200, current_acc 0.164455
+step 300, current_acc 0.436458
+step 400, current_acc 0.501655
+step 500, current_acc 0.689131
+step 600, current_acc 0.811413
+step 700, current_acc 0.914969
+step 800, current_acc 0.965336
+step 900, current_acc 0.981820
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.5460545
+feature_layer_0_1_in_scale/Variable:0: 	0.69084543
+feature_layer_0_2_in_scale/Variable:0: 	-0.22596635
+feature_layer_0_3_in_scale/Variable:0: 	0.4060515
+feature_layer_0_4_in_scale/Variable:0: 	-0.4099135
+feature_layer_0_5_in_scale/Variable:0: 	0.647272
+feature_layer_0_6_in_scale/Variable:0: 	0.6131683
+feature_layer_0_7_in_scale/Variable:0: 	0.38301873
+feature_layer_0_ext_scale/Variable:0: 	0.37251338
+feature_layer_0_ext_scale_1/Variable:0: 	0.32446927
+feature_layer_0_ext_scale_2/Variable:0: 	0.12021068
+feature_layer_0_ext_scale_3/Variable:0: 	0.33627677
+feature_layer_0_ext_scale_4/Variable:0: 	0.1488559
+feature_layer_0_ext_scale_5/Variable:0: 	0.44740522
+feature_layer_0_ext_scale_6/Variable:0: 	0.3469887
+feature_layer_0_ext_scale_7/Variable:0: 	0.26190764
+feature_layer_0_0_in_scale_1/Variable:0: 	0.24494435
+feature_layer_0_1_in_scale_1/Variable:0: 	0.26310033
+feature_layer_0_2_in_scale_1/Variable:0: 	0.2865813
+feature_layer_0_3_in_scale_1/Variable:0: 	0.28109762
+feature_layer_0_4_in_scale_1/Variable:0: 	0.3038689
+feature_layer_0_5_in_scale_1/Variable:0: 	0.2638935
+feature_layer_0_6_in_scale_1/Variable:0: 	0.30307758
+feature_layer_0_7_in_scale_1/Variable:0: 	0.32460797
+feature_layer_0_ext_scale_8/Variable:0: 	0.47996235
+feature_layer_0_ext_scale_9/Variable:0: 	0.5750851
+feature_layer_0_ext_scale_10/Variable:0: 	0.8208293
+feature_layer_0_ext_scale_11/Variable:0: 	0.42754135
+feature_layer_0_ext_scale_12/Variable:0: 	0.7134301
+feature_layer_0_ext_scale_13/Variable:0: 	0.52894765
+feature_layer_0_ext_scale_14/Variable:0: 	0.640213
+feature_layer_0_ext_scale_15/Variable:0: 	0.615187
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.068869
+step 200, current_acc 0.138063
+step 300, current_acc 0.328783
+step 400, current_acc 0.320357
+step 500, current_acc 0.361027
+step 600, current_acc 0.531349
+step 700, current_acc 0.661376
+step 800, current_acc 0.853271
+step 900, current_acc 0.858367
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.14773169
+feature_layer_0_1_in_scale/Variable:0: 	-0.04990258
+feature_layer_0_2_in_scale/Variable:0: 	0.29905123
+feature_layer_0_3_in_scale/Variable:0: 	0.17757201
+feature_layer_0_4_in_scale/Variable:0: 	0.21199164
+feature_layer_0_5_in_scale/Variable:0: 	0.28018284
+feature_layer_0_6_in_scale/Variable:0: 	0.13716877
+feature_layer_0_ext_scale/Variable:0: 	0.33586535
+feature_layer_0_ext_scale_1/Variable:0: 	0.45185202
+feature_layer_0_ext_scale_2/Variable:0: 	0.40101466
+feature_layer_0_ext_scale_3/Variable:0: 	0.14626715
+feature_layer_0_ext_scale_4/Variable:0: 	0.22741915
+feature_layer_0_ext_scale_5/Variable:0: 	0.22371644
+feature_layer_0_ext_scale_6/Variable:0: 	0.39331996
+feature_layer_0_0_in_scale_1/Variable:0: 	0.4068246
+feature_layer_0_1_in_scale_1/Variable:0: 	0.38272014
+feature_layer_0_2_in_scale_1/Variable:0: 	0.27817443
+feature_layer_0_3_in_scale_1/Variable:0: 	0.2431054
+feature_layer_0_4_in_scale_1/Variable:0: 	0.33312574
+feature_layer_0_5_in_scale_1/Variable:0: 	0.28954616
+feature_layer_0_6_in_scale_1/Variable:0: 	0.30819663
+feature_layer_0_ext_scale_7/Variable:0: 	0.38806036
+feature_layer_0_ext_scale_8/Variable:0: 	0.4735962
+feature_layer_0_ext_scale_9/Variable:0: 	0.53015065
+feature_layer_0_ext_scale_10/Variable:0: 	0.46919423
+feature_layer_0_ext_scale_11/Variable:0: 	0.32906002
+feature_layer_0_ext_scale_12/Variable:0: 	0.57989293
+feature_layer_0_ext_scale_13/Variable:0: 	0.49158064
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.048531
+step 200, current_acc 0.140056
+step 300, current_acc 0.331399
+step 400, current_acc 0.322672
+step 500, current_acc 0.265564
+step 600, current_acc 0.281363
+step 700, current_acc 0.254910
+step 800, current_acc 0.275273
+step 900, current_acc 0.402641
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.06872897
+feature_layer_0_1_in_scale/Variable:0: 	-0.0137904305
+feature_layer_0_2_in_scale/Variable:0: 	0.02388422
+feature_layer_0_3_in_scale/Variable:0: 	-0.018468387
+feature_layer_0_4_in_scale/Variable:0: 	0.013765003
+feature_layer_0_5_in_scale/Variable:0: 	-0.006882715
+feature_layer_0_6_in_scale/Variable:0: 	0.034816448
+feature_layer_0_7_in_scale/Variable:0: 	0.009817163
+feature_layer_0_8_in_scale/Variable:0: 	-0.009833953
+feature_layer_0_ext_scale/Variable:0: 	0.32270285
+feature_layer_0_ext_scale_1/Variable:0: 	0.30666053
+feature_layer_0_ext_scale_2/Variable:0: 	0.21033195
+feature_layer_0_ext_scale_3/Variable:0: 	0.54996413
+feature_layer_0_ext_scale_4/Variable:0: 	0.37319645
+feature_layer_0_ext_scale_5/Variable:0: 	0.54109055
+feature_layer_0_ext_scale_6/Variable:0: 	0.31616956
+feature_layer_0_ext_scale_7/Variable:0: 	0.46401688
+feature_layer_0_ext_scale_8/Variable:0: 	0.39983377
+feature_layer_0_0_in_scale_1/Variable:0: 	0.21286248
+feature_layer_0_1_in_scale_1/Variable:0: 	0.36964178
+feature_layer_0_2_in_scale_1/Variable:0: 	0.29907277
+feature_layer_0_3_in_scale_1/Variable:0: 	0.34920934
+feature_layer_0_4_in_scale_1/Variable:0: 	0.3176222
+feature_layer_0_5_in_scale_1/Variable:0: 	0.32993257
+feature_layer_0_6_in_scale_1/Variable:0: 	0.4701009
+feature_layer_0_7_in_scale_1/Variable:0: 	0.40128502
+feature_layer_0_8_in_scale_1/Variable:0: 	0.49926072
+feature_layer_0_ext_scale_9/Variable:0: 	0.5216452
+feature_layer_0_ext_scale_10/Variable:0: 	0.5211932
+feature_layer_0_ext_scale_11/Variable:0: 	0.41870183
+feature_layer_0_ext_scale_12/Variable:0: 	0.4266918
+feature_layer_0_ext_scale_13/Variable:0: 	0.45644715
+feature_layer_0_ext_scale_14/Variable:0: 	0.36945367
+feature_layer_0_ext_scale_15/Variable:0: 	0.45882645
+feature_layer_0_ext_scale_16/Variable:0: 	0.26495057
+feature_layer_0_ext_scale_17/Variable:0: 	0.39804187
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.234039
+step 200, current_acc 0.156863
+step 300, current_acc 0.382630
+step 400, current_acc 0.275128
+step 500, current_acc 0.420186
+step 600, current_acc 0.292965
+step 700, current_acc 0.283721
+step 800, current_acc 0.302810
+step 900, current_acc 0.349472
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.006324755
+feature_layer_0_1_in_scale/Variable:0: 	0.079552986
+feature_layer_0_2_in_scale/Variable:0: 	-0.001702619
+feature_layer_0_3_in_scale/Variable:0: 	0.0063732103
+feature_layer_0_ext_scale/Variable:0: 	0.36367872
+feature_layer_0_ext_scale_1/Variable:0: 	0.24906392
+feature_layer_0_ext_scale_2/Variable:0: 	0.51939327
+feature_layer_0_ext_scale_3/Variable:0: 	0.4639962
+feature_layer_0_0_in_scale_1/Variable:0: 	0.47933394
+feature_layer_0_1_in_scale_1/Variable:0: 	0.38444352
+feature_layer_0_2_in_scale_1/Variable:0: 	0.5702271
+feature_layer_0_3_in_scale_1/Variable:0: 	0.5105277
+feature_layer_0_ext_scale_4/Variable:0: 	0.3804164
+feature_layer_0_ext_scale_5/Variable:0: 	0.6235403
+feature_layer_0_ext_scale_6/Variable:0: 	0.5157037
+feature_layer_0_ext_scale_7/Variable:0: 	0.5927294
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.046400
+step 200, current_acc 0.159357
+step 300, current_acc 0.311120
+step 400, current_acc 0.348028
+step 500, current_acc 0.350797
+step 600, current_acc 0.508875
+step 700, current_acc 0.414385
+step 800, current_acc 0.587506
+step 900, current_acc 0.483537
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.09994538
+feature_layer_0_1_in_scale/Variable:0: 	0.1684377
+feature_layer_0_2_in_scale/Variable:0: 	0.091428734
+feature_layer_0_3_in_scale/Variable:0: 	-0.11536432
+feature_layer_0_4_in_scale/Variable:0: 	-0.10624013
+feature_layer_0_ext_scale/Variable:0: 	0.18328997
+feature_layer_0_ext_scale_1/Variable:0: 	0.19688767
+feature_layer_0_ext_scale_2/Variable:0: 	0.26245853
+feature_layer_0_ext_scale_3/Variable:0: 	0.3175827
+feature_layer_0_ext_scale_4/Variable:0: 	0.4348177
+feature_layer_0_0_in_scale_1/Variable:0: 	0.38952518
+feature_layer_0_1_in_scale_1/Variable:0: 	0.28381458
+feature_layer_0_2_in_scale_1/Variable:0: 	0.19269547
+feature_layer_0_3_in_scale_1/Variable:0: 	0.22626698
+feature_layer_0_4_in_scale_1/Variable:0: 	0.43426597
+feature_layer_0_ext_scale_5/Variable:0: 	0.26589775
+feature_layer_0_ext_scale_6/Variable:0: 	0.37783423
+feature_layer_0_ext_scale_7/Variable:0: 	0.41760078
+feature_layer_0_ext_scale_8/Variable:0: 	0.18650407
+feature_layer_0_ext_scale_9/Variable:0: 	0.40620548
+-----------------evolution results---------------- 
+[0.9781036, 0.98765343, 0.9357293, 0.37189758, 0.32877842, 0.5617077]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[7, 13]
+filter number in each module: only first evolution result is vaild !!!!!!
+8
+
+generation: 3, training_avg_acc: 0.987653, time_cost: 421.157979 s
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.061042
+step 200, current_acc 0.257531
+step 300, current_acc 0.606335
+step 400, current_acc 0.728316
+step 500, current_acc 0.857013
+step 600, current_acc 0.864725
+step 700, current_acc 0.936652
+step 800, current_acc 0.973959
+step 900, current_acc 0.984765
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.30453178
+feature_layer_0_1_in_scale/Variable:0: 	0.16880748
+feature_layer_0_2_in_scale/Variable:0: 	0.1354746
+feature_layer_0_3_in_scale/Variable:0: 	0.3665293
+feature_layer_0_4_in_scale/Variable:0: 	0.34366286
+feature_layer_0_5_in_scale/Variable:0: 	0.28800827
+feature_layer_0_ext_scale/Variable:0: 	0.33834663
+feature_layer_0_ext_scale_1/Variable:0: 	0.3479529
+feature_layer_0_ext_scale_2/Variable:0: 	0.24320662
+feature_layer_0_ext_scale_3/Variable:0: 	0.3986643
+feature_layer_0_ext_scale_4/Variable:0: 	0.36508104
+feature_layer_0_ext_scale_5/Variable:0: 	0.2901855
+feature_layer_0_0_in_scale_1/Variable:0: 	0.3460862
+feature_layer_0_1_in_scale_1/Variable:0: 	0.3615159
+feature_layer_0_2_in_scale_1/Variable:0: 	0.35402676
+feature_layer_0_3_in_scale_1/Variable:0: 	0.41772524
+feature_layer_0_4_in_scale_1/Variable:0: 	0.26442745
+feature_layer_0_5_in_scale_1/Variable:0: 	0.32055655
+feature_layer_0_ext_scale_6/Variable:0: 	0.4100819
+feature_layer_0_ext_scale_7/Variable:0: 	0.71480876
+feature_layer_0_ext_scale_8/Variable:0: 	0.5535979
+feature_layer_0_ext_scale_9/Variable:0: 	0.3277039
+feature_layer_0_ext_scale_10/Variable:0: 	0.45805305
+feature_layer_0_ext_scale_11/Variable:0: 	0.5176776
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.048924
+step 200, current_acc 0.131645
+step 300, current_acc 0.342183
+step 400, current_acc 0.347679
+step 500, current_acc 0.409148
+step 600, current_acc 0.595399
+step 700, current_acc 0.665497
+step 800, current_acc 0.828768
+step 900, current_acc 0.907613
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.018535562
+feature_layer_0_1_in_scale/Variable:0: 	0.059996527
+feature_layer_0_2_in_scale/Variable:0: 	-0.0023664697
+feature_layer_0_3_in_scale/Variable:0: 	0.18593812
+feature_layer_0_4_in_scale/Variable:0: 	0.40617058
+feature_layer_0_ext_scale/Variable:0: 	0.26769075
+feature_layer_0_ext_scale_1/Variable:0: 	0.36468804
+feature_layer_0_ext_scale_2/Variable:0: 	0.33399206
+feature_layer_0_ext_scale_3/Variable:0: 	0.23169287
+feature_layer_0_ext_scale_4/Variable:0: 	0.19327842
+feature_layer_0_0_in_scale_1/Variable:0: 	0.4614814
+feature_layer_0_1_in_scale_1/Variable:0: 	0.27325118
+feature_layer_0_2_in_scale_1/Variable:0: 	0.23952547
+feature_layer_0_3_in_scale_1/Variable:0: 	0.3817815
+feature_layer_0_4_in_scale_1/Variable:0: 	0.32299674
+feature_layer_0_ext_scale_5/Variable:0: 	0.56645566
+feature_layer_0_ext_scale_6/Variable:0: 	0.54667056
+feature_layer_0_ext_scale_7/Variable:0: 	0.62584275
+feature_layer_0_ext_scale_8/Variable:0: 	0.39854807
+feature_layer_0_ext_scale_9/Variable:0: 	0.53865486
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.229415
+step 200, current_acc 0.154452
+step 300, current_acc 0.304493
+step 400, current_acc 0.269224
+step 500, current_acc 0.244702
+step 600, current_acc 0.240393
+step 700, current_acc 0.251089
+step 800, current_acc 0.291635
+step 900, current_acc 0.426247
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	5.2882126e-05
+feature_layer_0_1_in_scale/Variable:0: 	-0.0018538279
+feature_layer_0_2_in_scale/Variable:0: 	-0.0021469705
+feature_layer_0_3_in_scale/Variable:0: 	0.00071460474
+feature_layer_0_4_in_scale/Variable:0: 	-0.16709824
+feature_layer_0_5_in_scale/Variable:0: 	0.098922655
+feature_layer_0_6_in_scale/Variable:0: 	-0.004103526
+feature_layer_0_ext_scale/Variable:0: 	0.2943322
+feature_layer_0_ext_scale_1/Variable:0: 	0.21343829
+feature_layer_0_ext_scale_2/Variable:0: 	0.4803816
+feature_layer_0_ext_scale_3/Variable:0: 	0.40776622
+feature_layer_0_ext_scale_4/Variable:0: 	0.22882923
+feature_layer_0_ext_scale_5/Variable:0: 	0.43068337
+feature_layer_0_ext_scale_6/Variable:0: 	0.3176298
+feature_layer_0_0_in_scale_1/Variable:0: 	0.20964879
+feature_layer_0_1_in_scale_1/Variable:0: 	0.42871937
+feature_layer_0_2_in_scale_1/Variable:0: 	0.27272564
+feature_layer_0_3_in_scale_1/Variable:0: 	0.44143453
+feature_layer_0_4_in_scale_1/Variable:0: 	0.4814039
+feature_layer_0_5_in_scale_1/Variable:0: 	0.26660082
+feature_layer_0_6_in_scale_1/Variable:0: 	0.5169047
+feature_layer_0_ext_scale_7/Variable:0: 	0.2978812
+feature_layer_0_ext_scale_8/Variable:0: 	0.5543985
+feature_layer_0_ext_scale_9/Variable:0: 	0.36814067
+feature_layer_0_ext_scale_10/Variable:0: 	0.3721925
+feature_layer_0_ext_scale_11/Variable:0: 	0.5431566
+feature_layer_0_ext_scale_12/Variable:0: 	0.4592473
+feature_layer_0_ext_scale_13/Variable:0: 	0.41311163
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.051126
+step 200, current_acc 0.111620
+step 300, current_acc 0.302464
+step 400, current_acc 0.292197
+step 500, current_acc 0.279580
+step 600, current_acc 0.298329
+step 700, current_acc 0.354966
+step 800, current_acc 0.298541
+step 900, current_acc 0.329095
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.058794968
+feature_layer_0_1_in_scale/Variable:0: 	-0.05619809
+feature_layer_0_2_in_scale/Variable:0: 	0.034942437
+feature_layer_0_3_in_scale/Variable:0: 	0.06515113
+feature_layer_0_4_in_scale/Variable:0: 	-0.15808082
+feature_layer_0_5_in_scale/Variable:0: 	0.07211171
+feature_layer_0_6_in_scale/Variable:0: 	0.011553113
+feature_layer_0_ext_scale/Variable:0: 	0.46464223
+feature_layer_0_ext_scale_1/Variable:0: 	0.5786865
+feature_layer_0_ext_scale_2/Variable:0: 	0.498791
+feature_layer_0_ext_scale_3/Variable:0: 	0.48297825
+feature_layer_0_ext_scale_4/Variable:0: 	0.3218534
+feature_layer_0_ext_scale_5/Variable:0: 	0.5856949
+feature_layer_0_ext_scale_6/Variable:0: 	0.4848185
+feature_layer_0_0_in_scale_1/Variable:0: 	0.5221937
+feature_layer_0_1_in_scale_1/Variable:0: 	0.376513
+feature_layer_0_2_in_scale_1/Variable:0: 	0.54182154
+feature_layer_0_3_in_scale_1/Variable:0: 	0.46527556
+feature_layer_0_4_in_scale_1/Variable:0: 	0.44398776
+feature_layer_0_5_in_scale_1/Variable:0: 	0.52149373
+feature_layer_0_6_in_scale_1/Variable:0: 	0.3708118
+feature_layer_0_ext_scale_7/Variable:0: 	0.5698821
+feature_layer_0_ext_scale_8/Variable:0: 	0.54010594
+feature_layer_0_ext_scale_9/Variable:0: 	0.55505013
+feature_layer_0_ext_scale_10/Variable:0: 	0.49126828
+feature_layer_0_ext_scale_11/Variable:0: 	0.5761507
+feature_layer_0_ext_scale_12/Variable:0: 	0.41372964
+feature_layer_0_ext_scale_13/Variable:0: 	0.5664098
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.069069
+step 200, current_acc 0.202799
+step 300, current_acc 0.556162
+step 400, current_acc 0.595759
+step 500, current_acc 0.828718
+step 600, current_acc 0.877132
+step 700, current_acc 0.935545
+step 800, current_acc 0.962535
+step 900, current_acc 0.981979
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.019888468
+feature_layer_0_1_in_scale/Variable:0: 	0.46657214
+feature_layer_0_2_in_scale/Variable:0: 	0.02749685
+feature_layer_0_3_in_scale/Variable:0: 	0.31745026
+feature_layer_0_4_in_scale/Variable:0: 	0.27897972
+feature_layer_0_5_in_scale/Variable:0: 	0.23376219
+feature_layer_0_6_in_scale/Variable:0: 	0.30122322
+feature_layer_0_7_in_scale/Variable:0: 	0.2660773
+feature_layer_0_8_in_scale/Variable:0: 	0.054912824
+feature_layer_0_9_in_scale/Variable:0: 	0.20416923
+feature_layer_0_10_in_scale/Variable:0: 	0.33113113
+feature_layer_0_11_in_scale/Variable:0: 	0.4766718
+feature_layer_0_ext_scale/Variable:0: 	0.4997082
+feature_layer_0_ext_scale_1/Variable:0: 	0.3400317
+feature_layer_0_ext_scale_2/Variable:0: 	0.3296812
+feature_layer_0_ext_scale_3/Variable:0: 	0.27482015
+feature_layer_0_ext_scale_4/Variable:0: 	0.35422897
+feature_layer_0_ext_scale_5/Variable:0: 	0.39033124
+feature_layer_0_ext_scale_6/Variable:0: 	0.35292533
+feature_layer_0_ext_scale_7/Variable:0: 	0.31389838
+feature_layer_0_ext_scale_8/Variable:0: 	0.40711084
+feature_layer_0_ext_scale_9/Variable:0: 	0.36552542
+feature_layer_0_ext_scale_10/Variable:0: 	0.30857268
+feature_layer_0_ext_scale_11/Variable:0: 	0.4049458
+feature_layer_0_0_in_scale_1/Variable:0: 	0.32981443
+feature_layer_0_1_in_scale_1/Variable:0: 	0.42730412
+feature_layer_0_2_in_scale_1/Variable:0: 	0.46931988
+feature_layer_0_3_in_scale_1/Variable:0: 	0.3215128
+feature_layer_0_4_in_scale_1/Variable:0: 	0.48410735
+feature_layer_0_5_in_scale_1/Variable:0: 	0.3071833
+feature_layer_0_6_in_scale_1/Variable:0: 	0.2768982
+feature_layer_0_7_in_scale_1/Variable:0: 	0.2517843
+feature_layer_0_8_in_scale_1/Variable:0: 	0.2725961
+feature_layer_0_9_in_scale_1/Variable:0: 	0.4168694
+feature_layer_0_10_in_scale_1/Variable:0: 	0.27200934
+feature_layer_0_11_in_scale_1/Variable:0: 	0.29327798
+feature_layer_0_ext_scale_12/Variable:0: 	0.4811436
+feature_layer_0_ext_scale_13/Variable:0: 	0.37354386
+feature_layer_0_ext_scale_14/Variable:0: 	0.6237486
+feature_layer_0_ext_scale_15/Variable:0: 	0.52597165
+feature_layer_0_ext_scale_16/Variable:0: 	0.45645753
+feature_layer_0_ext_scale_17/Variable:0: 	0.4284593
+feature_layer_0_ext_scale_18/Variable:0: 	0.52504325
+feature_layer_0_ext_scale_19/Variable:0: 	0.5146527
+feature_layer_0_ext_scale_20/Variable:0: 	0.592135
+feature_layer_0_ext_scale_21/Variable:0: 	0.5384056
+feature_layer_0_ext_scale_22/Variable:0: 	0.57121944
+feature_layer_0_ext_scale_23/Variable:0: 	0.69408315
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.063399
+step 200, current_acc 0.152321
+step 300, current_acc 0.308909
+step 400, current_acc 0.274555
+step 500, current_acc 0.259316
+step 600, current_acc 0.265102
+step 700, current_acc 0.274066
+step 800, current_acc 0.299821
+step 900, current_acc 0.387732
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.044370756
+feature_layer_0_1_in_scale/Variable:0: 	0.11950808
+feature_layer_0_2_in_scale/Variable:0: 	-0.06191758
+feature_layer_0_3_in_scale/Variable:0: 	0.12756008
+feature_layer_0_4_in_scale/Variable:0: 	0.031103533
+feature_layer_0_ext_scale/Variable:0: 	0.6190358
+feature_layer_0_ext_scale_1/Variable:0: 	0.32462224
+feature_layer_0_ext_scale_2/Variable:0: 	0.49807054
+feature_layer_0_ext_scale_3/Variable:0: 	0.29302853
+feature_layer_0_ext_scale_4/Variable:0: 	0.5960994
+feature_layer_0_0_in_scale_1/Variable:0: 	0.4489431
+feature_layer_0_1_in_scale_1/Variable:0: 	0.5860849
+feature_layer_0_2_in_scale_1/Variable:0: 	0.5828699
+feature_layer_0_3_in_scale_1/Variable:0: 	0.5325409
+feature_layer_0_4_in_scale_1/Variable:0: 	0.34233144
+feature_layer_0_ext_scale_5/Variable:0: 	0.41860595
+feature_layer_0_ext_scale_6/Variable:0: 	0.6451146
+feature_layer_0_ext_scale_7/Variable:0: 	0.48497355
+feature_layer_0_ext_scale_8/Variable:0: 	0.40415743
+feature_layer_0_ext_scale_9/Variable:0: 	0.5468283
+-----------------evolution results---------------- 
+[0.989625, 0.86108214, 0.37599784, 0.4038788, 0.9885901, 0.45660263]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[6, 6]
+filter number in each module: only first evolution result is vaild !!!!!!
+8
+
+generation: 4, training_avg_acc: 0.989625, time_cost: 450.226122 s
+
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[6, 6]
+filter number in each module: only first evolution result is vaild !!!!!!
+8
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.118456
+step 200, current_acc 0.172487
+step 300, current_acc 0.550149
+step 400, current_acc 0.597779
+step 500, current_acc 0.758955
+step 600, current_acc 0.844821
+step 700, current_acc 0.907624
+step 800, current_acc 0.937128
+step 900, current_acc 0.963513
+step 1000, current_acc 0.980138
+step 1100, current_acc 0.987462
+step 1200, current_acc 0.988871
+step 1300, current_acc 0.991229
+step 1400, current_acc 0.993146
+step 1500, current_acc 0.992603
+step 1600, current_acc 0.993069
+step 1700, current_acc 0.994637
+step 1800, current_acc 0.993425
+step 1900, current_acc 0.994281
+step 2000, current_acc 0.995083
+step 2100, current_acc 0.994732
+step 2200, current_acc 0.995031
+step 2300, current_acc 0.995825
+step 2400, current_acc 0.995076
+step 2500, current_acc 0.995492
+step 2600, current_acc 0.995913
+step 2700, current_acc 0.995768
+step 2800, current_acc 0.996010
+step 2900, current_acc 0.996542
+step 3000, current_acc 0.995360
+step 3100, current_acc 0.995621
+step 3200, current_acc 0.996151
+step 3300, current_acc 0.995766
+step 3400, current_acc 0.996193
+step 3500, current_acc 0.996734
+step 3600, current_acc 0.996391
+step 3700, current_acc 0.996845
+step 3800, current_acc 0.996968
+step 3900, current_acc 0.996754
+step 4000, current_acc 0.996815
+step 4100, current_acc 0.997142
+step 4200, current_acc 0.997127
+step 4300, current_acc 0.997493
+step 4400, current_acc 0.997410
+step 4500, current_acc 0.989003
+step 4600, current_acc 0.868878
+step 4700, current_acc 0.894384
+step 4800, current_acc 0.920136
+step 4900, current_acc 0.939570
+saving...  done.
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.020162083
+feature_layer_0_1_in_scale/Variable:0: 	0.0984711
+feature_layer_0_2_in_scale/Variable:0: 	0.44834727
+feature_layer_0_3_in_scale/Variable:0: 	0.5279723
+feature_layer_0_4_in_scale/Variable:0: 	0.165672
+feature_layer_0_5_in_scale/Variable:0: 	0.38107336
+feature_layer_0_ext_scale/Variable:0: 	0.10368553
+feature_layer_0_ext_scale_1/Variable:0: 	-0.035891477
+feature_layer_0_ext_scale_2/Variable:0: 	-0.27858716
+feature_layer_0_ext_scale_3/Variable:0: 	-0.30744874
+feature_layer_0_ext_scale_4/Variable:0: 	-0.17425665
+feature_layer_0_ext_scale_5/Variable:0: 	-0.22125322
+feature_layer_0_0_in_scale_1/Variable:0: 	-0.18071023
+feature_layer_0_1_in_scale_1/Variable:0: 	-0.26276144
+feature_layer_0_2_in_scale_1/Variable:0: 	-0.22228229
+feature_layer_0_3_in_scale_1/Variable:0: 	-0.22582324
+feature_layer_0_4_in_scale_1/Variable:0: 	-0.120152816
+feature_layer_0_5_in_scale_1/Variable:0: 	-0.23081067
+feature_layer_0_ext_scale_6/Variable:0: 	0.67984366
+feature_layer_0_ext_scale_7/Variable:0: 	0.5433848
+feature_layer_0_ext_scale_8/Variable:0: 	0.7261037
+feature_layer_0_ext_scale_9/Variable:0: 	0.652882
+feature_layer_0_ext_scale_10/Variable:0: 	0.7840655
+feature_layer_0_ext_scale_11/Variable:0: 	0.4003144
+------------------transfer results------------------
+best structure training_avg_acc 0.95370334
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[6, 6]
+filter number in each module: only first evolution result is vaild !!!!!!
+8
+
+compurtation_of_network :  70560.0
+
+Extracting /dataset/mnist/train-images-idx3-ubyte.gz
+Extracting /dataset/mnist/train-labels-idx1-ubyte.gz
+Extracting /dataset/mnist/t10k-images-idx3-ubyte.gz
+Extracting /dataset/mnist/t10k-labels-idx1-ubyte.gz
+(11649, 784)
+11649
+Successfully generate binary_mnist tfrecords!
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.401498
+step 200, current_acc 0.177567
+step 300, current_acc 0.419268
+step 400, current_acc 0.435909
+step 500, current_acc 0.424480
+step 600, current_acc 0.509567
+step 700, current_acc 0.565894
+step 800, current_acc 0.577855
+step 900, current_acc 0.523980
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.7958817
+feature_layer_0_1_in_scale/Variable:0: 	0.72710854
+feature_layer_0_2_in_scale/Variable:0: 	0.50766844
+feature_layer_0_3_in_scale/Variable:0: 	0.59173346
+feature_layer_0_4_in_scale/Variable:0: 	0.65899223
+feature_layer_0_5_in_scale/Variable:0: 	0.5789965
+feature_layer_0_6_in_scale/Variable:0: 	0.82161593
+feature_layer_0_pre_scale/Variable:0: 	0.7955979
+feature_layer_0_pre_scale_1/Variable:0: 	0.84813946
+feature_layer_0_pre_scale_2/Variable:0: 	0.83395886
+feature_layer_0_pre_scale_3/Variable:0: 	0.86380476
+feature_layer_0_pre_scale_4/Variable:0: 	0.8352428
+feature_layer_0_pre_scale_5/Variable:0: 	0.69774324
+feature_layer_0_ext_scale/Variable:0: 	0.81675476
+feature_layer_0_0_in_scale_1/Variable:0: 	0.7692034
+feature_layer_0_1_in_scale_1/Variable:0: 	0.63365966
+feature_layer_0_2_in_scale_1/Variable:0: 	0.87062126
+feature_layer_0_3_in_scale_1/Variable:0: 	0.7847967
+feature_layer_0_4_in_scale_1/Variable:0: 	0.7066838
+feature_layer_0_5_in_scale_1/Variable:0: 	0.85712236
+feature_layer_0_6_in_scale_1/Variable:0: 	0.9793166
+feature_layer_0_pre_scale_6/Variable:0: 	0.7015679
+feature_layer_0_pre_scale_7/Variable:0: 	0.80820876
+feature_layer_0_pre_scale_8/Variable:0: 	0.6682608
+feature_layer_0_pre_scale_9/Variable:0: 	0.91262347
+feature_layer_0_pre_scale_10/Variable:0: 	0.6421462
+feature_layer_0_pre_scale_11/Variable:0: 	0.75056165
+feature_layer_0_ext_scale_1/Variable:0: 	0.9836376
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.401461
+step 200, current_acc 0.171363
+step 300, current_acc 0.419077
+step 400, current_acc 0.435894
+step 500, current_acc 0.424481
+step 600, current_acc 0.509565
+step 700, current_acc 0.565891
+step 800, current_acc 0.577855
+step 900, current_acc 0.523980
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.6305496
+feature_layer_0_1_in_scale/Variable:0: 	0.65203744
+feature_layer_0_2_in_scale/Variable:0: 	0.4838872
+feature_layer_0_3_in_scale/Variable:0: 	0.533605
+feature_layer_0_4_in_scale/Variable:0: 	0.52908194
+feature_layer_0_5_in_scale/Variable:0: 	0.57474726
+feature_layer_0_6_in_scale/Variable:0: 	0.75624734
+feature_layer_0_pre_scale/Variable:0: 	0.6841706
+feature_layer_0_pre_scale_1/Variable:0: 	0.7904583
+feature_layer_0_pre_scale_2/Variable:0: 	0.73785895
+feature_layer_0_pre_scale_3/Variable:0: 	0.79976505
+feature_layer_0_pre_scale_4/Variable:0: 	0.7657055
+feature_layer_0_pre_scale_5/Variable:0: 	0.8592779
+feature_layer_0_ext_scale/Variable:0: 	0.7642777
+feature_layer_0_0_in_scale_1/Variable:0: 	0.6292403
+feature_layer_0_1_in_scale_1/Variable:0: 	0.936612
+feature_layer_0_2_in_scale_1/Variable:0: 	0.74202776
+feature_layer_0_3_in_scale_1/Variable:0: 	0.84489834
+feature_layer_0_4_in_scale_1/Variable:0: 	0.8075897
+feature_layer_0_5_in_scale_1/Variable:0: 	0.8801224
+feature_layer_0_6_in_scale_1/Variable:0: 	0.7813994
+feature_layer_0_pre_scale_6/Variable:0: 	0.94996846
+feature_layer_0_pre_scale_7/Variable:0: 	0.86574996
+feature_layer_0_pre_scale_8/Variable:0: 	0.8942749
+feature_layer_0_pre_scale_9/Variable:0: 	0.69382614
+feature_layer_0_pre_scale_10/Variable:0: 	0.9801924
+feature_layer_0_pre_scale_11/Variable:0: 	0.6283326
+feature_layer_0_ext_scale_1/Variable:0: 	0.61359984
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.589604
+step 200, current_acc 0.681035
+step 300, current_acc 0.636526
+step 400, current_acc 0.502782
+step 500, current_acc 0.433661
+step 600, current_acc 0.511372
+step 700, current_acc 0.566351
+step 800, current_acc 0.577996
+step 900, current_acc 0.524029
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.58511317
+feature_layer_0_1_in_scale/Variable:0: 	0.7240555
+feature_layer_0_2_in_scale/Variable:0: 	0.4176683
+feature_layer_0_3_in_scale/Variable:0: 	0.36942312
+feature_layer_0_4_in_scale/Variable:0: 	0.6087482
+feature_layer_0_5_in_scale/Variable:0: 	0.5160262
+feature_layer_0_6_in_scale/Variable:0: 	0.6944711
+feature_layer_0_pre_scale/Variable:0: 	0.57217103
+feature_layer_0_pre_scale_1/Variable:0: 	0.80968297
+feature_layer_0_pre_scale_2/Variable:0: 	0.7876058
+feature_layer_0_pre_scale_3/Variable:0: 	0.63617253
+feature_layer_0_pre_scale_4/Variable:0: 	0.790321
+feature_layer_0_pre_scale_5/Variable:0: 	0.8017676
+feature_layer_0_ext_scale/Variable:0: 	0.71616507
+feature_layer_0_0_in_scale_1/Variable:0: 	0.61323273
+feature_layer_0_1_in_scale_1/Variable:0: 	0.7063567
+feature_layer_0_2_in_scale_1/Variable:0: 	0.7238073
+feature_layer_0_3_in_scale_1/Variable:0: 	0.82786185
+feature_layer_0_4_in_scale_1/Variable:0: 	0.74921376
+feature_layer_0_5_in_scale_1/Variable:0: 	0.7276462
+feature_layer_0_6_in_scale_1/Variable:0: 	0.8093423
+feature_layer_0_pre_scale_6/Variable:0: 	0.81514275
+feature_layer_0_pre_scale_7/Variable:0: 	0.80300826
+feature_layer_0_pre_scale_8/Variable:0: 	0.5792615
+feature_layer_0_pre_scale_9/Variable:0: 	0.7124591
+feature_layer_0_pre_scale_10/Variable:0: 	0.8898781
+feature_layer_0_pre_scale_11/Variable:0: 	0.8696753
+feature_layer_0_ext_scale_1/Variable:0: 	0.87814635
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.589631
+step 200, current_acc 0.681047
+step 300, current_acc 0.636541
+step 400, current_acc 0.502774
+step 500, current_acc 0.433656
+step 600, current_acc 0.511372
+step 700, current_acc 0.566349
+step 800, current_acc 0.577994
+step 900, current_acc 0.524029
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.6128808
+feature_layer_0_1_in_scale/Variable:0: 	0.7992534
+feature_layer_0_2_in_scale/Variable:0: 	0.37879667
+feature_layer_0_3_in_scale/Variable:0: 	0.5239649
+feature_layer_0_4_in_scale/Variable:0: 	0.5049529
+feature_layer_0_5_in_scale/Variable:0: 	0.6044787
+feature_layer_0_6_in_scale/Variable:0: 	0.6568172
+feature_layer_0_pre_scale/Variable:0: 	0.80073035
+feature_layer_0_pre_scale_1/Variable:0: 	0.63724345
+feature_layer_0_pre_scale_2/Variable:0: 	0.7164939
+feature_layer_0_pre_scale_3/Variable:0: 	0.8133372
+feature_layer_0_pre_scale_4/Variable:0: 	0.74639606
+feature_layer_0_pre_scale_5/Variable:0: 	0.82909334
+feature_layer_0_ext_scale/Variable:0: 	0.85333896
+feature_layer_0_0_in_scale_1/Variable:0: 	0.7587806
+feature_layer_0_1_in_scale_1/Variable:0: 	0.8667135
+feature_layer_0_2_in_scale_1/Variable:0: 	0.7327933
+feature_layer_0_3_in_scale_1/Variable:0: 	0.7261772
+feature_layer_0_4_in_scale_1/Variable:0: 	0.8481845
+feature_layer_0_5_in_scale_1/Variable:0: 	0.8465516
+feature_layer_0_6_in_scale_1/Variable:0: 	0.87850195
+feature_layer_0_pre_scale_6/Variable:0: 	0.70058656
+feature_layer_0_pre_scale_7/Variable:0: 	0.67419386
+feature_layer_0_pre_scale_8/Variable:0: 	0.6898491
+feature_layer_0_pre_scale_9/Variable:0: 	0.7342976
+feature_layer_0_pre_scale_10/Variable:0: 	0.72159463
+feature_layer_0_pre_scale_11/Variable:0: 	0.796604
+feature_layer_0_ext_scale_1/Variable:0: 	0.7651561
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.591125
+step 200, current_acc 0.681047
+step 300, current_acc 0.636539
+step 400, current_acc 0.502778
+step 500, current_acc 0.433662
+step 600, current_acc 0.511373
+step 700, current_acc 0.566351
+step 800, current_acc 0.577995
+step 900, current_acc 0.524028
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.73319536
+feature_layer_0_1_in_scale/Variable:0: 	0.69983864
+feature_layer_0_2_in_scale/Variable:0: 	0.44450736
+feature_layer_0_3_in_scale/Variable:0: 	0.4848718
+feature_layer_0_4_in_scale/Variable:0: 	0.6900597
+feature_layer_0_5_in_scale/Variable:0: 	0.54667145
+feature_layer_0_6_in_scale/Variable:0: 	0.8120132
+feature_layer_0_pre_scale/Variable:0: 	0.6918976
+feature_layer_0_pre_scale_1/Variable:0: 	0.81470764
+feature_layer_0_pre_scale_2/Variable:0: 	0.8117969
+feature_layer_0_pre_scale_3/Variable:0: 	0.88084537
+feature_layer_0_pre_scale_4/Variable:0: 	0.8872591
+feature_layer_0_pre_scale_5/Variable:0: 	0.7760653
+feature_layer_0_ext_scale/Variable:0: 	0.8412153
+feature_layer_0_0_in_scale_1/Variable:0: 	0.69077605
+feature_layer_0_1_in_scale_1/Variable:0: 	0.83772564
+feature_layer_0_2_in_scale_1/Variable:0: 	0.8269814
+feature_layer_0_3_in_scale_1/Variable:0: 	0.66172624
+feature_layer_0_4_in_scale_1/Variable:0: 	0.7949176
+feature_layer_0_5_in_scale_1/Variable:0: 	0.77992165
+feature_layer_0_6_in_scale_1/Variable:0: 	0.7782743
+feature_layer_0_pre_scale_6/Variable:0: 	0.70514524
+feature_layer_0_pre_scale_7/Variable:0: 	0.6554108
+feature_layer_0_pre_scale_8/Variable:0: 	0.8399806
+feature_layer_0_pre_scale_9/Variable:0: 	0.69786394
+feature_layer_0_pre_scale_10/Variable:0: 	0.8545406
+feature_layer_0_pre_scale_11/Variable:0: 	0.72570944
+feature_layer_0_ext_scale_1/Variable:0: 	0.91184783
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.401403
+step 200, current_acc 0.172870
+step 300, current_acc 0.413912
+step 400, current_acc 0.435496
+step 500, current_acc 0.424428
+step 600, current_acc 0.509555
+step 700, current_acc 0.565891
+step 800, current_acc 0.413302
+step 900, current_acc 0.408713
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.5617582
+feature_layer_0_1_in_scale/Variable:0: 	0.6309651
+feature_layer_0_2_in_scale/Variable:0: 	0.3296689
+feature_layer_0_3_in_scale/Variable:0: 	0.43761763
+feature_layer_0_4_in_scale/Variable:0: 	0.5745093
+feature_layer_0_5_in_scale/Variable:0: 	0.44452545
+feature_layer_0_6_in_scale/Variable:0: 	0.7351538
+feature_layer_0_pre_scale/Variable:0: 	0.95103055
+feature_layer_0_pre_scale_1/Variable:0: 	0.7377973
+feature_layer_0_pre_scale_2/Variable:0: 	0.7732548
+feature_layer_0_pre_scale_3/Variable:0: 	0.7646084
+feature_layer_0_pre_scale_4/Variable:0: 	0.8206579
+feature_layer_0_pre_scale_5/Variable:0: 	0.7462734
+feature_layer_0_ext_scale/Variable:0: 	0.76112074
+feature_layer_0_0_in_scale_1/Variable:0: 	0.7537463
+feature_layer_0_1_in_scale_1/Variable:0: 	0.6900419
+feature_layer_0_2_in_scale_1/Variable:0: 	0.6052129
+feature_layer_0_3_in_scale_1/Variable:0: 	0.64588827
+feature_layer_0_4_in_scale_1/Variable:0: 	0.6624949
+feature_layer_0_5_in_scale_1/Variable:0: 	0.7460115
+feature_layer_0_6_in_scale_1/Variable:0: 	0.7974213
+feature_layer_0_pre_scale_6/Variable:0: 	0.8316423
+feature_layer_0_pre_scale_7/Variable:0: 	0.8341845
+feature_layer_0_pre_scale_8/Variable:0: 	0.8031451
+feature_layer_0_pre_scale_9/Variable:0: 	0.8089366
+feature_layer_0_pre_scale_10/Variable:0: 	0.8756533
+feature_layer_0_pre_scale_11/Variable:0: 	0.95314044
+feature_layer_0_ext_scale_1/Variable:0: 	0.6949142
+-----------------evolution results---------------- 
+[0.48837167, 0.48837167, 0.48839056, 0.4883888, 0.48839134, 0.44308823]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+1
+module number in each layer: 
+[1, 1, 1]
+filter number in each module: only first evolution result is vaild !!!!!!
+2
+
+generation: 0, training_avg_acc: 0.488391, time_cost: 437.424796 s
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.589636
+step 200, current_acc 0.681039
+step 300, current_acc 0.636533
+step 400, current_acc 0.502775
+step 500, current_acc 0.433659
+step 600, current_acc 0.511372
+step 700, current_acc 0.566352
+step 800, current_acc 0.577995
+step 900, current_acc 0.524029
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.58023953
+feature_layer_0_1_in_scale/Variable:0: 	0.6070499
+feature_layer_0_2_in_scale/Variable:0: 	0.4105167
+feature_layer_0_3_in_scale/Variable:0: 	0.4242961
+feature_layer_0_4_in_scale/Variable:0: 	0.36752197
+feature_layer_0_5_in_scale/Variable:0: 	0.5143682
+feature_layer_0_6_in_scale/Variable:0: 	0.6433558
+feature_layer_0_pre_scale/Variable:0: 	0.59977335
+feature_layer_0_pre_scale_1/Variable:0: 	0.6354162
+feature_layer_0_pre_scale_2/Variable:0: 	0.6784819
+feature_layer_0_pre_scale_3/Variable:0: 	0.70980906
+feature_layer_0_pre_scale_4/Variable:0: 	0.80188
+feature_layer_0_pre_scale_5/Variable:0: 	0.7482532
+feature_layer_0_ext_scale/Variable:0: 	0.83025235
+feature_layer_0_0_in_scale_1/Variable:0: 	0.7914143
+feature_layer_0_1_in_scale_1/Variable:0: 	0.76505184
+feature_layer_0_2_in_scale_1/Variable:0: 	0.6711121
+feature_layer_0_3_in_scale_1/Variable:0: 	0.57360744
+feature_layer_0_4_in_scale_1/Variable:0: 	0.8458949
+feature_layer_0_5_in_scale_1/Variable:0: 	0.7683589
+feature_layer_0_6_in_scale_1/Variable:0: 	0.58037794
+feature_layer_0_pre_scale_6/Variable:0: 	0.571712
+feature_layer_0_pre_scale_7/Variable:0: 	0.62765247
+feature_layer_0_pre_scale_8/Variable:0: 	0.6331617
+feature_layer_0_pre_scale_9/Variable:0: 	0.64651084
+feature_layer_0_pre_scale_10/Variable:0: 	0.6811258
+feature_layer_0_pre_scale_11/Variable:0: 	0.6383641
+feature_layer_0_ext_scale_1/Variable:0: 	0.56380266
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.401480
+step 200, current_acc 0.171391
+step 300, current_acc 0.419074
+step 400, current_acc 0.435898
+step 500, current_acc 0.424481
+step 600, current_acc 0.509569
+step 700, current_acc 0.565895
+step 800, current_acc 0.577856
+step 900, current_acc 0.523981
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.72629213
+feature_layer_0_1_in_scale/Variable:0: 	0.80644214
+feature_layer_0_2_in_scale/Variable:0: 	0.4728956
+feature_layer_0_3_in_scale/Variable:0: 	0.55730325
+feature_layer_0_4_in_scale/Variable:0: 	0.5410209
+feature_layer_0_5_in_scale/Variable:0: 	0.5442758
+feature_layer_0_6_in_scale/Variable:0: 	0.7146187
+feature_layer_0_pre_scale/Variable:0: 	0.6622086
+feature_layer_0_pre_scale_1/Variable:0: 	0.99366975
+feature_layer_0_pre_scale_2/Variable:0: 	0.816418
+feature_layer_0_pre_scale_3/Variable:0: 	0.9279957
+feature_layer_0_pre_scale_4/Variable:0: 	0.6753806
+feature_layer_0_pre_scale_5/Variable:0: 	0.73207253
+feature_layer_0_ext_scale/Variable:0: 	0.7630261
+feature_layer_0_0_in_scale_1/Variable:0: 	0.9370763
+feature_layer_0_1_in_scale_1/Variable:0: 	0.75084186
+feature_layer_0_2_in_scale_1/Variable:0: 	0.77053624
+feature_layer_0_3_in_scale_1/Variable:0: 	0.69894147
+feature_layer_0_4_in_scale_1/Variable:0: 	0.7805367
+feature_layer_0_5_in_scale_1/Variable:0: 	0.74306405
+feature_layer_0_6_in_scale_1/Variable:0: 	0.8866049
+feature_layer_0_pre_scale_6/Variable:0: 	0.72274065
+feature_layer_0_pre_scale_7/Variable:0: 	0.7912565
+feature_layer_0_pre_scale_8/Variable:0: 	0.6995549
+feature_layer_0_pre_scale_9/Variable:0: 	0.7959875
+feature_layer_0_pre_scale_10/Variable:0: 	0.7261873
+feature_layer_0_pre_scale_11/Variable:0: 	0.7674581
+feature_layer_0_ext_scale_1/Variable:0: 	0.88695574
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.078478
+step 200, current_acc 0.465400
+step 300, current_acc 0.587539
+step 400, current_acc 0.724509
+step 500, current_acc 0.879169
+step 600, current_acc 0.946204
+step 700, current_acc 0.974036
+step 800, current_acc 0.981267
+step 900, current_acc 0.986464
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.012363244
+feature_layer_0_1_in_scale/Variable:0: 	0.025741424
+feature_layer_0_2_in_scale/Variable:0: 	0.30962557
+feature_layer_0_3_in_scale/Variable:0: 	0.23814085
+feature_layer_0_4_in_scale/Variable:0: 	0.19932856
+feature_layer_0_5_in_scale/Variable:0: 	0.22172594
+feature_layer_0_6_in_scale/Variable:0: 	0.09239249
+feature_layer_0_7_in_scale/Variable:0: 	0.0699445
+feature_layer_0_pre_scale/Variable:0: 	0.3536214
+feature_layer_0_pre_scale_1/Variable:0: 	0.37385377
+feature_layer_0_pre_scale_2/Variable:0: 	0.3405747
+feature_layer_0_pre_scale_3/Variable:0: 	0.48938805
+feature_layer_0_pre_scale_4/Variable:0: 	0.19168751
+feature_layer_0_pre_scale_5/Variable:0: 	0.3747998
+feature_layer_0_ext_scale/Variable:0: 	0.34786317
+feature_layer_0_ext_scale_1/Variable:0: 	0.3562636
+feature_layer_0_0_in_scale_1/Variable:0: 	0.38803297
+feature_layer_0_1_in_scale_1/Variable:0: 	0.40459034
+feature_layer_0_2_in_scale_1/Variable:0: 	0.31417215
+feature_layer_0_3_in_scale_1/Variable:0: 	0.29978707
+feature_layer_0_4_in_scale_1/Variable:0: 	0.4458162
+feature_layer_0_5_in_scale_1/Variable:0: 	0.24438016
+feature_layer_0_6_in_scale_1/Variable:0: 	0.42533943
+feature_layer_0_7_in_scale_1/Variable:0: 	0.4357561
+feature_layer_0_pre_scale_6/Variable:0: 	0.54186034
+feature_layer_0_pre_scale_7/Variable:0: 	0.3648208
+feature_layer_0_pre_scale_8/Variable:0: 	0.61652935
+feature_layer_0_pre_scale_9/Variable:0: 	0.5636398
+feature_layer_0_pre_scale_10/Variable:0: 	0.37408835
+feature_layer_0_pre_scale_11/Variable:0: 	0.4983992
+feature_layer_0_ext_scale_2/Variable:0: 	0.6006704
+feature_layer_0_ext_scale_3/Variable:0: 	0.7415237
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.401409
+step 200, current_acc 0.171370
+step 300, current_acc 0.419098
+step 400, current_acc 0.435900
+step 500, current_acc 0.424481
+step 600, current_acc 0.509564
+step 700, current_acc 0.565895
+step 800, current_acc 0.577858
+step 900, current_acc 0.553177
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.08196696
+feature_layer_0_1_in_scale/Variable:0: 	0.18554975
+feature_layer_0_2_in_scale/Variable:0: 	-0.2631516
+feature_layer_0_3_in_scale/Variable:0: 	-0.16421859
+feature_layer_0_4_in_scale/Variable:0: 	-0.045594748
+feature_layer_0_5_in_scale/Variable:0: 	-0.12710097
+feature_layer_0_6_in_scale/Variable:0: 	0.1185207
+feature_layer_0_7_in_scale/Variable:0: 	0.2140284
+feature_layer_0_8_in_scale/Variable:0: 	0.10417264
+feature_layer_0_9_in_scale/Variable:0: 	0.11279087
+feature_layer_0_10_in_scale/Variable:0: 	0.09592244
+feature_layer_0_11_in_scale/Variable:0: 	0.13219357
+feature_layer_0_12_in_scale/Variable:0: 	0.20519052
+feature_layer_0_pre_scale/Variable:0: 	0.34850302
+feature_layer_0_pre_scale_1/Variable:0: 	0.48760697
+feature_layer_0_pre_scale_2/Variable:0: 	0.23878036
+feature_layer_0_pre_scale_3/Variable:0: 	0.39842874
+feature_layer_0_pre_scale_4/Variable:0: 	0.35904446
+feature_layer_0_pre_scale_5/Variable:0: 	0.32651868
+feature_layer_0_ext_scale/Variable:0: 	0.317497
+feature_layer_0_ext_scale_1/Variable:0: 	0.3168401
+feature_layer_0_ext_scale_2/Variable:0: 	0.49582013
+feature_layer_0_ext_scale_3/Variable:0: 	0.5509836
+feature_layer_0_ext_scale_4/Variable:0: 	0.40604955
+feature_layer_0_ext_scale_5/Variable:0: 	0.34513718
+feature_layer_0_ext_scale_6/Variable:0: 	0.421637
+feature_layer_0_0_in_scale_1/Variable:0: 	0.28842366
+feature_layer_0_1_in_scale_1/Variable:0: 	0.16958281
+feature_layer_0_2_in_scale_1/Variable:0: 	0.41201314
+feature_layer_0_3_in_scale_1/Variable:0: 	0.45468837
+feature_layer_0_4_in_scale_1/Variable:0: 	0.3841913
+feature_layer_0_5_in_scale_1/Variable:0: 	0.31801105
+feature_layer_0_6_in_scale_1/Variable:0: 	0.41210657
+feature_layer_0_7_in_scale_1/Variable:0: 	0.3674718
+feature_layer_0_8_in_scale_1/Variable:0: 	0.37216836
+feature_layer_0_9_in_scale_1/Variable:0: 	0.26806253
+feature_layer_0_10_in_scale_1/Variable:0: 	0.2963232
+feature_layer_0_11_in_scale_1/Variable:0: 	0.456607
+feature_layer_0_12_in_scale_1/Variable:0: 	0.29462582
+feature_layer_0_pre_scale_6/Variable:0: 	0.36064
+feature_layer_0_pre_scale_7/Variable:0: 	0.30544537
+feature_layer_0_pre_scale_8/Variable:0: 	0.4031393
+feature_layer_0_pre_scale_9/Variable:0: 	0.43951505
+feature_layer_0_pre_scale_10/Variable:0: 	0.47295067
+feature_layer_0_pre_scale_11/Variable:0: 	0.33294725
+feature_layer_0_ext_scale_7/Variable:0: 	0.32771108
+feature_layer_0_ext_scale_8/Variable:0: 	0.31890023
+feature_layer_0_ext_scale_9/Variable:0: 	0.34550735
+feature_layer_0_ext_scale_10/Variable:0: 	0.46619004
+feature_layer_0_ext_scale_11/Variable:0: 	0.2417768
+feature_layer_0_ext_scale_12/Variable:0: 	0.5099461
+feature_layer_0_ext_scale_13/Variable:0: 	0.42455187
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.258674
+step 200, current_acc 0.475636
+step 300, current_acc 0.652138
+step 400, current_acc 0.789136
+step 500, current_acc 0.919540
+step 600, current_acc 0.960151
+step 700, current_acc 0.978411
+step 800, current_acc 0.982552
+step 900, current_acc 0.986585
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.5039627
+feature_layer_0_1_in_scale/Variable:0: 	0.0075002657
+feature_layer_0_2_in_scale/Variable:0: 	-0.25827548
+feature_layer_0_3_in_scale/Variable:0: 	-0.4697952
+feature_layer_0_4_in_scale/Variable:0: 	0.5065935
+feature_layer_0_5_in_scale/Variable:0: 	-0.06655453
+feature_layer_0_6_in_scale/Variable:0: 	0.29197702
+feature_layer_0_7_in_scale/Variable:0: 	0.44266108
+feature_layer_0_8_in_scale/Variable:0: 	0.3729304
+feature_layer_0_9_in_scale/Variable:0: 	0.46536732
+feature_layer_0_pre_scale/Variable:0: 	0.3601029
+feature_layer_0_pre_scale_1/Variable:0: 	0.33916864
+feature_layer_0_pre_scale_2/Variable:0: 	0.27565137
+feature_layer_0_pre_scale_3/Variable:0: 	0.3873392
+feature_layer_0_pre_scale_4/Variable:0: 	0.34930763
+feature_layer_0_pre_scale_5/Variable:0: 	0.31951088
+feature_layer_0_ext_scale/Variable:0: 	0.38991067
+feature_layer_0_ext_scale_1/Variable:0: 	0.37680998
+feature_layer_0_ext_scale_2/Variable:0: 	0.33945522
+feature_layer_0_ext_scale_3/Variable:0: 	0.35939997
+feature_layer_0_0_in_scale_1/Variable:0: 	0.188319
+feature_layer_0_1_in_scale_1/Variable:0: 	0.21739952
+feature_layer_0_2_in_scale_1/Variable:0: 	0.19294149
+feature_layer_0_3_in_scale_1/Variable:0: 	0.19556747
+feature_layer_0_4_in_scale_1/Variable:0: 	0.23536694
+feature_layer_0_5_in_scale_1/Variable:0: 	0.22966547
+feature_layer_0_6_in_scale_1/Variable:0: 	0.40713754
+feature_layer_0_7_in_scale_1/Variable:0: 	0.29271147
+feature_layer_0_8_in_scale_1/Variable:0: 	0.40052763
+feature_layer_0_9_in_scale_1/Variable:0: 	0.275053
+feature_layer_0_pre_scale_6/Variable:0: 	0.5161809
+feature_layer_0_pre_scale_7/Variable:0: 	0.59058917
+feature_layer_0_pre_scale_8/Variable:0: 	0.63867503
+feature_layer_0_pre_scale_9/Variable:0: 	0.6715439
+feature_layer_0_pre_scale_10/Variable:0: 	0.4481058
+feature_layer_0_pre_scale_11/Variable:0: 	0.59647673
+feature_layer_0_ext_scale_4/Variable:0: 	0.4057256
+feature_layer_0_ext_scale_5/Variable:0: 	0.55291307
+feature_layer_0_ext_scale_6/Variable:0: 	0.43300658
+feature_layer_0_ext_scale_7/Variable:0: 	0.51702267
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.585925
+step 200, current_acc 0.426048
+step 300, current_acc 0.617030
+step 400, current_acc 0.646485
+step 500, current_acc 0.732534
+step 600, current_acc 0.555458
+step 700, current_acc 0.577475
+step 800, current_acc 0.581367
+step 900, current_acc 0.525204
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.20316146
+feature_layer_0_1_in_scale/Variable:0: 	-0.02066712
+feature_layer_0_2_in_scale/Variable:0: 	0.18248937
+feature_layer_0_3_in_scale/Variable:0: 	-0.100218005
+feature_layer_0_4_in_scale/Variable:0: 	0.14882526
+feature_layer_0_5_in_scale/Variable:0: 	0.117668346
+feature_layer_0_6_in_scale/Variable:0: 	-0.27417073
+feature_layer_0_7_in_scale/Variable:0: 	0.30128375
+feature_layer_0_8_in_scale/Variable:0: 	0.15008871
+feature_layer_0_9_in_scale/Variable:0: 	0.2027241
+feature_layer_0_pre_scale/Variable:0: 	0.4348626
+feature_layer_0_pre_scale_1/Variable:0: 	0.61133343
+feature_layer_0_pre_scale_2/Variable:0: 	0.39834803
+feature_layer_0_pre_scale_3/Variable:0: 	0.3661446
+feature_layer_0_pre_scale_4/Variable:0: 	0.30215585
+feature_layer_0_pre_scale_5/Variable:0: 	0.49193987
+feature_layer_0_ext_scale/Variable:0: 	0.579502
+feature_layer_0_ext_scale_1/Variable:0: 	0.5935271
+feature_layer_0_ext_scale_2/Variable:0: 	0.57819414
+feature_layer_0_ext_scale_3/Variable:0: 	0.3621971
+feature_layer_0_0_in_scale_1/Variable:0: 	0.59707063
+feature_layer_0_1_in_scale_1/Variable:0: 	0.4181872
+feature_layer_0_2_in_scale_1/Variable:0: 	0.6860367
+feature_layer_0_3_in_scale_1/Variable:0: 	0.58240217
+feature_layer_0_4_in_scale_1/Variable:0: 	0.5411766
+feature_layer_0_5_in_scale_1/Variable:0: 	0.4393851
+feature_layer_0_6_in_scale_1/Variable:0: 	0.5900779
+feature_layer_0_7_in_scale_1/Variable:0: 	0.50778353
+feature_layer_0_8_in_scale_1/Variable:0: 	0.45521072
+feature_layer_0_9_in_scale_1/Variable:0: 	0.45854005
+feature_layer_0_pre_scale_6/Variable:0: 	0.62613505
+feature_layer_0_pre_scale_7/Variable:0: 	0.3935845
+feature_layer_0_pre_scale_8/Variable:0: 	0.49181402
+feature_layer_0_pre_scale_9/Variable:0: 	0.46924555
+feature_layer_0_pre_scale_10/Variable:0: 	0.54617745
+feature_layer_0_pre_scale_11/Variable:0: 	0.3310292
+feature_layer_0_ext_scale_4/Variable:0: 	0.40473193
+feature_layer_0_ext_scale_5/Variable:0: 	0.5215785
+feature_layer_0_ext_scale_6/Variable:0: 	0.56091845
+feature_layer_0_ext_scale_7/Variable:0: 	0.47487897
+-----------------evolution results---------------- 
+[0.48839104, 0.4883713, 0.98940533, 0.49984154, 0.9894241, 0.6075747]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[2, 8]
+filter number in each module: only first evolution result is vaild !!!!!!
+4
+
+generation: 1, training_avg_acc: 0.989424, time_cost: 480.422457 s
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.070799
+step 200, current_acc 0.161242
+step 300, current_acc 0.512493
+step 400, current_acc 0.665759
+step 500, current_acc 0.830973
+step 600, current_acc 0.913453
+step 700, current_acc 0.956259
+step 800, current_acc 0.974312
+step 900, current_acc 0.983648
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.061869938
+feature_layer_0_1_in_scale/Variable:0: 	-0.046842393
+feature_layer_0_2_in_scale/Variable:0: 	0.3224415
+feature_layer_0_3_in_scale/Variable:0: 	0.39668298
+feature_layer_0_4_in_scale/Variable:0: 	0.2800834
+feature_layer_0_5_in_scale/Variable:0: 	-0.0403845
+feature_layer_0_6_in_scale/Variable:0: 	0.26648268
+feature_layer_0_7_in_scale/Variable:0: 	-0.019935427
+feature_layer_0_8_in_scale/Variable:0: 	0.054138213
+feature_layer_0_9_in_scale/Variable:0: 	0.037228994
+feature_layer_0_pre_scale/Variable:0: 	0.3119286
+feature_layer_0_pre_scale_1/Variable:0: 	0.26904458
+feature_layer_0_pre_scale_2/Variable:0: 	0.43702695
+feature_layer_0_pre_scale_3/Variable:0: 	0.5105336
+feature_layer_0_pre_scale_4/Variable:0: 	0.30893952
+feature_layer_0_pre_scale_5/Variable:0: 	0.26690838
+feature_layer_0_ext_scale/Variable:0: 	0.23762465
+feature_layer_0_ext_scale_1/Variable:0: 	0.44915783
+feature_layer_0_ext_scale_2/Variable:0: 	0.47569877
+feature_layer_0_ext_scale_3/Variable:0: 	0.4407289
+feature_layer_0_0_in_scale_1/Variable:0: 	0.31795833
+feature_layer_0_1_in_scale_1/Variable:0: 	0.28277868
+feature_layer_0_2_in_scale_1/Variable:0: 	0.277056
+feature_layer_0_3_in_scale_1/Variable:0: 	0.28435546
+feature_layer_0_4_in_scale_1/Variable:0: 	0.40132818
+feature_layer_0_5_in_scale_1/Variable:0: 	0.32866672
+feature_layer_0_6_in_scale_1/Variable:0: 	0.39805672
+feature_layer_0_7_in_scale_1/Variable:0: 	0.3370435
+feature_layer_0_8_in_scale_1/Variable:0: 	0.47341293
+feature_layer_0_9_in_scale_1/Variable:0: 	0.4638195
+feature_layer_0_pre_scale_6/Variable:0: 	0.48283488
+feature_layer_0_pre_scale_7/Variable:0: 	0.349275
+feature_layer_0_pre_scale_8/Variable:0: 	0.58062696
+feature_layer_0_pre_scale_9/Variable:0: 	0.48380882
+feature_layer_0_pre_scale_10/Variable:0: 	0.38995948
+feature_layer_0_pre_scale_11/Variable:0: 	0.55636775
+feature_layer_0_ext_scale_4/Variable:0: 	0.66236883
+feature_layer_0_ext_scale_5/Variable:0: 	0.6381518
+feature_layer_0_ext_scale_6/Variable:0: 	0.66547275
+feature_layer_0_ext_scale_7/Variable:0: 	0.55655843
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.548330
+step 200, current_acc 0.415414
+step 300, current_acc 0.620872
+step 400, current_acc 0.770010
+step 500, current_acc 0.929026
+step 600, current_acc 0.970528
+step 700, current_acc 0.984978
+step 800, current_acc 0.987834
+step 900, current_acc 0.991030
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.08706765
+feature_layer_0_1_in_scale/Variable:0: 	0.06936476
+feature_layer_0_2_in_scale/Variable:0: 	0.28553605
+feature_layer_0_3_in_scale/Variable:0: 	0.33896837
+feature_layer_0_4_in_scale/Variable:0: 	0.4787763
+feature_layer_0_5_in_scale/Variable:0: 	0.54995954
+feature_layer_0_6_in_scale/Variable:0: 	0.10092797
+feature_layer_0_7_in_scale/Variable:0: 	0.23836926
+feature_layer_0_8_in_scale/Variable:0: 	0.09126082
+feature_layer_0_9_in_scale/Variable:0: 	0.3325513
+feature_layer_0_10_in_scale/Variable:0: 	0.028349385
+feature_layer_0_pre_scale/Variable:0: 	0.075452216
+feature_layer_0_pre_scale_1/Variable:0: 	0.22679272
+feature_layer_0_pre_scale_2/Variable:0: 	0.4265965
+feature_layer_0_pre_scale_3/Variable:0: 	0.4640515
+feature_layer_0_pre_scale_4/Variable:0: 	0.26012668
+feature_layer_0_pre_scale_5/Variable:0: 	0.4903104
+feature_layer_0_ext_scale/Variable:0: 	0.38838026
+feature_layer_0_ext_scale_1/Variable:0: 	0.2066362
+feature_layer_0_ext_scale_2/Variable:0: 	0.24748753
+feature_layer_0_ext_scale_3/Variable:0: 	0.28701702
+feature_layer_0_ext_scale_4/Variable:0: 	0.33547226
+feature_layer_0_0_in_scale_1/Variable:0: 	0.27613926
+feature_layer_0_1_in_scale_1/Variable:0: 	0.27163628
+feature_layer_0_2_in_scale_1/Variable:0: 	0.24844244
+feature_layer_0_3_in_scale_1/Variable:0: 	0.27501148
+feature_layer_0_4_in_scale_1/Variable:0: 	0.25545275
+feature_layer_0_5_in_scale_1/Variable:0: 	0.27833554
+feature_layer_0_6_in_scale_1/Variable:0: 	0.39323908
+feature_layer_0_7_in_scale_1/Variable:0: 	0.47546652
+feature_layer_0_8_in_scale_1/Variable:0: 	0.44679686
+feature_layer_0_9_in_scale_1/Variable:0: 	0.3610031
+feature_layer_0_10_in_scale_1/Variable:0: 	0.52650094
+feature_layer_0_pre_scale_6/Variable:0: 	0.5686943
+feature_layer_0_pre_scale_7/Variable:0: 	0.40823397
+feature_layer_0_pre_scale_8/Variable:0: 	0.4746769
+feature_layer_0_pre_scale_9/Variable:0: 	0.49360058
+feature_layer_0_pre_scale_10/Variable:0: 	0.5210684
+feature_layer_0_pre_scale_11/Variable:0: 	0.34988564
+feature_layer_0_ext_scale_5/Variable:0: 	0.78587294
+feature_layer_0_ext_scale_6/Variable:0: 	0.49790964
+feature_layer_0_ext_scale_7/Variable:0: 	0.45095718
+feature_layer_0_ext_scale_8/Variable:0: 	0.7286057
+feature_layer_0_ext_scale_9/Variable:0: 	0.49000135
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.229054
+step 200, current_acc 0.495216
+step 300, current_acc 0.742136
+step 400, current_acc 0.881800
+step 500, current_acc 0.961007
+step 600, current_acc 0.978867
+step 700, current_acc 0.987104
+step 800, current_acc 0.988615
+step 900, current_acc 0.991033
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.0117737865
+feature_layer_0_1_in_scale/Variable:0: 	0.039282773
+feature_layer_0_2_in_scale/Variable:0: 	0.5069605
+feature_layer_0_3_in_scale/Variable:0: 	0.3248817
+feature_layer_0_4_in_scale/Variable:0: 	0.2988737
+feature_layer_0_5_in_scale/Variable:0: 	0.6741385
+feature_layer_0_6_in_scale/Variable:0: 	0.07656755
+feature_layer_0_7_in_scale/Variable:0: 	0.12591171
+feature_layer_0_pre_scale/Variable:0: 	0.24507712
+feature_layer_0_pre_scale_1/Variable:0: 	0.20977072
+feature_layer_0_pre_scale_2/Variable:0: 	0.41155413
+feature_layer_0_pre_scale_3/Variable:0: 	0.4701207
+feature_layer_0_pre_scale_4/Variable:0: 	0.22790653
+feature_layer_0_pre_scale_5/Variable:0: 	0.36467305
+feature_layer_0_ext_scale/Variable:0: 	0.20007323
+feature_layer_0_ext_scale_1/Variable:0: 	0.31326267
+feature_layer_0_0_in_scale_1/Variable:0: 	0.26741296
+feature_layer_0_1_in_scale_1/Variable:0: 	0.2983796
+feature_layer_0_2_in_scale_1/Variable:0: 	0.2544188
+feature_layer_0_3_in_scale_1/Variable:0: 	0.29573315
+feature_layer_0_4_in_scale_1/Variable:0: 	0.3387528
+feature_layer_0_5_in_scale_1/Variable:0: 	0.30212
+feature_layer_0_6_in_scale_1/Variable:0: 	0.3389809
+feature_layer_0_7_in_scale_1/Variable:0: 	0.29025683
+feature_layer_0_pre_scale_6/Variable:0: 	0.6348422
+feature_layer_0_pre_scale_7/Variable:0: 	0.5611389
+feature_layer_0_pre_scale_8/Variable:0: 	0.45771646
+feature_layer_0_pre_scale_9/Variable:0: 	0.41936517
+feature_layer_0_pre_scale_10/Variable:0: 	0.40332067
+feature_layer_0_pre_scale_11/Variable:0: 	0.5355107
+feature_layer_0_ext_scale_2/Variable:0: 	0.5577739
+feature_layer_0_ext_scale_3/Variable:0: 	0.6920488
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.117443
+step 200, current_acc 0.438412
+step 300, current_acc 0.603169
+step 400, current_acc 0.724704
+step 500, current_acc 0.912665
+step 600, current_acc 0.964359
+step 700, current_acc 0.982749
+step 800, current_acc 0.986309
+step 900, current_acc 0.989922
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.17547317
+feature_layer_0_1_in_scale/Variable:0: 	0.04619378
+feature_layer_0_2_in_scale/Variable:0: 	-0.19223106
+feature_layer_0_3_in_scale/Variable:0: 	0.70113903
+feature_layer_0_4_in_scale/Variable:0: 	0.54594606
+feature_layer_0_5_in_scale/Variable:0: 	0.49112433
+feature_layer_0_6_in_scale/Variable:0: 	0.35182527
+feature_layer_0_7_in_scale/Variable:0: 	0.023635624
+feature_layer_0_8_in_scale/Variable:0: 	0.31160328
+feature_layer_0_9_in_scale/Variable:0: 	0.01347218
+feature_layer_0_10_in_scale/Variable:0: 	0.039246358
+feature_layer_0_11_in_scale/Variable:0: 	0.30857426
+feature_layer_0_12_in_scale/Variable:0: 	0.26625857
+feature_layer_0_13_in_scale/Variable:0: 	0.10119051
+feature_layer_0_14_in_scale/Variable:0: 	0.12185864
+feature_layer_0_pre_scale/Variable:0: 	0.19798997
+feature_layer_0_pre_scale_1/Variable:0: 	0.35113463
+feature_layer_0_pre_scale_2/Variable:0: 	0.11689329
+feature_layer_0_pre_scale_3/Variable:0: 	0.5630114
+feature_layer_0_pre_scale_4/Variable:0: 	0.24101691
+feature_layer_0_pre_scale_5/Variable:0: 	0.46260333
+feature_layer_0_ext_scale/Variable:0: 	0.24120218
+feature_layer_0_ext_scale_1/Variable:0: 	0.23256305
+feature_layer_0_ext_scale_2/Variable:0: 	0.3879154
+feature_layer_0_ext_scale_3/Variable:0: 	0.52045906
+feature_layer_0_ext_scale_4/Variable:0: 	0.45735547
+feature_layer_0_ext_scale_5/Variable:0: 	0.36383387
+feature_layer_0_ext_scale_6/Variable:0: 	0.33100742
+feature_layer_0_ext_scale_7/Variable:0: 	0.46430945
+feature_layer_0_ext_scale_8/Variable:0: 	0.21712476
+feature_layer_0_0_in_scale_1/Variable:0: 	0.29635197
+feature_layer_0_1_in_scale_1/Variable:0: 	0.29261324
+feature_layer_0_2_in_scale_1/Variable:0: 	0.29458964
+feature_layer_0_3_in_scale_1/Variable:0: 	0.285953
+feature_layer_0_4_in_scale_1/Variable:0: 	0.32096362
+feature_layer_0_5_in_scale_1/Variable:0: 	0.3288593
+feature_layer_0_6_in_scale_1/Variable:0: 	0.45744333
+feature_layer_0_7_in_scale_1/Variable:0: 	0.39909497
+feature_layer_0_8_in_scale_1/Variable:0: 	0.37982324
+feature_layer_0_9_in_scale_1/Variable:0: 	0.50568175
+feature_layer_0_10_in_scale_1/Variable:0: 	0.49708202
+feature_layer_0_11_in_scale_1/Variable:0: 	0.4412208
+feature_layer_0_12_in_scale_1/Variable:0: 	0.47435814
+feature_layer_0_13_in_scale_1/Variable:0: 	0.44028765
+feature_layer_0_14_in_scale_1/Variable:0: 	0.39724913
+feature_layer_0_pre_scale_6/Variable:0: 	0.52029526
+feature_layer_0_pre_scale_7/Variable:0: 	0.552808
+feature_layer_0_pre_scale_8/Variable:0: 	0.53949225
+feature_layer_0_pre_scale_9/Variable:0: 	0.47390264
+feature_layer_0_pre_scale_10/Variable:0: 	0.39602154
+feature_layer_0_pre_scale_11/Variable:0: 	0.3578574
+feature_layer_0_ext_scale_9/Variable:0: 	0.5767079
+feature_layer_0_ext_scale_10/Variable:0: 	0.505531
+feature_layer_0_ext_scale_11/Variable:0: 	0.50869447
+feature_layer_0_ext_scale_12/Variable:0: 	0.60151
+feature_layer_0_ext_scale_13/Variable:0: 	0.6085446
+feature_layer_0_ext_scale_14/Variable:0: 	0.5151531
+feature_layer_0_ext_scale_15/Variable:0: 	0.5099413
+feature_layer_0_ext_scale_16/Variable:0: 	0.45994505
+feature_layer_0_ext_scale_17/Variable:0: 	0.5272196
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.045825
+step 200, current_acc 0.456122
+step 300, current_acc 0.584288
+step 400, current_acc 0.720470
+step 500, current_acc 0.870675
+step 600, current_acc 0.935789
+step 700, current_acc 0.974437
+step 800, current_acc 0.984571
+step 900, current_acc 0.989558
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.005877378
+feature_layer_0_1_in_scale/Variable:0: 	0.011447779
+feature_layer_0_2_in_scale/Variable:0: 	0.21402784
+feature_layer_0_3_in_scale/Variable:0: 	0.33691442
+feature_layer_0_4_in_scale/Variable:0: 	0.08453361
+feature_layer_0_5_in_scale/Variable:0: 	0.3985529
+feature_layer_0_6_in_scale/Variable:0: 	0.0019083612
+feature_layer_0_7_in_scale/Variable:0: 	0.018847102
+feature_layer_0_8_in_scale/Variable:0: 	0.15177403
+feature_layer_0_9_in_scale/Variable:0: 	0.04449564
+feature_layer_0_pre_scale/Variable:0: 	0.44971204
+feature_layer_0_pre_scale_1/Variable:0: 	0.4065716
+feature_layer_0_pre_scale_2/Variable:0: 	0.42552567
+feature_layer_0_pre_scale_3/Variable:0: 	0.4628562
+feature_layer_0_pre_scale_4/Variable:0: 	0.3624602
+feature_layer_0_pre_scale_5/Variable:0: 	0.46381268
+feature_layer_0_ext_scale/Variable:0: 	0.3293806
+feature_layer_0_ext_scale_1/Variable:0: 	0.41482902
+feature_layer_0_ext_scale_2/Variable:0: 	0.32407764
+feature_layer_0_ext_scale_3/Variable:0: 	0.45453978
+feature_layer_0_0_in_scale_1/Variable:0: 	0.3851141
+feature_layer_0_1_in_scale_1/Variable:0: 	0.34586164
+feature_layer_0_2_in_scale_1/Variable:0: 	0.27728295
+feature_layer_0_3_in_scale_1/Variable:0: 	0.308429
+feature_layer_0_4_in_scale_1/Variable:0: 	0.2578146
+feature_layer_0_5_in_scale_1/Variable:0: 	0.31851438
+feature_layer_0_6_in_scale_1/Variable:0: 	0.45178607
+feature_layer_0_7_in_scale_1/Variable:0: 	0.51863205
+feature_layer_0_8_in_scale_1/Variable:0: 	0.51305145
+feature_layer_0_9_in_scale_1/Variable:0: 	0.50991935
+feature_layer_0_pre_scale_6/Variable:0: 	0.42321524
+feature_layer_0_pre_scale_7/Variable:0: 	0.5298421
+feature_layer_0_pre_scale_8/Variable:0: 	0.66882455
+feature_layer_0_pre_scale_9/Variable:0: 	0.41760346
+feature_layer_0_pre_scale_10/Variable:0: 	0.60666
+feature_layer_0_pre_scale_11/Variable:0: 	0.41399962
+feature_layer_0_ext_scale_4/Variable:0: 	0.70437163
+feature_layer_0_ext_scale_5/Variable:0: 	0.43789792
+feature_layer_0_ext_scale_6/Variable:0: 	0.6763267
+feature_layer_0_ext_scale_7/Variable:0: 	0.551207
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.397080
+step 200, current_acc 0.387340
+step 300, current_acc 0.572486
+step 400, current_acc 0.647848
+step 500, current_acc 0.843143
+step 600, current_acc 0.927904
+step 700, current_acc 0.968621
+step 800, current_acc 0.979201
+step 900, current_acc 0.985804
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.31125286
+feature_layer_0_1_in_scale/Variable:0: 	0.06911786
+feature_layer_0_2_in_scale/Variable:0: 	-0.32792822
+feature_layer_0_3_in_scale/Variable:0: 	-0.5096986
+feature_layer_0_4_in_scale/Variable:0: 	0.62229586
+feature_layer_0_5_in_scale/Variable:0: 	-0.28831017
+feature_layer_0_6_in_scale/Variable:0: 	-0.024593126
+feature_layer_0_7_in_scale/Variable:0: 	0.30263904
+feature_layer_0_8_in_scale/Variable:0: 	0.37099695
+feature_layer_0_9_in_scale/Variable:0: 	0.39232334
+feature_layer_0_10_in_scale/Variable:0: 	0.090611726
+feature_layer_0_11_in_scale/Variable:0: 	0.4447945
+feature_layer_0_12_in_scale/Variable:0: 	0.03471189
+feature_layer_0_13_in_scale/Variable:0: 	0.079362474
+feature_layer_0_14_in_scale/Variable:0: 	0.013878679
+feature_layer_0_pre_scale/Variable:0: 	0.2224683
+feature_layer_0_pre_scale_1/Variable:0: 	0.2518687
+feature_layer_0_pre_scale_2/Variable:0: 	0.36188275
+feature_layer_0_pre_scale_3/Variable:0: 	0.52545077
+feature_layer_0_pre_scale_4/Variable:0: 	0.40385312
+feature_layer_0_pre_scale_5/Variable:0: 	0.42062116
+feature_layer_0_ext_scale/Variable:0: 	0.53641564
+feature_layer_0_ext_scale_1/Variable:0: 	0.16027184
+feature_layer_0_ext_scale_2/Variable:0: 	0.3228706
+feature_layer_0_ext_scale_3/Variable:0: 	0.3788243
+feature_layer_0_ext_scale_4/Variable:0: 	0.41015375
+feature_layer_0_ext_scale_5/Variable:0: 	0.35911053
+feature_layer_0_ext_scale_6/Variable:0: 	0.494827
+feature_layer_0_ext_scale_7/Variable:0: 	0.34565604
+feature_layer_0_ext_scale_8/Variable:0: 	0.38207522
+feature_layer_0_0_in_scale_1/Variable:0: 	0.22576731
+feature_layer_0_1_in_scale_1/Variable:0: 	0.31532028
+feature_layer_0_2_in_scale_1/Variable:0: 	0.27883664
+feature_layer_0_3_in_scale_1/Variable:0: 	0.27799362
+feature_layer_0_4_in_scale_1/Variable:0: 	0.29687843
+feature_layer_0_5_in_scale_1/Variable:0: 	0.34820378
+feature_layer_0_6_in_scale_1/Variable:0: 	0.28242856
+feature_layer_0_7_in_scale_1/Variable:0: 	0.3982576
+feature_layer_0_8_in_scale_1/Variable:0: 	0.2744062
+feature_layer_0_9_in_scale_1/Variable:0: 	0.26712987
+feature_layer_0_10_in_scale_1/Variable:0: 	0.4054769
+feature_layer_0_11_in_scale_1/Variable:0: 	0.3680158
+feature_layer_0_12_in_scale_1/Variable:0: 	0.33478007
+feature_layer_0_13_in_scale_1/Variable:0: 	0.32213876
+feature_layer_0_14_in_scale_1/Variable:0: 	0.529815
+feature_layer_0_pre_scale_6/Variable:0: 	0.38624352
+feature_layer_0_pre_scale_7/Variable:0: 	0.5986677
+feature_layer_0_pre_scale_8/Variable:0: 	0.47669682
+feature_layer_0_pre_scale_9/Variable:0: 	0.3565691
+feature_layer_0_pre_scale_10/Variable:0: 	0.35166663
+feature_layer_0_pre_scale_11/Variable:0: 	0.44374213
+feature_layer_0_ext_scale_9/Variable:0: 	0.6106944
+feature_layer_0_ext_scale_10/Variable:0: 	0.60598385
+feature_layer_0_ext_scale_11/Variable:0: 	0.61649066
+feature_layer_0_ext_scale_12/Variable:0: 	0.52274644
+feature_layer_0_ext_scale_13/Variable:0: 	0.6657736
+feature_layer_0_ext_scale_14/Variable:0: 	0.645322
+feature_layer_0_ext_scale_15/Variable:0: 	0.58153087
+feature_layer_0_ext_scale_16/Variable:0: 	0.49985322
+feature_layer_0_ext_scale_17/Variable:0: 	0.4813174
+-----------------evolution results---------------- 
+[0.98831433, 0.9925997, 0.99251413, 0.9920029, 0.9919988, 0.98849666]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[4, 7]
+filter number in each module: only first evolution result is vaild !!!!!!
+4
+
+generation: 2, training_avg_acc: 0.992600, time_cost: 543.916247 s
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.577352
+step 200, current_acc 0.433590
+step 300, current_acc 0.643720
+step 400, current_acc 0.804567
+step 500, current_acc 0.937945
+step 600, current_acc 0.971167
+step 700, current_acc 0.983791
+step 800, current_acc 0.986315
+step 900, current_acc 0.989551
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.48726735
+feature_layer_0_1_in_scale/Variable:0: 	0.3850039
+feature_layer_0_2_in_scale/Variable:0: 	0.5309902
+feature_layer_0_3_in_scale/Variable:0: 	-0.4405909
+feature_layer_0_4_in_scale/Variable:0: 	0.451602
+feature_layer_0_5_in_scale/Variable:0: 	0.7175424
+feature_layer_0_6_in_scale/Variable:0: 	0.4622799
+feature_layer_0_7_in_scale/Variable:0: 	0.13747598
+feature_layer_0_8_in_scale/Variable:0: 	0.39205384
+feature_layer_0_9_in_scale/Variable:0: 	0.39960393
+feature_layer_0_pre_scale/Variable:0: 	0.20307568
+feature_layer_0_pre_scale_1/Variable:0: 	0.15579323
+feature_layer_0_pre_scale_2/Variable:0: 	0.41448176
+feature_layer_0_pre_scale_3/Variable:0: 	0.34726655
+feature_layer_0_pre_scale_4/Variable:0: 	0.25914624
+feature_layer_0_pre_scale_5/Variable:0: 	0.4100469
+feature_layer_0_ext_scale/Variable:0: 	0.26148558
+feature_layer_0_ext_scale_1/Variable:0: 	0.3236354
+feature_layer_0_ext_scale_2/Variable:0: 	0.44239792
+feature_layer_0_ext_scale_3/Variable:0: 	0.2946725
+feature_layer_0_0_in_scale_1/Variable:0: 	0.20831048
+feature_layer_0_1_in_scale_1/Variable:0: 	0.22071208
+feature_layer_0_2_in_scale_1/Variable:0: 	0.19784455
+feature_layer_0_3_in_scale_1/Variable:0: 	0.2048809
+feature_layer_0_4_in_scale_1/Variable:0: 	0.2247724
+feature_layer_0_5_in_scale_1/Variable:0: 	0.21174961
+feature_layer_0_6_in_scale_1/Variable:0: 	0.359651
+feature_layer_0_7_in_scale_1/Variable:0: 	0.33397445
+feature_layer_0_8_in_scale_1/Variable:0: 	0.2653005
+feature_layer_0_9_in_scale_1/Variable:0: 	0.25477332
+feature_layer_0_pre_scale_6/Variable:0: 	0.48587015
+feature_layer_0_pre_scale_7/Variable:0: 	0.45125934
+feature_layer_0_pre_scale_8/Variable:0: 	0.52053505
+feature_layer_0_pre_scale_9/Variable:0: 	0.52467483
+feature_layer_0_pre_scale_10/Variable:0: 	0.6054829
+feature_layer_0_pre_scale_11/Variable:0: 	0.46734387
+feature_layer_0_ext_scale_4/Variable:0: 	0.6436002
+feature_layer_0_ext_scale_5/Variable:0: 	0.6628768
+feature_layer_0_ext_scale_6/Variable:0: 	0.6292512
+feature_layer_0_ext_scale_7/Variable:0: 	0.7201182
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.110329
+step 200, current_acc 0.365805
+step 300, current_acc 0.539201
+step 400, current_acc 0.641632
+step 500, current_acc 0.853460
+step 600, current_acc 0.942012
+step 700, current_acc 0.975739
+step 800, current_acc 0.983346
+step 900, current_acc 0.988404
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.0058359746
+feature_layer_0_1_in_scale/Variable:0: 	0.025965057
+feature_layer_0_2_in_scale/Variable:0: 	0.30377594
+feature_layer_0_3_in_scale/Variable:0: 	0.29999194
+feature_layer_0_4_in_scale/Variable:0: 	0.25693735
+feature_layer_0_5_in_scale/Variable:0: 	0.34394702
+feature_layer_0_6_in_scale/Variable:0: 	0.09014112
+feature_layer_0_7_in_scale/Variable:0: 	0.0024779108
+feature_layer_0_8_in_scale/Variable:0: 	0.12825136
+feature_layer_0_9_in_scale/Variable:0: 	0.013641993
+feature_layer_0_10_in_scale/Variable:0: 	0.105096094
+feature_layer_0_11_in_scale/Variable:0: 	0.11069606
+feature_layer_0_12_in_scale/Variable:0: 	0.027768113
+feature_layer_0_13_in_scale/Variable:0: 	0.024940334
+feature_layer_0_14_in_scale/Variable:0: 	-0.024914281
+feature_layer_0_pre_scale/Variable:0: 	0.51298875
+feature_layer_0_pre_scale_1/Variable:0: 	0.57872117
+feature_layer_0_pre_scale_2/Variable:0: 	0.5344161
+feature_layer_0_pre_scale_3/Variable:0: 	0.56451946
+feature_layer_0_pre_scale_4/Variable:0: 	0.34898335
+feature_layer_0_pre_scale_5/Variable:0: 	0.5621247
+feature_layer_0_ext_scale/Variable:0: 	0.38217753
+feature_layer_0_ext_scale_1/Variable:0: 	0.6706944
+feature_layer_0_ext_scale_2/Variable:0: 	0.2469746
+feature_layer_0_ext_scale_3/Variable:0: 	0.44700548
+feature_layer_0_ext_scale_4/Variable:0: 	0.37057
+feature_layer_0_ext_scale_5/Variable:0: 	0.22390021
+feature_layer_0_ext_scale_6/Variable:0: 	0.6014486
+feature_layer_0_ext_scale_7/Variable:0: 	0.54766405
+feature_layer_0_ext_scale_8/Variable:0: 	0.5083875
+feature_layer_0_0_in_scale_1/Variable:0: 	0.32414967
+feature_layer_0_1_in_scale_1/Variable:0: 	0.38782626
+feature_layer_0_2_in_scale_1/Variable:0: 	0.4068636
+feature_layer_0_3_in_scale_1/Variable:0: 	0.36640394
+feature_layer_0_4_in_scale_1/Variable:0: 	0.38619882
+feature_layer_0_5_in_scale_1/Variable:0: 	0.37255096
+feature_layer_0_6_in_scale_1/Variable:0: 	0.56077105
+feature_layer_0_7_in_scale_1/Variable:0: 	0.34525797
+feature_layer_0_8_in_scale_1/Variable:0: 	0.49613237
+feature_layer_0_9_in_scale_1/Variable:0: 	0.52064526
+feature_layer_0_10_in_scale_1/Variable:0: 	0.52332073
+feature_layer_0_11_in_scale_1/Variable:0: 	0.54380834
+feature_layer_0_12_in_scale_1/Variable:0: 	0.42096466
+feature_layer_0_13_in_scale_1/Variable:0: 	0.52145356
+feature_layer_0_14_in_scale_1/Variable:0: 	0.4575548
+feature_layer_0_pre_scale_6/Variable:0: 	0.34401765
+feature_layer_0_pre_scale_7/Variable:0: 	0.6367717
+feature_layer_0_pre_scale_8/Variable:0: 	0.44734377
+feature_layer_0_pre_scale_9/Variable:0: 	0.3840068
+feature_layer_0_pre_scale_10/Variable:0: 	0.57050395
+feature_layer_0_pre_scale_11/Variable:0: 	0.55633116
+feature_layer_0_ext_scale_9/Variable:0: 	0.6702401
+feature_layer_0_ext_scale_10/Variable:0: 	0.65202457
+feature_layer_0_ext_scale_11/Variable:0: 	0.7048469
+feature_layer_0_ext_scale_12/Variable:0: 	0.59286684
+feature_layer_0_ext_scale_13/Variable:0: 	0.74198157
+feature_layer_0_ext_scale_14/Variable:0: 	0.62923634
+feature_layer_0_ext_scale_15/Variable:0: 	0.5324625
+feature_layer_0_ext_scale_16/Variable:0: 	0.52418447
+feature_layer_0_ext_scale_17/Variable:0: 	0.4772675
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.131805
+step 200, current_acc 0.492958
+step 300, current_acc 0.560511
+step 400, current_acc 0.701611
+step 500, current_acc 0.876903
+step 600, current_acc 0.941869
+step 700, current_acc 0.976481
+step 800, current_acc 0.984317
+step 900, current_acc 0.988586
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.03265702
+feature_layer_0_1_in_scale/Variable:0: 	0.061010297
+feature_layer_0_2_in_scale/Variable:0: 	-0.16106255
+feature_layer_0_3_in_scale/Variable:0: 	0.84450936
+feature_layer_0_4_in_scale/Variable:0: 	-0.12863314
+feature_layer_0_5_in_scale/Variable:0: 	0.45277917
+feature_layer_0_6_in_scale/Variable:0: 	0.027043728
+feature_layer_0_7_in_scale/Variable:0: 	0.1794169
+feature_layer_0_8_in_scale/Variable:0: 	0.027919738
+feature_layer_0_9_in_scale/Variable:0: 	0.06798406
+feature_layer_0_10_in_scale/Variable:0: 	0.39235064
+feature_layer_0_11_in_scale/Variable:0: 	0.016822863
+feature_layer_0_pre_scale/Variable:0: 	0.2421115
+feature_layer_0_pre_scale_1/Variable:0: 	0.39530897
+feature_layer_0_pre_scale_2/Variable:0: 	0.12873226
+feature_layer_0_pre_scale_3/Variable:0: 	0.53856623
+feature_layer_0_pre_scale_4/Variable:0: 	0.2321543
+feature_layer_0_pre_scale_5/Variable:0: 	0.44591978
+feature_layer_0_ext_scale/Variable:0: 	0.38339582
+feature_layer_0_ext_scale_1/Variable:0: 	0.21615754
+feature_layer_0_ext_scale_2/Variable:0: 	0.41371983
+feature_layer_0_ext_scale_3/Variable:0: 	0.42240477
+feature_layer_0_ext_scale_4/Variable:0: 	0.4356679
+feature_layer_0_ext_scale_5/Variable:0: 	0.46016592
+feature_layer_0_0_in_scale_1/Variable:0: 	0.28752705
+feature_layer_0_1_in_scale_1/Variable:0: 	0.31315255
+feature_layer_0_2_in_scale_1/Variable:0: 	0.2825642
+feature_layer_0_3_in_scale_1/Variable:0: 	0.38273656
+feature_layer_0_4_in_scale_1/Variable:0: 	0.38656524
+feature_layer_0_5_in_scale_1/Variable:0: 	0.30218238
+feature_layer_0_6_in_scale_1/Variable:0: 	0.43365347
+feature_layer_0_7_in_scale_1/Variable:0: 	0.30209956
+feature_layer_0_8_in_scale_1/Variable:0: 	0.3794214
+feature_layer_0_9_in_scale_1/Variable:0: 	0.4695096
+feature_layer_0_10_in_scale_1/Variable:0: 	0.47309142
+feature_layer_0_11_in_scale_1/Variable:0: 	0.49282604
+feature_layer_0_pre_scale_6/Variable:0: 	0.48254427
+feature_layer_0_pre_scale_7/Variable:0: 	0.38371232
+feature_layer_0_pre_scale_8/Variable:0: 	0.6262624
+feature_layer_0_pre_scale_9/Variable:0: 	0.31986475
+feature_layer_0_pre_scale_10/Variable:0: 	0.473115
+feature_layer_0_pre_scale_11/Variable:0: 	0.41431355
+feature_layer_0_ext_scale_6/Variable:0: 	0.6434568
+feature_layer_0_ext_scale_7/Variable:0: 	0.6988806
+feature_layer_0_ext_scale_8/Variable:0: 	0.7102565
+feature_layer_0_ext_scale_9/Variable:0: 	0.56000656
+feature_layer_0_ext_scale_10/Variable:0: 	0.5636713
+feature_layer_0_ext_scale_11/Variable:0: 	0.519292
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.583719
+step 200, current_acc 0.400821
+step 300, current_acc 0.590469
+step 400, current_acc 0.668441
+step 500, current_acc 0.870447
+step 600, current_acc 0.937075
+step 700, current_acc 0.970052
+step 800, current_acc 0.978356
+step 900, current_acc 0.984221
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.1443099
+feature_layer_0_1_in_scale/Variable:0: 	0.14664526
+feature_layer_0_2_in_scale/Variable:0: 	-0.3402642
+feature_layer_0_3_in_scale/Variable:0: 	-0.5093579
+feature_layer_0_4_in_scale/Variable:0: 	-0.35907075
+feature_layer_0_5_in_scale/Variable:0: 	-0.34760505
+feature_layer_0_6_in_scale/Variable:0: 	0.23275581
+feature_layer_0_7_in_scale/Variable:0: 	0.11689521
+feature_layer_0_8_in_scale/Variable:0: 	0.042913985
+feature_layer_0_9_in_scale/Variable:0: 	0.074538425
+feature_layer_0_10_in_scale/Variable:0: 	0.4093386
+feature_layer_0_11_in_scale/Variable:0: 	0.47851378
+feature_layer_0_12_in_scale/Variable:0: 	0.10793177
+feature_layer_0_13_in_scale/Variable:0: 	0.113184005
+feature_layer_0_pre_scale/Variable:0: 	0.2898974
+feature_layer_0_pre_scale_1/Variable:0: 	0.3537551
+feature_layer_0_pre_scale_2/Variable:0: 	0.43321073
+feature_layer_0_pre_scale_3/Variable:0: 	0.6373999
+feature_layer_0_pre_scale_4/Variable:0: 	0.3477217
+feature_layer_0_pre_scale_5/Variable:0: 	0.25784203
+feature_layer_0_ext_scale/Variable:0: 	0.44671884
+feature_layer_0_ext_scale_1/Variable:0: 	0.24023919
+feature_layer_0_ext_scale_2/Variable:0: 	0.3213234
+feature_layer_0_ext_scale_3/Variable:0: 	0.45936918
+feature_layer_0_ext_scale_4/Variable:0: 	0.27979463
+feature_layer_0_ext_scale_5/Variable:0: 	0.36816955
+feature_layer_0_ext_scale_6/Variable:0: 	0.3916914
+feature_layer_0_ext_scale_7/Variable:0: 	0.13341768
+feature_layer_0_0_in_scale_1/Variable:0: 	0.23978072
+feature_layer_0_1_in_scale_1/Variable:0: 	0.22201099
+feature_layer_0_2_in_scale_1/Variable:0: 	0.22119506
+feature_layer_0_3_in_scale_1/Variable:0: 	0.22739367
+feature_layer_0_4_in_scale_1/Variable:0: 	0.2805221
+feature_layer_0_5_in_scale_1/Variable:0: 	0.2238105
+feature_layer_0_6_in_scale_1/Variable:0: 	0.3846168
+feature_layer_0_7_in_scale_1/Variable:0: 	0.3880174
+feature_layer_0_8_in_scale_1/Variable:0: 	0.39109588
+feature_layer_0_9_in_scale_1/Variable:0: 	0.34965456
+feature_layer_0_10_in_scale_1/Variable:0: 	0.35758495
+feature_layer_0_11_in_scale_1/Variable:0: 	0.41883218
+feature_layer_0_12_in_scale_1/Variable:0: 	0.32394966
+feature_layer_0_13_in_scale_1/Variable:0: 	0.3596493
+feature_layer_0_pre_scale_6/Variable:0: 	0.35468766
+feature_layer_0_pre_scale_7/Variable:0: 	0.5268227
+feature_layer_0_pre_scale_8/Variable:0: 	0.4907637
+feature_layer_0_pre_scale_9/Variable:0: 	0.5181369
+feature_layer_0_pre_scale_10/Variable:0: 	0.35534492
+feature_layer_0_pre_scale_11/Variable:0: 	0.42895752
+feature_layer_0_ext_scale_8/Variable:0: 	0.5733571
+feature_layer_0_ext_scale_9/Variable:0: 	0.5980196
+feature_layer_0_ext_scale_10/Variable:0: 	0.56604135
+feature_layer_0_ext_scale_11/Variable:0: 	0.47566983
+feature_layer_0_ext_scale_12/Variable:0: 	0.6741405
+feature_layer_0_ext_scale_13/Variable:0: 	0.61966556
+feature_layer_0_ext_scale_14/Variable:0: 	0.5805197
+feature_layer_0_ext_scale_15/Variable:0: 	0.6332043
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.045452
+step 200, current_acc 0.499371
+step 300, current_acc 0.606066
+step 400, current_acc 0.777675
+step 500, current_acc 0.914006
+step 600, current_acc 0.951638
+step 700, current_acc 0.979192
+step 800, current_acc 0.986371
+step 900, current_acc 0.989938
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.0047079767
+feature_layer_0_1_in_scale/Variable:0: 	0.025932701
+feature_layer_0_2_in_scale/Variable:0: 	0.23934683
+feature_layer_0_3_in_scale/Variable:0: 	0.4367763
+feature_layer_0_4_in_scale/Variable:0: 	0.087093934
+feature_layer_0_5_in_scale/Variable:0: 	0.2359877
+feature_layer_0_6_in_scale/Variable:0: 	0.022952415
+feature_layer_0_7_in_scale/Variable:0: 	0.37376508
+feature_layer_0_8_in_scale/Variable:0: 	-0.005159307
+feature_layer_0_9_in_scale/Variable:0: 	0.12249271
+feature_layer_0_pre_scale/Variable:0: 	0.4898251
+feature_layer_0_pre_scale_1/Variable:0: 	0.33373493
+feature_layer_0_pre_scale_2/Variable:0: 	0.46071404
+feature_layer_0_pre_scale_3/Variable:0: 	0.51805234
+feature_layer_0_pre_scale_4/Variable:0: 	0.39781398
+feature_layer_0_pre_scale_5/Variable:0: 	0.47146934
+feature_layer_0_ext_scale/Variable:0: 	0.513147
+feature_layer_0_ext_scale_1/Variable:0: 	0.22129545
+feature_layer_0_ext_scale_2/Variable:0: 	0.5510428
+feature_layer_0_ext_scale_3/Variable:0: 	0.25220722
+feature_layer_0_0_in_scale_1/Variable:0: 	0.31110615
+feature_layer_0_1_in_scale_1/Variable:0: 	0.32322583
+feature_layer_0_2_in_scale_1/Variable:0: 	0.3132004
+feature_layer_0_3_in_scale_1/Variable:0: 	0.34850094
+feature_layer_0_4_in_scale_1/Variable:0: 	0.32685682
+feature_layer_0_5_in_scale_1/Variable:0: 	0.31045145
+feature_layer_0_6_in_scale_1/Variable:0: 	0.5160927
+feature_layer_0_7_in_scale_1/Variable:0: 	0.3726126
+feature_layer_0_8_in_scale_1/Variable:0: 	0.43824273
+feature_layer_0_9_in_scale_1/Variable:0: 	0.55403763
+feature_layer_0_pre_scale_6/Variable:0: 	0.44284585
+feature_layer_0_pre_scale_7/Variable:0: 	0.6125503
+feature_layer_0_pre_scale_8/Variable:0: 	0.36116952
+feature_layer_0_pre_scale_9/Variable:0: 	0.5294664
+feature_layer_0_pre_scale_10/Variable:0: 	0.42053187
+feature_layer_0_pre_scale_11/Variable:0: 	0.5456095
+feature_layer_0_ext_scale_4/Variable:0: 	0.47496963
+feature_layer_0_ext_scale_5/Variable:0: 	0.69214535
+feature_layer_0_ext_scale_6/Variable:0: 	0.61443335
+feature_layer_0_ext_scale_7/Variable:0: 	0.62123054
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.094761
+step 200, current_acc 0.416300
+step 300, current_acc 0.663494
+step 400, current_acc 0.854251
+step 500, current_acc 0.958109
+step 600, current_acc 0.979276
+step 700, current_acc 0.987264
+step 800, current_acc 0.988663
+step 900, current_acc 0.990930
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.036893304
+feature_layer_0_1_in_scale/Variable:0: 	0.004287284
+feature_layer_0_2_in_scale/Variable:0: 	0.53534156
+feature_layer_0_3_in_scale/Variable:0: 	0.4109761
+feature_layer_0_4_in_scale/Variable:0: 	0.12863657
+feature_layer_0_5_in_scale/Variable:0: 	0.49224895
+feature_layer_0_6_in_scale/Variable:0: 	0.38631523
+feature_layer_0_7_in_scale/Variable:0: 	0.037747726
+feature_layer_0_8_in_scale/Variable:0: 	0.43286422
+feature_layer_0_9_in_scale/Variable:0: 	0.5553719
+feature_layer_0_10_in_scale/Variable:0: 	0.037496623
+feature_layer_0_pre_scale/Variable:0: 	0.40544024
+feature_layer_0_pre_scale_1/Variable:0: 	0.3415788
+feature_layer_0_pre_scale_2/Variable:0: 	0.45183116
+feature_layer_0_pre_scale_3/Variable:0: 	0.50882137
+feature_layer_0_pre_scale_4/Variable:0: 	0.28193283
+feature_layer_0_pre_scale_5/Variable:0: 	0.37269026
+feature_layer_0_ext_scale/Variable:0: 	0.21594088
+feature_layer_0_ext_scale_1/Variable:0: 	0.45255634
+feature_layer_0_ext_scale_2/Variable:0: 	0.2240089
+feature_layer_0_ext_scale_3/Variable:0: 	0.26977205
+feature_layer_0_ext_scale_4/Variable:0: 	0.35587624
+feature_layer_0_0_in_scale_1/Variable:0: 	0.29758462
+feature_layer_0_1_in_scale_1/Variable:0: 	0.3059065
+feature_layer_0_2_in_scale_1/Variable:0: 	0.266519
+feature_layer_0_3_in_scale_1/Variable:0: 	0.27866957
+feature_layer_0_4_in_scale_1/Variable:0: 	0.2585551
+feature_layer_0_5_in_scale_1/Variable:0: 	0.28409258
+feature_layer_0_6_in_scale_1/Variable:0: 	0.40739498
+feature_layer_0_7_in_scale_1/Variable:0: 	0.52349424
+feature_layer_0_8_in_scale_1/Variable:0: 	0.4877161
+feature_layer_0_9_in_scale_1/Variable:0: 	0.5634876
+feature_layer_0_10_in_scale_1/Variable:0: 	0.4177531
+feature_layer_0_pre_scale_6/Variable:0: 	0.46417135
+feature_layer_0_pre_scale_7/Variable:0: 	0.4498675
+feature_layer_0_pre_scale_8/Variable:0: 	0.613946
+feature_layer_0_pre_scale_9/Variable:0: 	0.5811091
+feature_layer_0_pre_scale_10/Variable:0: 	0.5321842
+feature_layer_0_pre_scale_11/Variable:0: 	0.50764096
+feature_layer_0_ext_scale_5/Variable:0: 	0.54827625
+feature_layer_0_ext_scale_6/Variable:0: 	0.41288713
+feature_layer_0_ext_scale_7/Variable:0: 	0.48906493
+feature_layer_0_ext_scale_8/Variable:0: 	0.58659315
+feature_layer_0_ext_scale_9/Variable:0: 	0.627532
+-----------------evolution results---------------- 
+[0.99186033, 0.9908911, 0.9914103, 0.9877026, 0.9919729, 0.9923773]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[4, 7]
+filter number in each module: only first evolution result is vaild !!!!!!
+4
+
+generation: 3, training_avg_acc: 0.992377, time_cost: 559.254814 s
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.583683
+step 200, current_acc 0.498261
+step 300, current_acc 0.626267
+step 400, current_acc 0.704856
+step 500, current_acc 0.914332
+step 600, current_acc 0.963082
+step 700, current_acc 0.981431
+step 800, current_acc 0.984902
+step 900, current_acc 0.988769
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.58583856
+feature_layer_0_1_in_scale/Variable:0: 	0.047253482
+feature_layer_0_2_in_scale/Variable:0: 	0.32209253
+feature_layer_0_3_in_scale/Variable:0: 	-0.32813334
+feature_layer_0_4_in_scale/Variable:0: 	0.6687127
+feature_layer_0_5_in_scale/Variable:0: 	-0.2016321
+feature_layer_0_6_in_scale/Variable:0: 	0.02589075
+feature_layer_0_7_in_scale/Variable:0: 	0.07591617
+feature_layer_0_8_in_scale/Variable:0: 	0.057231065
+feature_layer_0_9_in_scale/Variable:0: 	0.41586068
+feature_layer_0_10_in_scale/Variable:0: 	0.05415214
+feature_layer_0_11_in_scale/Variable:0: 	0.30156308
+feature_layer_0_12_in_scale/Variable:0: 	0.13086799
+feature_layer_0_13_in_scale/Variable:0: 	0.041425586
+feature_layer_0_14_in_scale/Variable:0: 	0.08724414
+feature_layer_0_15_in_scale/Variable:0: 	0.25470534
+feature_layer_0_pre_scale/Variable:0: 	0.32023457
+feature_layer_0_pre_scale_1/Variable:0: 	0.33900452
+feature_layer_0_pre_scale_2/Variable:0: 	0.6243742
+feature_layer_0_pre_scale_3/Variable:0: 	0.48249167
+feature_layer_0_pre_scale_4/Variable:0: 	0.42498028
+feature_layer_0_pre_scale_5/Variable:0: 	0.27487746
+feature_layer_0_ext_scale/Variable:0: 	0.35144332
+feature_layer_0_ext_scale_1/Variable:0: 	0.37657574
+feature_layer_0_ext_scale_2/Variable:0: 	0.34213206
+feature_layer_0_ext_scale_3/Variable:0: 	0.3277325
+feature_layer_0_ext_scale_4/Variable:0: 	0.32019782
+feature_layer_0_ext_scale_5/Variable:0: 	0.28785974
+feature_layer_0_ext_scale_6/Variable:0: 	0.37992752
+feature_layer_0_ext_scale_7/Variable:0: 	0.4209823
+feature_layer_0_ext_scale_8/Variable:0: 	0.25841165
+feature_layer_0_ext_scale_9/Variable:0: 	0.19789153
+feature_layer_0_0_in_scale_1/Variable:0: 	0.23191957
+feature_layer_0_1_in_scale_1/Variable:0: 	0.29452732
+feature_layer_0_2_in_scale_1/Variable:0: 	0.26265016
+feature_layer_0_3_in_scale_1/Variable:0: 	0.26962134
+feature_layer_0_4_in_scale_1/Variable:0: 	0.23552655
+feature_layer_0_5_in_scale_1/Variable:0: 	0.31022587
+feature_layer_0_6_in_scale_1/Variable:0: 	0.28911
+feature_layer_0_7_in_scale_1/Variable:0: 	0.44639966
+feature_layer_0_8_in_scale_1/Variable:0: 	0.39025825
+feature_layer_0_9_in_scale_1/Variable:0: 	0.37104848
+feature_layer_0_10_in_scale_1/Variable:0: 	0.48160475
+feature_layer_0_11_in_scale_1/Variable:0: 	0.36139938
+feature_layer_0_12_in_scale_1/Variable:0: 	0.3725725
+feature_layer_0_13_in_scale_1/Variable:0: 	0.3613392
+feature_layer_0_14_in_scale_1/Variable:0: 	0.42526883
+feature_layer_0_15_in_scale_1/Variable:0: 	0.42468524
+feature_layer_0_pre_scale_6/Variable:0: 	0.43897188
+feature_layer_0_pre_scale_7/Variable:0: 	0.531853
+feature_layer_0_pre_scale_8/Variable:0: 	0.60632473
+feature_layer_0_pre_scale_9/Variable:0: 	0.5481796
+feature_layer_0_pre_scale_10/Variable:0: 	0.51320356
+feature_layer_0_pre_scale_11/Variable:0: 	0.62690526
+feature_layer_0_ext_scale_10/Variable:0: 	0.53302956
+feature_layer_0_ext_scale_11/Variable:0: 	0.4764568
+feature_layer_0_ext_scale_12/Variable:0: 	0.68465286
+feature_layer_0_ext_scale_13/Variable:0: 	0.6201355
+feature_layer_0_ext_scale_14/Variable:0: 	0.5596694
+feature_layer_0_ext_scale_15/Variable:0: 	0.5964927
+feature_layer_0_ext_scale_16/Variable:0: 	0.42522892
+feature_layer_0_ext_scale_17/Variable:0: 	0.49807277
+feature_layer_0_ext_scale_18/Variable:0: 	0.70834666
+feature_layer_0_ext_scale_19/Variable:0: 	0.6001996
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.487770
+step 200, current_acc 0.470399
+step 300, current_acc 0.637469
+step 400, current_acc 0.783800
+step 500, current_acc 0.925968
+step 600, current_acc 0.965770
+step 700, current_acc 0.981330
+step 800, current_acc 0.984516
+step 900, current_acc 0.987728
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.5261325
+feature_layer_0_1_in_scale/Variable:0: 	-0.1702081
+feature_layer_0_2_in_scale/Variable:0: 	-0.32217464
+feature_layer_0_3_in_scale/Variable:0: 	-0.3742392
+feature_layer_0_4_in_scale/Variable:0: 	0.60430133
+feature_layer_0_5_in_scale/Variable:0: 	-0.26076442
+feature_layer_0_6_in_scale/Variable:0: 	0.020488199
+feature_layer_0_7_in_scale/Variable:0: 	0.37622365
+feature_layer_0_8_in_scale/Variable:0: 	0.36957306
+feature_layer_0_9_in_scale/Variable:0: 	0.51563865
+feature_layer_0_10_in_scale/Variable:0: 	0.3468786
+feature_layer_0_11_in_scale/Variable:0: 	0.14200193
+feature_layer_0_12_in_scale/Variable:0: 	0.44598207
+feature_layer_0_13_in_scale/Variable:0: 	0.07149879
+feature_layer_0_14_in_scale/Variable:0: 	0.17622924
+feature_layer_0_pre_scale/Variable:0: 	0.3730333
+feature_layer_0_pre_scale_1/Variable:0: 	0.16871439
+feature_layer_0_pre_scale_2/Variable:0: 	0.2763817
+feature_layer_0_pre_scale_3/Variable:0: 	0.49445036
+feature_layer_0_pre_scale_4/Variable:0: 	0.3023663
+feature_layer_0_pre_scale_5/Variable:0: 	0.24797595
+feature_layer_0_ext_scale/Variable:0: 	0.32575518
+feature_layer_0_ext_scale_1/Variable:0: 	0.30545253
+feature_layer_0_ext_scale_2/Variable:0: 	0.29722607
+feature_layer_0_ext_scale_3/Variable:0: 	0.46973297
+feature_layer_0_ext_scale_4/Variable:0: 	0.27757674
+feature_layer_0_ext_scale_5/Variable:0: 	0.4375368
+feature_layer_0_ext_scale_6/Variable:0: 	0.3192771
+feature_layer_0_ext_scale_7/Variable:0: 	0.36869028
+feature_layer_0_ext_scale_8/Variable:0: 	0.31228182
+feature_layer_0_0_in_scale_1/Variable:0: 	0.21068479
+feature_layer_0_1_in_scale_1/Variable:0: 	0.2782552
+feature_layer_0_2_in_scale_1/Variable:0: 	0.22902705
+feature_layer_0_3_in_scale_1/Variable:0: 	0.2678519
+feature_layer_0_4_in_scale_1/Variable:0: 	0.2430687
+feature_layer_0_5_in_scale_1/Variable:0: 	0.27075362
+feature_layer_0_6_in_scale_1/Variable:0: 	0.33510813
+feature_layer_0_7_in_scale_1/Variable:0: 	0.29350376
+feature_layer_0_8_in_scale_1/Variable:0: 	0.30219498
+feature_layer_0_9_in_scale_1/Variable:0: 	0.45270777
+feature_layer_0_10_in_scale_1/Variable:0: 	0.41032484
+feature_layer_0_11_in_scale_1/Variable:0: 	0.36874667
+feature_layer_0_12_in_scale_1/Variable:0: 	0.37970072
+feature_layer_0_13_in_scale_1/Variable:0: 	0.33071145
+feature_layer_0_14_in_scale_1/Variable:0: 	0.50411826
+feature_layer_0_pre_scale_6/Variable:0: 	0.45691547
+feature_layer_0_pre_scale_7/Variable:0: 	0.44412
+feature_layer_0_pre_scale_8/Variable:0: 	0.52571845
+feature_layer_0_pre_scale_9/Variable:0: 	0.29990193
+feature_layer_0_pre_scale_10/Variable:0: 	0.57105803
+feature_layer_0_pre_scale_11/Variable:0: 	0.59169626
+feature_layer_0_ext_scale_9/Variable:0: 	0.49336755
+feature_layer_0_ext_scale_10/Variable:0: 	0.7308833
+feature_layer_0_ext_scale_11/Variable:0: 	0.68075174
+feature_layer_0_ext_scale_12/Variable:0: 	0.4121162
+feature_layer_0_ext_scale_13/Variable:0: 	0.53801644
+feature_layer_0_ext_scale_14/Variable:0: 	0.6273429
+feature_layer_0_ext_scale_15/Variable:0: 	0.64567506
+feature_layer_0_ext_scale_16/Variable:0: 	0.57500917
+feature_layer_0_ext_scale_17/Variable:0: 	0.42314222
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.163402
+step 200, current_acc 0.389974
+step 300, current_acc 0.578342
+step 400, current_acc 0.695307
+step 500, current_acc 0.880642
+step 600, current_acc 0.949268
+step 700, current_acc 0.975643
+step 800, current_acc 0.981366
+step 900, current_acc 0.986102
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.14571138
+feature_layer_0_1_in_scale/Variable:0: 	0.042216845
+feature_layer_0_2_in_scale/Variable:0: 	-0.2729714
+feature_layer_0_3_in_scale/Variable:0: 	-0.41489115
+feature_layer_0_4_in_scale/Variable:0: 	-0.30357736
+feature_layer_0_5_in_scale/Variable:0: 	-0.014466476
+feature_layer_0_6_in_scale/Variable:0: 	0.006271865
+feature_layer_0_7_in_scale/Variable:0: 	0.39473775
+feature_layer_0_8_in_scale/Variable:0: 	0.091647565
+feature_layer_0_9_in_scale/Variable:0: 	0.12642524
+feature_layer_0_10_in_scale/Variable:0: 	0.051758584
+feature_layer_0_11_in_scale/Variable:0: 	0.39218783
+feature_layer_0_pre_scale/Variable:0: 	0.3234201
+feature_layer_0_pre_scale_1/Variable:0: 	0.22495708
+feature_layer_0_pre_scale_2/Variable:0: 	0.33886364
+feature_layer_0_pre_scale_3/Variable:0: 	0.49511576
+feature_layer_0_pre_scale_4/Variable:0: 	0.2560409
+feature_layer_0_pre_scale_5/Variable:0: 	0.32666814
+feature_layer_0_ext_scale/Variable:0: 	0.49334532
+feature_layer_0_ext_scale_1/Variable:0: 	0.3780788
+feature_layer_0_ext_scale_2/Variable:0: 	0.2971799
+feature_layer_0_ext_scale_3/Variable:0: 	0.48703295
+feature_layer_0_ext_scale_4/Variable:0: 	0.4252304
+feature_layer_0_ext_scale_5/Variable:0: 	0.42842424
+feature_layer_0_0_in_scale_1/Variable:0: 	0.23208293
+feature_layer_0_1_in_scale_1/Variable:0: 	0.28741693
+feature_layer_0_2_in_scale_1/Variable:0: 	0.35519874
+feature_layer_0_3_in_scale_1/Variable:0: 	0.2933133
+feature_layer_0_4_in_scale_1/Variable:0: 	0.3368322
+feature_layer_0_5_in_scale_1/Variable:0: 	0.28465566
+feature_layer_0_6_in_scale_1/Variable:0: 	0.37165335
+feature_layer_0_7_in_scale_1/Variable:0: 	0.44082603
+feature_layer_0_8_in_scale_1/Variable:0: 	0.47902587
+feature_layer_0_9_in_scale_1/Variable:0: 	0.35699132
+feature_layer_0_10_in_scale_1/Variable:0: 	0.53414035
+feature_layer_0_11_in_scale_1/Variable:0: 	0.3283524
+feature_layer_0_pre_scale_6/Variable:0: 	0.58257926
+feature_layer_0_pre_scale_7/Variable:0: 	0.49524167
+feature_layer_0_pre_scale_8/Variable:0: 	0.34350783
+feature_layer_0_pre_scale_9/Variable:0: 	0.560046
+feature_layer_0_pre_scale_10/Variable:0: 	0.5058202
+feature_layer_0_pre_scale_11/Variable:0: 	0.48889694
+feature_layer_0_ext_scale_6/Variable:0: 	0.5631105
+feature_layer_0_ext_scale_7/Variable:0: 	0.60666037
+feature_layer_0_ext_scale_8/Variable:0: 	0.68325216
+feature_layer_0_ext_scale_9/Variable:0: 	0.51950145
+feature_layer_0_ext_scale_10/Variable:0: 	0.5759602
+feature_layer_0_ext_scale_11/Variable:0: 	0.7290511
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.515750
+step 200, current_acc 0.325532
+step 300, current_acc 0.543256
+step 400, current_acc 0.620654
+step 500, current_acc 0.855998
+step 600, current_acc 0.942608
+step 700, current_acc 0.976046
+step 800, current_acc 0.983559
+step 900, current_acc 0.988016
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.25660565
+feature_layer_0_1_in_scale/Variable:0: 	0.050289556
+feature_layer_0_2_in_scale/Variable:0: 	-0.29846585
+feature_layer_0_3_in_scale/Variable:0: 	0.7345638
+feature_layer_0_4_in_scale/Variable:0: 	-0.3655846
+feature_layer_0_5_in_scale/Variable:0: 	0.6150938
+feature_layer_0_6_in_scale/Variable:0: 	0.48087025
+feature_layer_0_7_in_scale/Variable:0: 	0.28969723
+feature_layer_0_8_in_scale/Variable:0: 	0.028164987
+feature_layer_0_9_in_scale/Variable:0: 	0.05346354
+feature_layer_0_10_in_scale/Variable:0: 	0.41777578
+feature_layer_0_11_in_scale/Variable:0: 	0.31231317
+feature_layer_0_12_in_scale/Variable:0: 	0.03896312
+feature_layer_0_13_in_scale/Variable:0: 	0.040598467
+feature_layer_0_14_in_scale/Variable:0: 	0.17246304
+feature_layer_0_pre_scale/Variable:0: 	0.14858125
+feature_layer_0_pre_scale_1/Variable:0: 	0.43836582
+feature_layer_0_pre_scale_2/Variable:0: 	0.37465623
+feature_layer_0_pre_scale_3/Variable:0: 	0.6179937
+feature_layer_0_pre_scale_4/Variable:0: 	0.32386503
+feature_layer_0_pre_scale_5/Variable:0: 	0.46085304
+feature_layer_0_ext_scale/Variable:0: 	0.29047662
+feature_layer_0_ext_scale_1/Variable:0: 	0.3190507
+feature_layer_0_ext_scale_2/Variable:0: 	0.4195306
+feature_layer_0_ext_scale_3/Variable:0: 	0.40040025
+feature_layer_0_ext_scale_4/Variable:0: 	0.31525502
+feature_layer_0_ext_scale_5/Variable:0: 	0.21649459
+feature_layer_0_ext_scale_6/Variable:0: 	0.339506
+feature_layer_0_ext_scale_7/Variable:0: 	0.43602386
+feature_layer_0_ext_scale_8/Variable:0: 	0.34818205
+feature_layer_0_0_in_scale_1/Variable:0: 	0.23955187
+feature_layer_0_1_in_scale_1/Variable:0: 	0.31163394
+feature_layer_0_2_in_scale_1/Variable:0: 	0.24902025
+feature_layer_0_3_in_scale_1/Variable:0: 	0.24026994
+feature_layer_0_4_in_scale_1/Variable:0: 	0.29068765
+feature_layer_0_5_in_scale_1/Variable:0: 	0.25182512
+feature_layer_0_6_in_scale_1/Variable:0: 	0.3701257
+feature_layer_0_7_in_scale_1/Variable:0: 	0.3089253
+feature_layer_0_8_in_scale_1/Variable:0: 	0.3934477
+feature_layer_0_9_in_scale_1/Variable:0: 	0.3025553
+feature_layer_0_10_in_scale_1/Variable:0: 	0.42867485
+feature_layer_0_11_in_scale_1/Variable:0: 	0.2537648
+feature_layer_0_12_in_scale_1/Variable:0: 	0.41670486
+feature_layer_0_13_in_scale_1/Variable:0: 	0.37394983
+feature_layer_0_14_in_scale_1/Variable:0: 	0.29534552
+feature_layer_0_pre_scale_6/Variable:0: 	0.42012545
+feature_layer_0_pre_scale_7/Variable:0: 	0.24999577
+feature_layer_0_pre_scale_8/Variable:0: 	0.43760493
+feature_layer_0_pre_scale_9/Variable:0: 	0.39792067
+feature_layer_0_pre_scale_10/Variable:0: 	0.37112436
+feature_layer_0_pre_scale_11/Variable:0: 	0.5626754
+feature_layer_0_ext_scale_9/Variable:0: 	0.49860752
+feature_layer_0_ext_scale_10/Variable:0: 	0.6409666
+feature_layer_0_ext_scale_11/Variable:0: 	0.51718014
+feature_layer_0_ext_scale_12/Variable:0: 	0.6020882
+feature_layer_0_ext_scale_13/Variable:0: 	0.65649104
+feature_layer_0_ext_scale_14/Variable:0: 	0.7053558
+feature_layer_0_ext_scale_15/Variable:0: 	0.49548241
+feature_layer_0_ext_scale_16/Variable:0: 	0.57484025
+feature_layer_0_ext_scale_17/Variable:0: 	0.6382084
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.577332
+step 200, current_acc 0.375509
+step 300, current_acc 0.562255
+step 400, current_acc 0.676500
+step 500, current_acc 0.871666
+step 600, current_acc 0.948267
+step 700, current_acc 0.975376
+step 800, current_acc 0.982369
+step 900, current_acc 0.987413
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.08884721
+feature_layer_0_1_in_scale/Variable:0: 	0.066641845
+feature_layer_0_2_in_scale/Variable:0: 	-0.18463604
+feature_layer_0_3_in_scale/Variable:0: 	0.34559804
+feature_layer_0_4_in_scale/Variable:0: 	-0.27312094
+feature_layer_0_5_in_scale/Variable:0: 	0.71861976
+feature_layer_0_6_in_scale/Variable:0: 	0.18232945
+feature_layer_0_7_in_scale/Variable:0: 	0.028582344
+feature_layer_0_8_in_scale/Variable:0: 	0.21233733
+feature_layer_0_9_in_scale/Variable:0: 	0.3499842
+feature_layer_0_pre_scale/Variable:0: 	0.30957717
+feature_layer_0_pre_scale_1/Variable:0: 	0.3868947
+feature_layer_0_pre_scale_2/Variable:0: 	0.25597093
+feature_layer_0_pre_scale_3/Variable:0: 	0.57334083
+feature_layer_0_pre_scale_4/Variable:0: 	0.26588556
+feature_layer_0_pre_scale_5/Variable:0: 	0.3375521
+feature_layer_0_ext_scale/Variable:0: 	0.2885946
+feature_layer_0_ext_scale_1/Variable:0: 	0.37899607
+feature_layer_0_ext_scale_2/Variable:0: 	0.21446913
+feature_layer_0_ext_scale_3/Variable:0: 	0.28183126
+feature_layer_0_0_in_scale_1/Variable:0: 	0.21907265
+feature_layer_0_1_in_scale_1/Variable:0: 	0.2729513
+feature_layer_0_2_in_scale_1/Variable:0: 	0.23864554
+feature_layer_0_3_in_scale_1/Variable:0: 	0.23266222
+feature_layer_0_4_in_scale_1/Variable:0: 	0.25728
+feature_layer_0_5_in_scale_1/Variable:0: 	0.30186424
+feature_layer_0_6_in_scale_1/Variable:0: 	0.26037332
+feature_layer_0_7_in_scale_1/Variable:0: 	0.34004006
+feature_layer_0_8_in_scale_1/Variable:0: 	0.3233959
+feature_layer_0_9_in_scale_1/Variable:0: 	0.4513754
+feature_layer_0_pre_scale_6/Variable:0: 	0.5808692
+feature_layer_0_pre_scale_7/Variable:0: 	0.44370157
+feature_layer_0_pre_scale_8/Variable:0: 	0.5279072
+feature_layer_0_pre_scale_9/Variable:0: 	0.42292202
+feature_layer_0_pre_scale_10/Variable:0: 	0.5358703
+feature_layer_0_pre_scale_11/Variable:0: 	0.3474449
+feature_layer_0_ext_scale_4/Variable:0: 	0.6194435
+feature_layer_0_ext_scale_5/Variable:0: 	0.6645364
+feature_layer_0_ext_scale_6/Variable:0: 	0.80897206
+feature_layer_0_ext_scale_7/Variable:0: 	0.6183923
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.153689
+step 200, current_acc 0.540350
+step 300, current_acc 0.673700
+step 400, current_acc 0.838740
+step 500, current_acc 0.942341
+step 600, current_acc 0.971178
+step 700, current_acc 0.984868
+step 800, current_acc 0.987949
+step 900, current_acc 0.990648
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	0.15252481
+feature_layer_0_1_in_scale/Variable:0: 	0.041055426
+feature_layer_0_2_in_scale/Variable:0: 	0.7149171
+feature_layer_0_3_in_scale/Variable:0: 	0.6073178
+feature_layer_0_4_in_scale/Variable:0: 	0.07559028
+feature_layer_0_5_in_scale/Variable:0: 	0.43212143
+feature_layer_0_6_in_scale/Variable:0: 	0.12026733
+feature_layer_0_7_in_scale/Variable:0: 	0.034039825
+feature_layer_0_8_in_scale/Variable:0: 	0.0131190615
+feature_layer_0_9_in_scale/Variable:0: 	0.05561417
+feature_layer_0_10_in_scale/Variable:0: 	0.06239009
+feature_layer_0_pre_scale/Variable:0: 	0.15497488
+feature_layer_0_pre_scale_1/Variable:0: 	0.3043447
+feature_layer_0_pre_scale_2/Variable:0: 	0.42879725
+feature_layer_0_pre_scale_3/Variable:0: 	0.43896934
+feature_layer_0_pre_scale_4/Variable:0: 	0.33786875
+feature_layer_0_pre_scale_5/Variable:0: 	0.36063352
+feature_layer_0_ext_scale/Variable:0: 	0.22391379
+feature_layer_0_ext_scale_1/Variable:0: 	0.5318076
+feature_layer_0_ext_scale_2/Variable:0: 	0.5250251
+feature_layer_0_ext_scale_3/Variable:0: 	0.41913158
+feature_layer_0_ext_scale_4/Variable:0: 	0.19588599
+feature_layer_0_0_in_scale_1/Variable:0: 	0.39561918
+feature_layer_0_1_in_scale_1/Variable:0: 	0.34118053
+feature_layer_0_2_in_scale_1/Variable:0: 	0.32188413
+feature_layer_0_3_in_scale_1/Variable:0: 	0.33142042
+feature_layer_0_4_in_scale_1/Variable:0: 	0.36579448
+feature_layer_0_5_in_scale_1/Variable:0: 	0.3614276
+feature_layer_0_6_in_scale_1/Variable:0: 	0.5636815
+feature_layer_0_7_in_scale_1/Variable:0: 	0.58245945
+feature_layer_0_8_in_scale_1/Variable:0: 	0.43550843
+feature_layer_0_9_in_scale_1/Variable:0: 	0.5903439
+feature_layer_0_10_in_scale_1/Variable:0: 	0.53474677
+feature_layer_0_pre_scale_6/Variable:0: 	0.50355995
+feature_layer_0_pre_scale_7/Variable:0: 	0.42870736
+feature_layer_0_pre_scale_8/Variable:0: 	0.5586047
+feature_layer_0_pre_scale_9/Variable:0: 	0.4811139
+feature_layer_0_pre_scale_10/Variable:0: 	0.33148062
+feature_layer_0_pre_scale_11/Variable:0: 	0.65912217
+feature_layer_0_ext_scale_5/Variable:0: 	0.7262613
+feature_layer_0_ext_scale_6/Variable:0: 	0.559123
+feature_layer_0_ext_scale_7/Variable:0: 	0.58017874
+feature_layer_0_ext_scale_8/Variable:0: 	0.54943365
+feature_layer_0_ext_scale_9/Variable:0: 	0.47296613
+-----------------evolution results---------------- 
+[0.990245, 0.98958504, 0.9886466, 0.99078923, 0.98960173, 0.9920828]
+best extend structure: 
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[5, 8]
+filter number in each module: only first evolution result is vaild !!!!!!
+6
+
+generation: 4, training_avg_acc: 0.992083, time_cost: 588.029152 s
+
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[11, 14]
+filter number in each module: only first evolution result is vaild !!!!!!
+8
+
+Tensor("output_layer/Wx_plus_b/add:0", shape=(256, 2), dtype=float32)
+step 100, current_acc 0.046704
+step 200, current_acc 0.374478
+step 300, current_acc 0.538613
+step 400, current_acc 0.657591
+step 500, current_acc 0.838645
+step 600, current_acc 0.932549
+step 700, current_acc 0.973059
+step 800, current_acc 0.983510
+step 900, current_acc 0.988910
+step 1000, current_acc 0.991684
+step 1100, current_acc 0.992058
+step 1200, current_acc 0.993229
+step 1300, current_acc 0.993177
+step 1400, current_acc 0.993666
+step 1500, current_acc 0.994108
+step 1600, current_acc 0.993912
+step 1700, current_acc 0.994723
+step 1800, current_acc 0.994580
+step 1900, current_acc 0.994841
+step 2000, current_acc 0.995202
+step 2100, current_acc 0.995061
+step 2200, current_acc 0.995311
+step 2300, current_acc 0.995304
+step 2400, current_acc 0.995553
+step 2500, current_acc 0.995707
+step 2600, current_acc 0.995801
+step 2700, current_acc 0.995723
+step 2800, current_acc 0.995720
+step 2900, current_acc 0.995543
+step 3000, current_acc 0.995698
+step 3100, current_acc 0.995695
+step 3200, current_acc 0.996038
+step 3300, current_acc 0.996259
+step 3400, current_acc 0.996221
+step 3500, current_acc 0.996342
+step 3600, current_acc 0.996143
+step 3700, current_acc 0.996001
+step 3800, current_acc 0.995938
+step 3900, current_acc 0.960885
+step 4000, current_acc 0.910651
+step 4100, current_acc 0.931837
+step 4200, current_acc 0.948001
+step 4300, current_acc 0.960241
+step 4400, current_acc 0.969114
+step 4500, current_acc 0.976017
+step 4600, current_acc 0.981139
+step 4700, current_acc 0.985108
+step 4800, current_acc 0.987993
+step 4900, current_acc 0.990044
+saving...  done.
+---------------scales----------------------
+feature_layer_0_0_in_scale/Variable:0: 	-0.0925738
+feature_layer_0_1_in_scale/Variable:0: 	0.037774812
+feature_layer_0_2_in_scale/Variable:0: 	0.603309
+feature_layer_0_3_in_scale/Variable:0: 	0.80892843
+feature_layer_0_4_in_scale/Variable:0: 	0.25547323
+feature_layer_0_5_in_scale/Variable:0: 	0.34803092
+feature_layer_0_6_in_scale/Variable:0: 	0.15588713
+feature_layer_0_7_in_scale/Variable:0: 	0.10929616
+feature_layer_0_8_in_scale/Variable:0: 	0.007934066
+feature_layer_0_9_in_scale/Variable:0: 	-0.19295768
+feature_layer_0_10_in_scale/Variable:0: 	-0.108918875
+feature_layer_0_pre_scale/Variable:0: 	-0.09348876
+feature_layer_0_pre_scale_1/Variable:0: 	-0.0025833033
+feature_layer_0_pre_scale_2/Variable:0: 	0.569628
+feature_layer_0_pre_scale_3/Variable:0: 	0.60177726
+feature_layer_0_pre_scale_4/Variable:0: 	0.23698525
+feature_layer_0_pre_scale_5/Variable:0: 	0.3703209
+feature_layer_0_ext_scale/Variable:0: 	0.09366927
+feature_layer_0_ext_scale_1/Variable:0: 	-0.06782299
+feature_layer_0_ext_scale_2/Variable:0: 	0.010644793
+feature_layer_0_ext_scale_3/Variable:0: 	0.08899947
+feature_layer_0_ext_scale_4/Variable:0: 	0.08909377
+feature_layer_0_0_in_scale_1/Variable:0: 	-0.24411732
+feature_layer_0_1_in_scale_1/Variable:0: 	0.2875003
+feature_layer_0_2_in_scale_1/Variable:0: 	0.26562527
+feature_layer_0_3_in_scale_1/Variable:0: 	0.2570055
+feature_layer_0_4_in_scale_1/Variable:0: 	-0.17081414
+feature_layer_0_5_in_scale_1/Variable:0: 	-0.16563277
+feature_layer_0_6_in_scale_1/Variable:0: 	-0.19554187
+feature_layer_0_7_in_scale_1/Variable:0: 	-0.262704
+feature_layer_0_8_in_scale_1/Variable:0: 	-0.21871625
+feature_layer_0_9_in_scale_1/Variable:0: 	-0.23399186
+feature_layer_0_10_in_scale_1/Variable:0: 	0.30080995
+feature_layer_0_pre_scale_6/Variable:0: 	0.70609707
+feature_layer_0_pre_scale_7/Variable:0: 	0.9376281
+feature_layer_0_pre_scale_8/Variable:0: 	0.8401977
+feature_layer_0_pre_scale_9/Variable:0: 	0.74702555
+feature_layer_0_pre_scale_10/Variable:0: 	0.41121766
+feature_layer_0_pre_scale_11/Variable:0: 	0.68841153
+feature_layer_0_ext_scale_5/Variable:0: 	0.74323094
+feature_layer_0_ext_scale_6/Variable:0: 	0.441783
+feature_layer_0_ext_scale_7/Variable:0: 	0.49357533
+feature_layer_0_ext_scale_8/Variable:0: 	0.573348
+feature_layer_0_ext_scale_9/Variable:0: 	0.814428
+------------------transfer results------------------
+best structure training_avg_acc 0.9916443
+feature array, 0 - conv and 1 - pooling: 
+[1]
+Used feature layer number: 
+1
+full connection layer number: 
+0
+module number in each layer: 
+[11, 14]
+filter number in each module: only first evolution result is vaild !!!!!!
+8
+
+compurtation_of_network :  117600.0
+
