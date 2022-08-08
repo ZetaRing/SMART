@@ -1,2 +1,2 @@
 # SMART
-SMART: Self-organized Multitask Resilient Learning
+SMART: Self-organized Multitask Accelerate Resilient Learning
